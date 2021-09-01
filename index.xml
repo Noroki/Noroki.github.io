@@ -14,6 +14,16 @@
         <guid>https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/</guid>
         <description>&lt;img src="https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4.png" alt="Featured image of post 攻擊戰이다" /&gt;
 
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/xmAS-eDROmQ&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
 &lt;h3 id=&#34;1&#34;&gt;1&lt;/h3&gt;
 
 &lt;p&gt;&lt;ruby&gt;
@@ -148,11 +158,15 @@
         <guid>https://noroki.github.io/p/%E3%81%82%E3%82%93%E3%81%9A%E3%81%AE%E8%8A%B1/</guid>
         <description>&lt;img src="https://noroki.github.io/p/%E3%81%82%E3%82%93%E3%81%9A%E3%81%AE%E8%8A%B1/Anzu.jpeg" alt="Featured image of post あんずの花" /&gt;
 
-&lt;div&gt;
-    &lt;a href=&#34;https://www.youtube.com/watch?v=GwT1fiWepTU&#34;&gt;
-        &lt;img src=&#34;AnzuNoHana_Nene.jfif&#34;&gt;
-    &lt;/a&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/GwT1fiWepTU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
 &lt;/div&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;すりぃ&lt;/p&gt;
@@ -220,11 +234,15 @@
         <guid>https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/</guid>
         <description>&lt;img src="https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/inochi_miku.jpg" alt="Featured image of post 命に嫌われて居る。" /&gt;
 
-&lt;div&gt;
-    &lt;a href=&#34;https://www.youtube.com/watch?v=0HYm60Mjm0k&#34;&gt;
-        &lt;img src=&#34;inochi_miku.jpg&#34;&gt;
-    &lt;/a&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/0HYm60Mjm0k&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
 &lt;/div&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;初音ミク&lt;/p&gt;
