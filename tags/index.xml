@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 呪木　試観</title>
+    <title>Tags on 泛物齋</title>
     <link>https://noroki.github.io/tags/</link>
-    <description>Recent content in Tags on 呪木　試観</description>
+    <description>Recent content in Tags on 泛物齋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://noroki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://noroki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lyric</title>
+      <link>https://noroki.github.io/tags/lyric/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://noroki.github.io/tags/lyric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日本語</title>
+      <link>https://noroki.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://noroki.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>css</title>
       <link>https://noroki.github.io/tags/css/</link>
