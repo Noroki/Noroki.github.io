@@ -1,37 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Noroki</title>
-        <link>https://noroki.github.io/posts/</link>
-        <description>Recent content in Posts on Noroki</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Wed, 01 Sep 2021 14:07:40 +0800</lastBuildDate>
-        <atom:link href="https://noroki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>My First Post</title>
-            <link>https://noroki.github.io/posts/docs/my-first-post/</link>
-            <pubDate>Wed, 01 Sep 2021 14:07:40 +0800</pubDate>
-            
-            <guid>https://noroki.github.io/posts/docs/my-first-post/</guid>
-            <description>#Testing This my first blog on Hugo</description>
-            <content type="html"><![CDATA[<p>#Testing
-This my first blog on Hugo</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>My First Post</title>
-            <link>https://noroki.github.io/posts/my-first-post/</link>
-            <pubDate>Wed, 01 Sep 2021 14:07:40 +0800</pubDate>
-            
-            <guid>https://noroki.github.io/posts/my-first-post/</guid>
-            <description>#Testing This my first blog on Hugo</description>
-            <content type="html"><![CDATA[<p>#Testing
-This my first blog on Hugo</p>
-]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on Noroki</title>
+    <link>https://noroki.github.io/posts/</link>
+    <description>Recent content in Posts on Noroki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 14:07:40 +0800</lastBuildDate><atom:link href="https://noroki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://noroki.github.io/posts/docs/my-first-post/</link>
+      <pubDate>Wed, 01 Sep 2021 14:07:40 +0800</pubDate>
+      
+      <guid>https://noroki.github.io/posts/docs/my-first-post/</guid>
+      <description>#Testing This my first blog on Hugo</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://noroki.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 01 Sep 2021 14:07:40 +0800</pubDate>
+      
+      <guid>https://noroki.github.io/posts/my-first-post/</guid>
+      <description>#Testing This my first blog on Hugo</description>
+    </item>
+    
+  </channel>
 </rss>
