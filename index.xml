@@ -6,7 +6,26 @@
     <description>Recent content on Noroki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 01 Sep 2021 14:07:40 +0800</lastBuildDate><atom:link href="https://noroki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://noroki.github.io/about/</link>
+      <pubDate>Wed, 01 Sep 2021 14:07:40 +0800</pubDate>
+      
+      <guid>https://noroki.github.io/about/</guid>
+      <description>#Testing This my first blog on Hugo</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://noroki.github.io/posts/docs/my-first-post/</link>
+      <pubDate>Wed, 01 Sep 2021 14:07:40 +0800</pubDate>
+      
+      <guid>https://noroki.github.io/posts/docs/my-first-post/</guid>
+      <description>#Testing This my first blog on Hugo</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://noroki.github.io/posts/my-first-post/</link>

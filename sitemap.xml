@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noroki.github.io/about/</loc>
+    <lastmod>2021-09-01T14:07:40+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/posts/docs/my-first-post/</loc>
+    <lastmod>2021-09-01T14:07:40+08:00</lastmod>
+  </url><url>
     <loc>https://noroki.github.io/posts/my-first-post/</loc>
     <lastmod>2021-09-01T14:07:40+08:00</lastmod>
   </url><url>
@@ -17,6 +23,8 @@
     <loc>https://noroki.github.io/tags/untagged/</loc>
     <lastmod>2021-09-01T14:07:40+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/categories/</loc>
+    <loc>https://noroki.github.io/blog/</loc>
+  </url><url>
+    <loc>https://noroki.github.io/series/</loc>
   </url>
 </urlset>
