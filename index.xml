@@ -12,7 +12,7 @@
         <pubDate>Thu, 02 Sep 2021 22:42:13 +0800</pubDate>
         
         <guid>https://noroki.github.io/p/hkgcr/</guid>
-        <description>&lt;img src="https://noroki.github.io/p/hkgcr/Koishi.png" alt="Featured image of post 港拼轉寫規則" /&gt;&lt;style&gt;
+        <description>&lt;img src="https://noroki.github.io/p/hkgcr/Koishi.jpg" alt="Featured image of post 港拼轉寫規則" /&gt;&lt;style&gt;
    .myTable {border: 1px solid black;}
    .myTable tr:nth-child(even) {background: #FFF}
    .myTable tr:nth-child(odd) {background: #FFF}
@@ -837,6 +837,11 @@
     &lt;/tbody&gt;
 &lt;/table&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+&lt;p&gt;程序實現：&lt;a href=&#34;https://noroki.github.io/qieyun-autoderiver/&#34;&gt;https://noroki.github.io/qieyun-autoderiver/&lt;/a&gt; &lt;br /&gt;
+載入推導港拼方案，適用之。&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
     &lt;hr /&gt;
     &lt;ol&gt;
@@ -874,7 +879,7 @@
         <pubDate>Wed, 01 Sep 2021 23:16:02 +0800</pubDate>
         
         <guid>https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/</guid>
-        <description>&lt;img src="https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4.png" alt="Featured image of post 攻擊戰이다" /&gt;
+        <description>&lt;img src="https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4.jpg" alt="Featured image of post 攻擊戰이다" /&gt;
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
@@ -1236,11 +1241,11 @@
 는
 　
 &lt;ruby&gt;
-    &lt;rb&gt;主體偉業&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;승리봉&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+    &lt;rb&gt;主體偉業&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;주체위업&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
 &lt;/ruby&gt;
 　
 &lt;ruby&gt;
-    &lt;rb&gt;勝利峰&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;그&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+    &lt;rb&gt;勝利峰&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;승리봉&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
 &lt;/ruby&gt;
 이다;&lt;/p&gt;
 
@@ -1254,7 +1259,7 @@
 &lt;/ruby&gt;
 　
 &lt;ruby&gt;
-    &lt;rb&gt;폭풍&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;그&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+    &lt;rb&gt;暴風&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;폭풍&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
 &lt;/ruby&gt;
 &lt;ruby&gt;
     &lt;rb&gt;吹&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;쳐&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
@@ -1264,12 +1269,14 @@
 &lt;/ruby&gt;
 는,&lt;/p&gt;
 
-&lt;p&gt;그
-&lt;ruby&gt;
+&lt;p&gt;&lt;ruby&gt;
     &lt;rb&gt;其&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;그&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
 &lt;/ruby&gt;
 　
-걸음은
+&lt;ruby&gt;
+    &lt;rb&gt;步&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;거&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+ㄹ음은
 　
 &lt;ruby&gt;
     &lt;rb&gt;强行軍&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;강행군&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
@@ -1389,12 +1396,12 @@
 </description>
         </item>
         <item>
-        <title>あんずの花</title>
-        <link>https://noroki.github.io/p/%E3%81%82%E3%82%93%E3%81%9A%E3%81%AE%E8%8A%B1/</link>
+        <title>杏の花</title>
+        <link>https://noroki.github.io/p/%E6%9D%8F%E3%81%AE%E8%8A%B1/</link>
         <pubDate>Wed, 01 Sep 2021 23:16:00 +0800</pubDate>
         
-        <guid>https://noroki.github.io/p/%E3%81%82%E3%82%93%E3%81%9A%E3%81%AE%E8%8A%B1/</guid>
-        <description>&lt;img src="https://noroki.github.io/p/%E3%81%82%E3%82%93%E3%81%9A%E3%81%AE%E8%8A%B1/Anzu.jpeg" alt="Featured image of post あんずの花" /&gt;
+        <guid>https://noroki.github.io/p/%E6%9D%8F%E3%81%AE%E8%8A%B1/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E6%9D%8F%E3%81%AE%E8%8A%B1/Anzu.jpeg" alt="Featured image of post 杏の花" /&gt;
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
@@ -1412,7 +1419,7 @@
 &lt;p&gt;feat. ねね&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;あんずの花&#34;&gt;あんずの花&lt;/h2&gt;
+&lt;h2 id=&#34;杏の花&#34;&gt;杏の花&lt;/h2&gt;
 
 &lt;p&gt;枯れない花の褪せない愛を&lt;/p&gt;
 &lt;p&gt;胸に閉じ込めたくて触れる&lt;/p&gt;
