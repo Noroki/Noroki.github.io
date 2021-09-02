@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>港拼 on 泛物齋</title>
+    <link>https://noroki.github.io/tags/%E6%B8%AF%E6%8B%BC/</link>
+    <description>Recent content in 港拼 on 泛物齋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Sep 2021 22:42:13 +0800</lastBuildDate><atom:link href="https://noroki.github.io/tags/%E6%B8%AF%E6%8B%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>港拼轉寫規則</title>
+      <link>https://noroki.github.io/p/hkgcr/</link>
+      <pubDate>Thu, 02 Sep 2021 22:42:13 +0800</pubDate>
+      
+      <guid>https://noroki.github.io/p/hkgcr/</guid>
+      <description>.myTable {border: 1px solid black;} .myTable tr:nth-child(even) {background: #FFF} .myTable tr:nth-child(odd) {background: #FFF}  凡例   例中，上行為地名，中行為地鐵站名，下行為專有名詞。
+ 
+聲母  IPA 粵拼 港拼 分化條件 例     脣音   p b p   Pok Fu Lam 薄扶林 Sham Shui Po 深水埗, Po Lam 寶琳       pʰ p p   Sau Mau Ping 秀茂坪 Long Ping 朗屏       m m m   Ma Tau Kok 馬頭角 Tuen Mun 屯門       f f f   Fo Tan 火炭 Mei Foo 美孚        齒齦音   t d t   Tai Po 大埔 Yau Ma Tei 油麻地      d 大埔工業邨拚寫變體 Dai Kwai Street 大貴街    tʰ t t   Tai Wo 太和 Ho Man Tin 何文田       n n n   Nai Chung 泥涌 Nam Cheong 南昌       l l l   Nam Long Shan 南朗山 Lai King 茘景        舌尖面混合音   tʃ~ts z ch tʃ   Cheung Muk Tau 樟木頭  Wong Chuk Hang 黃竹坑      ts, (ch) ts   Tseung Kwan O 將軍澳  Tseung Kwan O 將軍澳, (Wan Chai 灣仔)       tʃʰ~tsʰ c ch tʃʰ  Ngau Chi Wan 牛池灣 Tung Chung 東涌      ts, (ch) tsʰ   Tsz Wan Shan 慈雲山, Yau Yat Tsuen 又一村, (Heng Fa Chuen 杏花邨)  Tsuen Wan 荃灣, (Choi Hung 彩虹)       ʃ~s s sh, (s) ʃ   Sham Tseng 深井, Sha Tin 沙田, (Sa Po Road 沙浦道)1  Tsim Sha Tsui 尖沙咀, ()      s s   Sam Long 心朗  Sai Ying Pun 西營盤        j j y   Yau Yat Chuen 又一村 Sai Ying Pun 西營盤        軟顎音   k g k   San Po Kong新蒲崗 Shek Kip Mei 石硤尾       kʰ k k   Kei Ling Ha 企嶺下 Kai Tak 啓德       ŋ ng ng   Ngau Chi Wan 牛池灣 Ngau Tau Kok 牛頭角       kʷ gw, g(+u)2  kw   Kwun Chung 官涌 Tseung Kwan O 將軍澳       kʷʰ kw, k(+u)2  kw   Kwai Chung 葵涌 Kwai Fong 葵芳       w w w   Mui Wo 梅窩 Tai Wai 大圍        喉音   ∅ / /    Tseung Kwan O 將軍澳 Ma On Shan 馬鞍山       h h h   Hoi Ha Wan 海下灣 Tin Hau 天后</description>
+    </item>
+    
+  </channel>
+</rss>
