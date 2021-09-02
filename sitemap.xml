@@ -5,19 +5,16 @@
     <loc>https://noroki.github.io/categories/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/categories/dprk/</loc>
-    <lastmod>2021-09-01T23:16:02+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/post/linguistics/</loc>
+    <loc>https://noroki.github.io/categories/kor/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/categories/lyric/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/post/</loc>
+    <loc>https://noroki.github.io/tags/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/tags/</loc>
+    <loc>https://noroki.github.io/post/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/</loc>
@@ -27,6 +24,9 @@
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/</loc>
+    <lastmod>2021-09-01T23:16:02+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/tags/%EA%B0%80%EC%82%AC/</loc>
@@ -62,70 +62,20 @@
     <loc>https://noroki.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/post/game/</loc>
+    <loc>https://noroki.github.io/search/</loc>
   </url><url>
     <loc>https://noroki.github.io/post/literature/</loc>
   </url><url>
-    <loc>https://noroki.github.io/post/picture/</loc>
+    <loc>https://noroki.github.io/post/game/</loc>
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/chn/</loc>
   </url><url>
     <loc>https://noroki.github.io/post/science/</loc>
   </url><url>
-    <loc>https://noroki.github.io/search/</loc>
+    <loc>https://noroki.github.io/post/linguistics/eng/</loc>
   </url><url>
-    <loc>https://noroki.github.io/post/linguistics/chn/</loc>
+    <loc>https://noroki.github.io/post/picture/</loc>
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/kor/</loc>
   </url>
 </urlset>
