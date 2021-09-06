@@ -563,6 +563,7 @@
 
 &lt;h1 id=&#34;聲母&#34;&gt;聲母&lt;/h1&gt;
 
+&lt;div style=&#34;overflow-x:auto;&#34;&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -682,9 +683,11 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 
 &lt;h1 id=&#34;韻母&#34;&gt;韻母&lt;/h1&gt;
 
+&lt;div style=&#34;overflow-x:auto;&#34;&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -765,6 +768,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;入聲韻母&#34;&gt;入聲韻母&lt;/h2&gt;
 
