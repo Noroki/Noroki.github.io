@@ -776,83 +776,103 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;例字&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;例字&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34; colspan=&#34;2&#34;&gt;入声独立区&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34; colspan=&#34;2&#34;&gt;入派阳平区&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;th style=&#34;text-align: center;&#34;&gt;韻腹&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;入声独立区&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;宜宾&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;韻腹&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;成都&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;宜宾&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;搭法p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;æ&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;æ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;a&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;a&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;掐haap3&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;iæ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ia&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;刮t&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;uæ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ua&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;入p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;7&#34;&gt;ɵ&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;u̯ɵ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;7&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;说t&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;o&lt;/td&gt;
+
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;出t&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;获k&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;uɛ&lt;/td&gt;
+
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;阅t&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;yɵ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;yɛ&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;欲k&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;yo&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;药k&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;yo&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;湿p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;e&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;e&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɿ&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;黑k&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɛ&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;铁t&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;ie&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;iɛ&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;踢k&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i(ɛ)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
