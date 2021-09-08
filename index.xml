@@ -570,117 +570,126 @@
 &lt;tr&gt;
 &lt;th style=&#34;text-align: center;&#34;&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align: center;&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;双唇&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;唇齿&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;齿后&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;齿龈&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;雙脣&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;脣齒&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;齒後&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;齒龈&lt;/th&gt;
 &lt;th style=&#34;text-align: center;&#34;&gt;卷舌&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;硬腭&lt;/th&gt;
-&lt;th style=&#34;text-align: center;&#34;&gt;软腭&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;硬顎&lt;/th&gt;
+&lt;th style=&#34;text-align: center;&#34;&gt;软顎&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;塞音&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;不送气&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;p  贝&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;塞音&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;不送氣&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/p/&lt;/br&gt;b&lt;/br&gt;把&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;t 得&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/t/&lt;/br&gt;d&lt;/br&gt;打&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;k 古&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/k/&lt;/br&gt;g&lt;/br&gt;歌&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;送氣&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/pʰ/&lt;/br&gt;p&lt;/br&gt;帕&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;送气&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;pʰ 配&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;tʰ 套&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/tʰ/&lt;/br&gt;t&lt;/br&gt;塔&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;kʰ 可&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/kʰ/&lt;/br&gt;k&lt;/br&gt;可&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;塞擦音&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;不送气&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;塞擦音&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;不送氣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ts 早朝&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/ts/&lt;/br&gt;z/zh&lt;/br&gt;雜渣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;tɕ 价劍&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/tɕ/&lt;/br&gt;j&lt;/br&gt;家&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;送气&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;tsʰ 草超&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;送氣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;tɕʰ 巧傾&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/tsʰ/&lt;/br&gt;c/ch&lt;/br&gt;擦茶&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/tɕʰ/&lt;/br&gt;q&lt;/br&gt;恰&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;鼻音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;m 没&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/m/&lt;/br&gt;m&lt;/br&gt;麻&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ŋ 我&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/ŋ/&lt;/br&gt;ng&lt;/br&gt;我&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;擦音&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;擦音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;清&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;f 发&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/f/&lt;/br&gt;f&lt;/br&gt;法&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;s 素樹&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/s/&lt;/br&gt;s/sh&lt;/br&gt;撒殺&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ɕ 小西&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;x 好&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/ɕ/&lt;/br&gt;x&lt;/br&gt;夏&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/x/&lt;/br&gt;h&lt;/br&gt;何&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;濁&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;浊&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/v/&lt;/br&gt;(v)&lt;/br&gt;五吳吾&lt;strong&gt;無&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/z/&lt;/br&gt;r&lt;/br&gt;如&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;v 五&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;z 如&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;边近音&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;l 路你&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;零声母/声门塞音&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;近音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td colspan=&#34;7&#34; style=&#34;text-align: center;&#34;&gt;ʔ 儿&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/w/&lt;/br&gt;w&lt;/br&gt;&lt;strong&gt;瓦&lt;/strong&gt;文偉&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/j/&lt;/br&gt;y&lt;/br&gt;亞&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;邊近音&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;/l/&lt;/br&gt;l/n(i)&lt;/br&gt;蠟/尼&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;零聲母/声門塞音&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td colspan=&#34;7&#34; style=&#34;text-align: center;&#34;&gt;/∅~ʔ/&lt;/br&gt;0&lt;/br&gt;鵝/兒&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -702,58 +711,55 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;开口呼&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ɿ 日&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ɚ 二&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ᴀ 大&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;o 我&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ᴇ 黑&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ai̯ 街&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ei̯ 批&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ɑu̯ 包&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;əu̯ 走&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;an 烦&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;in 樱&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ɑŋ 帮&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;ʊŋ 亩&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɿ&lt;/br&gt;-i&lt;/br&gt;字&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɚ&lt;/br&gt;er&lt;/br&gt;兒&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ᴀ&lt;/br&gt;a&lt;/br&gt;大&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;o&lt;/br&gt;eo/o&lt;/br&gt;我&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ai̯&lt;/br&gt;ai/iai&lt;/br&gt;街&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ei̯&lt;/br&gt;e/ei&lt;/br&gt;批&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɑu̯&lt;/br&gt;ao&lt;/br&gt;包&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;əu̯&lt;/br&gt;ou&lt;/br&gt;走&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;an&lt;/br&gt;an&lt;/br&gt;煩&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ən&lt;/br&gt;en&lt;/br&gt;硬&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɑŋ&lt;/br&gt;ang&lt;/br&gt;幫&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ʊŋ&lt;/br&gt;ong&lt;/br&gt;亩&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;齐齿呼&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i 衣&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;齐齒呼&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i&lt;/br&gt;ie/i&lt;/br&gt;衣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i̯a 牙&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i̯ᴇ 叶&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i̯a&lt;/br&gt;ia&lt;/br&gt;牙&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i̯ɑu̯ 标&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i̯əu̯ 九&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i̯ɛn 变&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;in 兵&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;i̯ɑŋ 量&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i̯ɑu̯&lt;/br&gt;iao&lt;/br&gt;标&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i̯əu̯&lt;/br&gt;iou&lt;/br&gt;九&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i̯ɛn&lt;/br&gt;ian&lt;/br&gt;变&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;in&lt;/br&gt;in&lt;/br&gt;兵&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i̯ɑŋ&lt;/br&gt;iang&lt;/br&gt;量&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;i̯ʊŋ&lt;/br&gt;iong&lt;/br&gt;用&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;合口呼&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;v̩ 五&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;v̩&lt;/br&gt;u&lt;/br&gt;五&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;u̯ᴀ 瓜&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u̯ᴀ&lt;/br&gt;ua&lt;/br&gt;瓜&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u̯ai̯&lt;/br&gt;uai&lt;/br&gt;乖&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u̯ei̯&lt;/br&gt;uei&lt;/br&gt;类&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;u̯ai̯ 乖&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;u̯ei̯ 类&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;u̯an 段&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;u̯ən 春&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;u̯ɑŋ 光&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u̯an&lt;/br&gt;uan&lt;/br&gt;段&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u̯ən&lt;/br&gt;un&lt;/br&gt;春&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;u̯ɑŋ&lt;/br&gt;uang&lt;/br&gt;光&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;撮口呼&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;y 鱼&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;y&lt;/br&gt;ü&lt;/br&gt;鱼&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
@@ -761,15 +767,18 @@
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;y̯ɛn&lt;/br&gt;üan&lt;/br&gt;鲜&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;y̯ɛn 鲜&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;yn 泳&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;yn&lt;/br&gt;ün&lt;/br&gt;泳&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;瘸 üe 歸屬未知&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&#34;入聲韻母&#34;&gt;入聲韻母&lt;/h2&gt;
 
@@ -793,27 +802,27 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;搭法p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;æ&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;æ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;æ aq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;a&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;a&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;掐haap3&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;iæ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;iæ iaq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;ia&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;刮t&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;uæ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;uæ uaq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;ua&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;入p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;7&#34;&gt;ɵ&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;u̯ɵ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;u̯ɵ eoq/ueq/uq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;7&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -837,7 +846,7 @@
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;阅t&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;yɵ&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;yɵ ioq/üeq/üuq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;yɛ&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -854,7 +863,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;湿p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;e&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;e&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;e eq/-iq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;ɿ&lt;/td&gt;
 &lt;/tr&gt;
@@ -866,7 +875,7 @@
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;铁t&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;ie&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;ie ieq/iq&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;iɛ&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -902,14 +911,15 @@
 
 &lt;h1 id=&#34;聲調&#34;&gt;聲調&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;tone_Coo_Lest.png&#34; alt=&#34;Pic 1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tone_Coo_Lest_v2.png&#34; alt=&#34;Pic 1&#34; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;調值&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;取值&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;測定&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;參考&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;成都&lt;/th&gt;
 &lt;th align=&#34;center&#34;&gt;1941 宜賓縣&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -917,6 +927,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;陰平&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;35&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;35&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;45&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;45&lt;/td&gt;
@@ -926,18 +937,21 @@
 &lt;td align=&#34;center&#34;&gt;陽平&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;21&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;21&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;21&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;31&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;上聲&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;31&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;42&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;32&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;42&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;42&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;去聲&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;212&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;212&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;213&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;15&lt;/td&gt;
@@ -946,6 +960,7 @@
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;入聲&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;322&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;23&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;34&lt;/td&gt;
 &lt;/tr&gt;
