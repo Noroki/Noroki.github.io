@@ -564,6 +564,10 @@
 
 &lt;h1 id=&#34;聲母&#34;&gt;聲母&lt;/h1&gt;
 
+&lt;blockquote&gt;
+&lt;p&gt;凡例：上行：ipa；中行：蜀拼；下行：例字&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;div style=&#34;overflow-x:auto;&#34;&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -584,24 +588,24 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;塞音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;不送氣&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/p/&lt;/br&gt;b&lt;/br&gt;把&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;p&lt;/br&gt;b&lt;/br&gt;把&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/t/&lt;/br&gt;d&lt;/br&gt;打&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;t&lt;/br&gt;d&lt;/br&gt;打&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/k/&lt;/br&gt;g&lt;/br&gt;歌&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;k&lt;/br&gt;g&lt;/br&gt;歌&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;送氣&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/pʰ/&lt;/br&gt;p&lt;/br&gt;帕&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;pʰ&lt;/br&gt;p&lt;/br&gt;帕&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/tʰ/&lt;/br&gt;t&lt;/br&gt;塔&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;tʰ&lt;/br&gt;t&lt;/br&gt;塔&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/kʰ/&lt;/br&gt;k&lt;/br&gt;可&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;kʰ&lt;/br&gt;k&lt;/br&gt;可&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -609,10 +613,10 @@
 &lt;td style=&#34;text-align: center;&#34;&gt;不送氣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/ts/&lt;/br&gt;z/zh&lt;/br&gt;雜渣&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ts&lt;/br&gt;z/zh&lt;/br&gt;雜渣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/tɕ/&lt;/br&gt;j&lt;/br&gt;家&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;tɕ&lt;/br&gt;j&lt;/br&gt;家&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -620,42 +624,42 @@
 &lt;td style=&#34;text-align: center;&#34;&gt;送氣&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/tsʰ/&lt;/br&gt;c/ch&lt;/br&gt;擦茶&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;tsʰ&lt;/br&gt;c/ch&lt;/br&gt;擦茶&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/tɕʰ/&lt;/br&gt;q&lt;/br&gt;恰&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;tɕʰ&lt;/br&gt;q&lt;/br&gt;恰&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;鼻音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/m/&lt;/br&gt;m&lt;/br&gt;麻&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;m&lt;/br&gt;m&lt;/br&gt;麻&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/ŋ/&lt;/br&gt;ng&lt;/br&gt;我&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ŋ&lt;/br&gt;ng&lt;/br&gt;我&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;擦音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;清&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/f/&lt;/br&gt;f&lt;/br&gt;法&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;f&lt;/br&gt;f&lt;/br&gt;法&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/s/&lt;/br&gt;s/sh&lt;/br&gt;撒殺&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;s&lt;/br&gt;s/sh&lt;/br&gt;撒殺&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/ɕ/&lt;/br&gt;x&lt;/br&gt;夏&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/x/&lt;/br&gt;h&lt;/br&gt;何&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;ɕ&lt;/br&gt;x&lt;/br&gt;夏&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;x&lt;/br&gt;h&lt;/br&gt;何&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;濁&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/v/&lt;/br&gt;(v)&lt;/br&gt;五吳吾&lt;strong&gt;無&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/z/&lt;/br&gt;r&lt;/br&gt;如&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;v&lt;/br&gt;(v)&lt;/br&gt;五吳吾&lt;strong&gt;無&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;z&lt;/br&gt;r&lt;/br&gt;如&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
@@ -665,12 +669,12 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;近音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/w/&lt;/br&gt;w&lt;/br&gt;&lt;strong&gt;瓦&lt;/strong&gt;文偉&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;w&lt;/br&gt;w&lt;/br&gt;&lt;strong&gt;瓦&lt;/strong&gt;文偉&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/j/&lt;/br&gt;y&lt;/br&gt;亞&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;j&lt;/br&gt;y&lt;/br&gt;亞&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -679,7 +683,7 @@
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;/l/&lt;/br&gt;l/n(i)&lt;/br&gt;蠟/尼&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;l&lt;/br&gt;l/n(i)&lt;/br&gt;蠟/尼&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
@@ -689,7 +693,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;零聲母/声門塞音&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
-&lt;td colspan=&#34;7&#34; style=&#34;text-align: center;&#34;&gt;/∅~ʔ/&lt;/br&gt;0&lt;/br&gt;鵝/兒&lt;/td&gt;
+&lt;td colspan=&#34;7&#34; style=&#34;text-align: center;&#34;&gt;∅~ʔ&lt;/br&gt;0&lt;/br&gt;鵝/兒&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
