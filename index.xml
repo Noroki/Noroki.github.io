@@ -806,27 +806,27 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;搭法p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;æ&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;æ aq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;æ&lt;/br&gt;aq&lt;/br&gt;八&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;a&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;a&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;掐haap3&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;iæ iaq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;iæ&lt;/br&gt;iaq&lt;/br&gt;鴨&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;ia&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;刮t&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34;&gt;uæ uaq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34;&gt;uæ&lt;/br&gt;uaq&lt;/br&gt;滑&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;ua&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;入p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;7&#34;&gt;ɵ&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;u̯ɵ eoq/ueq/uq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;u̯ɵ&lt;/br&gt;eoq/ueq/uq&lt;/br&gt;盒／國／屋&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;7&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -850,7 +850,7 @@
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;阅t&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;yɵ ioq/üeq/üuq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;3&#34;&gt;yɵ&lt;/br&gt;ioq/üeq/üuq&lt;/br&gt;藥／月／育&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;yɛ&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -867,7 +867,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;湿p&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;e&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;e eq/-iq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;e&lt;/br&gt;eq/-iq&lt;/br&gt;額／失&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34; rowspan=&#34;4&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;ɿ&lt;/td&gt;
 &lt;/tr&gt;
@@ -879,7 +879,7 @@
 
 &lt;tr&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;铁t&lt;/td&gt;
-&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;ie ieq/iq&lt;/td&gt;
+&lt;td style=&#34;text-align: center;&#34; rowspan=&#34;2&#34;&gt;ie&lt;/br&gt;ieq/iq&lt;/br&gt;葉／一&lt;/td&gt;
 &lt;td style=&#34;text-align: center;&#34;&gt;iɛ&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -896,11 +896,11 @@
 
 &lt;p&gt;ɵ：
 &lt;ruby&gt;
-            入
-            &lt;rp&gt;(&lt;/rp&gt;
-            &lt;rt style=&#34;font-size:0.75em&#34;&gt;p&lt;/rt&gt;
-            &lt;rp&gt;)&lt;/rp&gt;
-        &lt;/ruby&gt;
+    入
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;p&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
  t k&lt;/p&gt;
 
 &lt;p&gt;e：p t k&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
