@@ -892,18 +892,39 @@
 
 &lt;h3 id=&#34;入聲歸派&#34;&gt;入聲歸派&lt;/h3&gt;
 
-&lt;p&gt;æ： p t&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;韻腹&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;p&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;t&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;k&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;ɵ：
-&lt;ruby&gt;
-    入
-    &lt;rp&gt;(&lt;/rp&gt;
-    &lt;rt style=&#34;font-size:0.75em&#34;&gt;p&lt;/rt&gt;
-    &lt;rp&gt;)&lt;/rp&gt;
-&lt;/ruby&gt;
- t k&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;æ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;×&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;e：p t k&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;ɵ&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;ruby&gt;入&lt;rp&gt;(&lt;/rp&gt;&lt;rt style=&#34;font-size:0.75em&#34;&gt;p&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;e&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;○&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&#34;例外&#34;&gt;例外&lt;/h2&gt;
 
