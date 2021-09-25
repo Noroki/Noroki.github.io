@@ -32,7 +32,7 @@ if (!doNotTrack) {
 </script>
     </head>
     <body class="
-    article-page 
+    article-page has-toc
 ">
     <script>
         (function() {
@@ -58,159 +58,22 @@ if (!doNotTrack) {
 </script>
 <div class="container main-container flex 
     
-        on-phone--column extended
+        extended
     
 ">
     
-        <aside class="sidebar left-sidebar sticky">
-    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
-        <span class="hamburger-box">
-            <span class="hamburger-inner"></span>
-        </span>
-    </button>
-
-    <header class="site-info">
-        
-            
-            <figure class="site-avatar">
-                
-                    
-                    
-                    
-                        
-                        <img src="/img/Koishi_hu9cf7f3d487c1ac94d5991be790d0ba4d_33884_300x0_resize_q75_box.jpeg" width="300"
-                            height="300" class="site-logo" loading="lazy" alt="Avatar">
-                    
-                
-
-                
-            </figure>
-            
-        
-        <h1 class="site-name"><a href="https://noroki.github.io/">泛物齋</a></h1>
-        <h2 class="site-description">呪木 試観</h2>
-    </header>
-
-    <ol class="menu" id="main-menu">
-        
-        
-        
-
-        <li >
-            <a href='/' >
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <div id="article-toolbar">
+            <a href="https://noroki.github.io/" class="back-home">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
-  <polyline points="5 12 3 12 12 3 21 12 19 12" />
-  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
-  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  <polyline points="15 6 9 12 15 18" />
 </svg>
 
 
 
-                
-                <span>Home</span>
+                <span>Back</span>
             </a>
-        </li>
-        
-        
-
-        <li  class='current' >
-            <a href='/post/' >
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-book" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M3 19a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
-  <path d="M3 6a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
-  <line x1="3" y1="6" x2="3" y2="19" />
-  <line x1="12" y1="6" x2="12" y2="19" />
-  <line x1="21" y1="6" x2="21" y2="19" />
-</svg>
-                
-                <span>Taxonomy</span>
-            </a>
-        </li>
-        
-        
-
-        <li >
-            <a href='/archives/' >
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <rect x="3" y="4" width="18" height="4" rx="2" />
-  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
-  <line x1="10" y1="12" x2="14" y2="12" />
-</svg>
-
-
-
-                
-                <span>Archives</span>
-            </a>
-        </li>
-        
-        
-
-        <li >
-            <a href='/search/' >
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="10" cy="10" r="7" />
-  <line x1="21" y1="21" x2="15" y2="15" />
-</svg>
-
-
-
-                
-                <span>Search</span>
-            </a>
-        </li>
-        
-        
-
-        <li >
-            <a href='/about/' >
-                
-                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="12" cy="7" r="4" />
-  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
-</svg>
-
-
-
-                
-                <span>About</span>
-            </a>
-        </li>
-        
-
-        
-            <li id="dark-mode-toggle">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="8" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z"/>
-  <circle cx="16" cy="12" r="2" />
-  <rect x="2" y="6" width="20" height="12" rx="6" />
-</svg>
-
-
-
-                <span>Dark Mode</span>
-            </li>
-        
-    </ol>
-</aside>
-
+        </div>
     
 <main class="main full-width">
     <article class="main-article">
@@ -265,7 +128,7 @@ if (!doNotTrack) {
 
 
                 <time class="article-time--reading">
-                    1 minute read
+                    2 minute read
                 </time>
             </div>
         
@@ -275,7 +138,647 @@ if (!doNotTrack) {
 </header>
 
     <section class="article-content">
-    <p>![Phonology]](ch3.pdf)</p>
+    
+
+<h1 id="輔音">輔音</h1>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>臺灣閩南語音標系統</th>
+<th>例字(音節首)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>p</td>
+<td>p</td>
+<td>飽、飛、牌</td>
+</tr>
+
+<tr>
+<td>pʰ</td>
+<td>ph</td>
+<td>皮、騙、破</td>
+</tr>
+
+<tr>
+<td>b</td>
+<td>b</td>
+<td>慢、廟、尾</td>
+</tr>
+
+<tr>
+<td>m</td>
+<td>m</td>
+<td>罵、暝、麻</td>
+</tr>
+
+<tr>
+<td>t</td>
+<td>t</td>
+<td>刀、等、豆</td>
+</tr>
+
+<tr>
+<td>tʰ</td>
+<td>th</td>
+<td>踢、桶、聽</td>
+</tr>
+
+<tr>
+<td>n</td>
+<td>n</td>
+<td>鬧、籃、軟</td>
+</tr>
+
+<tr>
+<td>l</td>
+<td>l</td>
+<td>錄、亂、梨、冷</td>
+</tr>
+
+<tr>
+<td>ts</td>
+<td>c</td>
+<td>走、早、做、煮</td>
+</tr>
+
+<tr>
+<td>tɕ</td>
+<td>c</td>
+<td>酒、借、接、食、真</td>
+</tr>
+
+<tr>
+<td>tsʰ</td>
+<td>ch</td>
+<td>臭、喘、厝、冊</td>
+</tr>
+
+<tr>
+<td>tɕʰ</td>
+<td>ch</td>
+<td>七、飼、車、笑</td>
+</tr>
+
+<tr>
+<td>dz</td>
+<td>j</td>
+<td>熱、如、潤</td>
+</tr>
+
+<tr>
+<td>dʝ</td>
+<td>j</td>
+<td>尿、逐、字</td>
+</tr>
+
+<tr>
+<td>s</td>
+<td>s</td>
+<td>掃、洗、煞、線</td>
+</tr>
+
+<tr>
+<td>ɕ</td>
+<td>s</td>
+<td>時、詩、受、燒</td>
+</tr>
+
+<tr>
+<td>k</td>
+<td>k</td>
+<td>關、古、教、驚</td>
+</tr>
+
+<tr>
+<td>kʰ</td>
+<td>kh</td>
+<td>去、睏、苦、客</td>
+</tr>
+
+<tr>
+<td>g</td>
+<td>g</td>
+<td>牛、月、五、我</td>
+</tr>
+
+<tr>
+<td>ŋ</td>
+<td>ng</td>
+<td>午、雅、爻</td>
+</tr>
+
+<tr>
+<td>h</td>
+<td>h</td>
+<td>好、雲、害、蝦</td>
+</tr>
+
+<tr>
+<td>-p</td>
+<td>p</td>
+<td>合、汁、急</td>
+</tr>
+
+<tr>
+<td>-t</td>
+<td>t</td>
+<td>踢、力、筆</td>
+</tr>
+
+<tr>
+<td>-k</td>
+<td>k</td>
+<td>綁、束、角</td>
+</tr>
+
+<tr>
+<td>-ʔ</td>
+<td>-h</td>
+<td>肉、活、煞</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="韻母">韻母</h1>
+
+<table>
+<thead>
+<tr>
+<th>IPA</th>
+<th>臺灣閩南語音標系統</th>
+<th>例字</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>i</td>
+<td>i</td>
+<td>絲、比、魚</td>
+</tr>
+
+<tr>
+<td>e</td>
+<td>e</td>
+<td>買、假、茶</td>
+</tr>
+
+<tr>
+<td>a</td>
+<td>a</td>
+<td>早、骹、加</td>
+</tr>
+
+<tr>
+<td>u</td>
+<td>u</td>
+<td>有、區、女</td>
+</tr>
+
+<tr>
+<td>ɔ</td>
+<td>oo</td>
+<td>烏、雨、路、五</td>
+</tr>
+
+<tr>
+<td>ə</td>
+<td>o</td>
+<td>好、考、刀</td>
+</tr>
+
+<tr>
+<td>ia</td>
+<td>ia</td>
+<td>寫、騎、野</td>
+</tr>
+
+<tr>
+<td>iə</td>
+<td>io</td>
+<td>腰、少、轎</td>
+</tr>
+
+<tr>
+<td>iu</td>
+<td>iu</td>
+<td>油、游、酒</td>
+</tr>
+
+<tr>
+<td>ui</td>
+<td>ui</td>
+<td>危、開、呸</td>
+</tr>
+
+<tr>
+<td>ue</td>
+<td>ue</td>
+<td>畫、花、杯</td>
+</tr>
+
+<tr>
+<td>ua</td>
+<td>ua</td>
+<td>我、蛇、娶</td>
+</tr>
+
+<tr>
+<td>ai</td>
+<td>ai</td>
+<td>愛、載、害</td>
+</tr>
+
+<tr>
+<td>au</td>
+<td>au</td>
+<td>哭、狗、流</td>
+</tr>
+
+<tr>
+<td>uai</td>
+<td>uai</td>
+<td>歪、乖、怪</td>
+</tr>
+
+<tr>
+<td>iau</td>
+<td>iau</td>
+<td>嬌、邀、鳥</td>
+</tr>
+
+<tr>
+<td>iⁿ</td>
+<td>inn</td>
+<td>甜、耳、邊</td>
+</tr>
+
+<tr>
+<td>aⁿ</td>
+<td>ann</td>
+<td>敢、膽、衫</td>
+</tr>
+
+<tr>
+<td>ɔⁿ</td>
+<td>oonn</td>
+<td>好(奇)</td>
+</tr>
+
+<tr>
+<td>iaⁿ</td>
+<td>iann</td>
+<td>兄、聲、拚</td>
+</tr>
+
+<tr>
+<td>iuⁿ</td>
+<td>iunn</td>
+<td>樣、丈(人)、想</td>
+</tr>
+
+<tr>
+<td>uaⁿ</td>
+<td>uann</td>
+<td>山、肝、看</td>
+</tr>
+
+<tr>
+<td>aⁿi</td>
+<td>ainn</td>
+<td>kainn(狗的哀嚎聲)</td>
+</tr>
+
+<tr>
+<td>iaⁿu</td>
+<td>iaunn</td>
+<td>貓、蟯</td>
+</tr>
+
+<tr>
+<td>uaⁿi</td>
+<td>uainn</td>
+<td>橫、suainn7(芒果)</td>
+</tr>
+
+<tr>
+<td>im</td>
+<td>im</td>
+<td>飲、心、浸</td>
+</tr>
+
+<tr>
+<td>am</td>
+<td>am</td>
+<td>潭、感、南</td>
+</tr>
+
+<tr>
+<td>iam</td>
+<td>iam</td>
+<td>點、驗、險</td>
+</tr>
+
+<tr>
+<td>in</td>
+<td>in</td>
+<td>印、新、認</td>
+</tr>
+
+<tr>
+<td>an</td>
+<td>an</td>
+<td>安、班、慢</td>
+</tr>
+
+<tr>
+<td>un</td>
+<td>un</td>
+<td>裙、滾、論</td>
+</tr>
+
+<tr>
+<td>uan</td>
+<td>uan</td>
+<td>怨、環、捐</td>
+</tr>
+
+<tr>
+<td>iŋ</td>
+<td>ing</td>
+<td>頂、應、冷</td>
+</tr>
+
+<tr>
+<td>aŋ</td>
+<td>ang</td>
+<td>空、送、放</td>
+</tr>
+
+<tr>
+<td>oŋ</td>
+<td>ong</td>
+<td>風、王、公</td>
+</tr>
+
+<tr>
+<td>iaŋ</td>
+<td>iang</td>
+<td>雙、響、涼</td>
+</tr>
+
+<tr>
+<td>ioŋ</td>
+<td>iong</td>
+<td>用、傷、良</td>
+</tr>
+
+<tr>
+<td>uaŋ</td>
+<td>uang</td>
+<td>uang(狐群狗黨的單位詞)</td>
+</tr>
+
+<tr>
+<td>m̩</td>
+<td>m</td>
+<td>不、hm(嗯)</td>
+</tr>
+
+<tr>
+<td>ŋ̍</td>
+<td>ng</td>
+<td>黃、酸、斷</td>
+</tr>
+
+<tr>
+<td>iʔ</td>
+<td>ih</td>
+<td>滴、躲、剃</td>
+</tr>
+
+<tr>
+<td>eʔ</td>
+<td>eh</td>
+<td>客、白、要</td>
+</tr>
+
+<tr>
+<td>aʔ</td>
+<td>ah</td>
+<td>哪、踏、鴨</td>
+</tr>
+
+<tr>
+<td>uʔ</td>
+<td>uh</td>
+<td>tuh4(打瞌睡)、puh4(冒出)</td>
+</tr>
+
+<tr>
+<td>əʔ</td>
+<td>oh</td>
+<td>桌、學、落</td>
+</tr>
+
+<tr>
+<td>iaʔ</td>
+<td>iah</td>
+<td>壁、避、隻</td>
+</tr>
+
+<tr>
+<td>iəʔ</td>
+<td>ioh</td>
+<td>臆、著、葉</td>
+</tr>
+
+<tr>
+<td>iuʔ</td>
+<td>iuh</td>
+<td>tiuh(扯動、抽痛)</td>
+</tr>
+
+<tr>
+<td>uiʔ</td>
+<td>uih</td>
+<td>uih4(抉)、(血)</td>
+</tr>
+
+<tr>
+<td>ueʔ</td>
+<td>ueh</td>
+<td>血、月、khueh4(以物墊腳)</td>
+</tr>
+
+<tr>
+<td>uaʔ</td>
+<td>uah</td>
+<td>活、闊、跋</td>
+</tr>
+
+<tr>
+<td>auʔ</td>
+<td>auh</td>
+<td>pauh4(暴牙貌)</td>
+</tr>
+
+<tr>
+<td>iauʔ</td>
+<td>iauh</td>
+<td>hiauh4(掀露)</td>
+</tr>
+
+<tr>
+<td>iⁿʔ</td>
+<td>innh</td>
+<td>ninnh4(眨眼)</td>
+</tr>
+
+<tr>
+<td>eⁿʔ</td>
+<td>ennh</td>
+<td>khennh4(咳嗽聲)</td>
+</tr>
+
+<tr>
+<td>aⁿʔ</td>
+<td>annh</td>
+<td>hannh4(為熱氣所灼)</td>
+</tr>
+
+<tr>
+<td>ɔⁿʔ</td>
+<td>oonnh</td>
+<td>hoonnh0(助詞)</td>
+</tr>
+
+<tr>
+<td>iaⁿʔ</td>
+<td>iannh</td>
+<td>hiannh4(拿衣服棉被)</td>
+</tr>
+
+<tr>
+<td>aⁿiʔ</td>
+<td>ainnh</td>
+<td>ainnh4(跛行)</td>
+</tr>
+
+<tr>
+<td>aⁿuʔ</td>
+<td>aunnh</td>
+<td>khaunnh4(咀嚼聲)</td>
+</tr>
+
+<tr>
+<td>uaⁿiʔ</td>
+<td>uainnh</td>
+<td>uainnh4(扭到)</td>
+</tr>
+
+<tr>
+<td>iaⁿuʔ</td>
+<td>iaunnh</td>
+<td>hiaunnh8(心中不安)</td>
+</tr>
+
+<tr>
+<td>m̩ʔ</td>
+<td>mh</td>
+<td>hmh4(打)</td>
+</tr>
+
+<tr>
+<td>ŋ̍ʔ</td>
+<td>ngh</td>
+<td>chngh8(鼻涕聲)</td>
+</tr>
+
+<tr>
+<td>ip</td>
+<td>ip</td>
+<td>入、立、吸</td>
+</tr>
+
+<tr>
+<td>ap</td>
+<td>ap</td>
+<td>十、塌、合</td>
+</tr>
+
+<tr>
+<td>iap</td>
+<td>iap</td>
+<td>粒、帖、業</td>
+</tr>
+
+<tr>
+<td>it</td>
+<td>it</td>
+<td>七、直、日</td>
+</tr>
+
+<tr>
+<td>at</td>
+<td>at</td>
+<td>察、漆、力</td>
+</tr>
+
+<tr>
+<td>ut</td>
+<td>ut</td>
+<td>物、骨、出</td>
+</tr>
+
+<tr>
+<td>et</td>
+<td>iat</td>
+<td>切、設、節</td>
+</tr>
+
+<tr>
+<td>uat</td>
+<td>uat</td>
+<td>法、決、發</td>
+</tr>
+
+<tr>
+<td>ik</td>
+<td>ik</td>
+<td>色、刻、熟</td>
+</tr>
+
+<tr>
+<td>ak</td>
+<td>ak</td>
+<td>北、讀、木</td>
+</tr>
+
+<tr>
+<td>ək</td>
+<td>ok</td>
+<td>國、束、福</td>
+</tr>
+
+<tr>
+<td>iak</td>
+<td>iak</td>
+<td>摔、phiak4(彈到)</td>
+</tr>
+
+<tr>
+<td>iək</td>
+<td>iok</td>
+<td>俗、足、劇</td>
+</tr>
+</tbody>
+</table>
 
 </section>
 
@@ -497,6 +1000,33 @@ if (!doNotTrack) {
             >
 
             </main>
+    
+        <aside class="sidebar right-sidebar sticky">
+            <section class="widget archives">
+                <div class="widget-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                </div>
+                <h2 class="widget-title section-title">Table of contents</h2>
+                
+                <div class="widget--toc">
+                    <nav id="TableOfContents">
+<ul>
+<li><a href="#輔音">輔音</a></li>
+<li><a href="#韻母">韻母</a></li>
+</ul>
+</nav>
+                </div>
+            </section>
+        </aside>
     
 
         </div>
