@@ -7,175 +7,147 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 25 Sep 2021 16:06:36 +0800</lastBuildDate><atom:link href="https://noroki.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>BanLamGu Romanization</title>
-        <link>https://noroki.github.io/p/banlamgu-romanization/</link>
+        <title>閩南語拼音</title>
+        <link>https://noroki.github.io/p/%E9%96%A9%E5%8D%97%E8%AA%9E%E6%8B%BC%E9%9F%B3/</link>
         <pubDate>Sat, 25 Sep 2021 16:06:36 +0800</pubDate>
         
-        <guid>https://noroki.github.io/p/banlamgu-romanization/</guid>
+        <guid>https://noroki.github.io/p/%E9%96%A9%E5%8D%97%E8%AA%9E%E6%8B%BC%E9%9F%B3/</guid>
         <description>
 
 &lt;h1 id=&#34;輔音&#34;&gt;輔音&lt;/h1&gt;
 
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;IPA&lt;/th&gt;
-&lt;th&gt;臺灣閩南語音標系統&lt;/th&gt;
-&lt;th&gt;例字(音節首)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;p&lt;/td&gt;
-&lt;td&gt;p&lt;/td&gt;
-&lt;td&gt;飽、飛、牌&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;pʰ&lt;/td&gt;
-&lt;td&gt;ph&lt;/td&gt;
-&lt;td&gt;皮、騙、破&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;b&lt;/td&gt;
-&lt;td&gt;b&lt;/td&gt;
-&lt;td&gt;慢、廟、尾&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;m&lt;/td&gt;
-&lt;td&gt;m&lt;/td&gt;
-&lt;td&gt;罵、暝、麻&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;t&lt;/td&gt;
-&lt;td&gt;t&lt;/td&gt;
-&lt;td&gt;刀、等、豆&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;tʰ&lt;/td&gt;
-&lt;td&gt;th&lt;/td&gt;
-&lt;td&gt;踢、桶、聽&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;n&lt;/td&gt;
-&lt;td&gt;n&lt;/td&gt;
-&lt;td&gt;鬧、籃、軟&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;l&lt;/td&gt;
-&lt;td&gt;l&lt;/td&gt;
-&lt;td&gt;錄、亂、梨、冷&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;ts&lt;/td&gt;
-&lt;td&gt;c&lt;/td&gt;
-&lt;td&gt;走、早、做、煮&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;tɕ&lt;/td&gt;
-&lt;td&gt;c&lt;/td&gt;
-&lt;td&gt;酒、借、接、食、真&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;tsʰ&lt;/td&gt;
-&lt;td&gt;ch&lt;/td&gt;
-&lt;td&gt;臭、喘、厝、冊&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;tɕʰ&lt;/td&gt;
-&lt;td&gt;ch&lt;/td&gt;
-&lt;td&gt;七、飼、車、笑&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;dz&lt;/td&gt;
-&lt;td&gt;j&lt;/td&gt;
-&lt;td&gt;熱、如、潤&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;dʝ&lt;/td&gt;
-&lt;td&gt;j&lt;/td&gt;
-&lt;td&gt;尿、逐、字&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;s&lt;/td&gt;
-&lt;td&gt;s&lt;/td&gt;
-&lt;td&gt;掃、洗、煞、線&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;ɕ&lt;/td&gt;
-&lt;td&gt;s&lt;/td&gt;
-&lt;td&gt;時、詩、受、燒&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;k&lt;/td&gt;
-&lt;td&gt;k&lt;/td&gt;
-&lt;td&gt;關、古、教、驚&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;kʰ&lt;/td&gt;
-&lt;td&gt;kh&lt;/td&gt;
-&lt;td&gt;去、睏、苦、客&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;g&lt;/td&gt;
-&lt;td&gt;g&lt;/td&gt;
-&lt;td&gt;牛、月、五、我&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;ŋ&lt;/td&gt;
-&lt;td&gt;ng&lt;/td&gt;
-&lt;td&gt;午、雅、爻&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;h&lt;/td&gt;
-&lt;td&gt;h&lt;/td&gt;
-&lt;td&gt;好、雲、害、蝦&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;-p&lt;/td&gt;
-&lt;td&gt;p&lt;/td&gt;
-&lt;td&gt;合、汁、急&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;-t&lt;/td&gt;
-&lt;td&gt;t&lt;/td&gt;
-&lt;td&gt;踢、力、筆&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;-k&lt;/td&gt;
-&lt;td&gt;k&lt;/td&gt;
-&lt;td&gt;綁、束、角&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;-ʔ&lt;/td&gt;
-&lt;td&gt;-h&lt;/td&gt;
-&lt;td&gt;肉、活、煞&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;IPA&lt;/th&gt;
+            &lt;th&gt;臺灣閩南語音標系統&lt;/th&gt;
+            &lt;th&gt;例字(音節首)&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;p&lt;/td&gt;
+            &lt;td&gt;p&lt;/td&gt;
+            &lt;td&gt;飽、飛、牌&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;pʰ&lt;/td&gt;
+            &lt;td&gt;ph&lt;/td&gt;
+            &lt;td&gt;皮、騙、破&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;b&lt;/td&gt;
+            &lt;td&gt;b&lt;/td&gt;
+            &lt;td&gt;慢、廟、尾&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;m&lt;/td&gt;
+            &lt;td&gt;m&lt;/td&gt;
+            &lt;td&gt;罵、暝、麻&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;t&lt;/td&gt;
+            &lt;td&gt;t&lt;/td&gt;
+            &lt;td&gt;刀、等、豆&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;tʰ&lt;/td&gt;
+            &lt;td&gt;th&lt;/td&gt;
+            &lt;td&gt;踢、桶、聽&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;n&lt;/td&gt;
+            &lt;td&gt;n&lt;/td&gt;
+            &lt;td&gt;鬧、籃、軟&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;l&lt;/td&gt;
+            &lt;td&gt;l&lt;/td&gt;
+            &lt;td&gt;錄、亂、梨、冷&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;ts&lt;/td&gt;
+            &lt;td rowspan=&#34;2&#34;&gt;c&lt;/td&gt;
+            &lt;td&gt;走、早、做、煮&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;tɕ&lt;/td&gt;
+            &lt;td&gt;酒、借、接、食、真&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;tsʰ&lt;/td&gt;
+            &lt;td&gt;ch&lt;/td&gt;
+            &lt;td&gt;臭、喘、厝、冊&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;tɕʰ&lt;/td&gt;
+            &lt;td&gt;ch&lt;/td&gt;
+            &lt;td&gt;七、飼、車、笑&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;dz&lt;/td&gt;
+            &lt;td rowspan=&#34;2&#34;&gt;j&lt;/td&gt;
+            &lt;td&gt;熱、如、潤&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;dʝ&lt;/td&gt;
+            &lt;td&gt;尿、逐、字&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;s&lt;/td&gt;
+            &lt;td rowspan=&#34;2&#34;&gt;s&lt;/td&gt;
+            &lt;td&gt;掃、洗、煞、線&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;ɕ&lt;/td&gt;
+            &lt;td&gt;時、詩、受、燒&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;k&lt;/td&gt;
+            &lt;td&gt;k&lt;/td&gt;
+            &lt;td&gt;關、古、教、驚&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;kʰ&lt;/td&gt;
+            &lt;td&gt;kh&lt;/td&gt;
+            &lt;td&gt;去、睏、苦、客&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;g&lt;/td&gt;
+            &lt;td&gt;g&lt;/td&gt;
+            &lt;td&gt;牛、月、五、我&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;ŋ&lt;/td&gt;
+            &lt;td&gt;ng&lt;/td&gt;
+            &lt;td&gt;午、雅、爻&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;h&lt;/td&gt;
+            &lt;td&gt;h&lt;/td&gt;
+            &lt;td&gt;好、雲、害、蝦&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;-p&lt;/td&gt;
+            &lt;td&gt;p&lt;/td&gt;
+            &lt;td&gt;合、汁、急&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;-t&lt;/td&gt;
+            &lt;td&gt;t&lt;/td&gt;
+            &lt;td&gt;踢、力、筆&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;-k&lt;/td&gt;
+            &lt;td&gt;k&lt;/td&gt;
+            &lt;td&gt;綁、束、角&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;-ʔ&lt;/td&gt;
+            &lt;td&gt;-h&lt;/td&gt;
+            &lt;td&gt;肉、活、煞&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h1 id=&#34;韻母&#34;&gt;韻母&lt;/h1&gt;
@@ -650,6 +622,86 @@
 &lt;td&gt;iək&lt;/td&gt;
 &lt;td&gt;iok&lt;/td&gt;
 &lt;td&gt;俗、足、劇&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;聲調&#34;&gt;聲調&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;調類&lt;/th&gt;
+&lt;th&gt;陰平&lt;/th&gt;
+&lt;th&gt;陰上&lt;/th&gt;
+&lt;th&gt;陰去&lt;/th&gt;
+&lt;th&gt;陰入&lt;/th&gt;
+&lt;th&gt;陽平&lt;/th&gt;
+&lt;th&gt;陽上&lt;/th&gt;
+&lt;th&gt;陽去&lt;/th&gt;
+&lt;th&gt;陽入&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;特徵&lt;/td&gt;
+&lt;td&gt;高平調&lt;/td&gt;
+&lt;td&gt;高降調&lt;/td&gt;
+&lt;td&gt;低降調&lt;/td&gt;
+&lt;td&gt;低促調&lt;/td&gt;
+&lt;td&gt;低昇調&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;中平調&lt;/td&gt;
+&lt;td&gt;高促調&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;通稱&lt;/td&gt;
+&lt;td&gt;第一聲&lt;/td&gt;
+&lt;td&gt;第二聲&lt;/td&gt;
+&lt;td&gt;第三聲&lt;/td&gt;
+&lt;td&gt;第四聲&lt;/td&gt;
+&lt;td&gt;第五聲&lt;/td&gt;
+&lt;td&gt;第六聲&lt;/td&gt;
+&lt;td&gt;第七聲&lt;/td&gt;
+&lt;td&gt;第八聲&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;調值&lt;/td&gt;
+&lt;td&gt;55&lt;/td&gt;
+&lt;td&gt;53&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;22f&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;td&gt;53&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;例字&lt;/td&gt;
+&lt;td&gt;軍&lt;/td&gt;
+&lt;td&gt;滾&lt;/td&gt;
+&lt;td&gt;棍&lt;/td&gt;
+&lt;td&gt;骨/伯&lt;/td&gt;
+&lt;td&gt;群&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;近郡&lt;/td&gt;
+&lt;td&gt;滑/白&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;變調&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;td&gt;55&lt;/td&gt;
+&lt;td&gt;53&lt;/td&gt;
+&lt;td&gt;53&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;td&gt;N/A&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
+&lt;td&gt;21&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2600,11 +2652,11 @@
 </description>
         </item>
         <item>
-        <title>Vietnamese Note</title>
-        <link>https://noroki.github.io/p/vietnamese-note/</link>
+        <title>越南語筆記</title>
+        <link>https://noroki.github.io/p/%E8%B6%8A%E5%8D%97%E8%AA%9E%E7%AD%86%E8%A8%98/</link>
         <pubDate>Thu, 23 Sep 2021 20:09:36 +0800</pubDate>
         
-        <guid>https://noroki.github.io/p/vietnamese-note/</guid>
+        <guid>https://noroki.github.io/p/%E8%B6%8A%E5%8D%97%E8%AA%9E%E7%AD%86%E8%A8%98/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;Consonant.PNG&#34; alt=&#34;Consonant&#34; /&gt;
 &lt;img src=&#34;Vowel.PNG&#34; alt=&#34;Vowel&#34; /&gt;
 &lt;img src=&#34;Coda.jpg&#34; alt=&#34;Coda&#34; /&gt;

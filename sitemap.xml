@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noroki.github.io/p/banlamgu-romanization/</loc>
-    <lastmod>2021-09-25T16:06:36+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/categories/</loc>
     <lastmod>2021-09-25T16:06:36+08:00</lastmod>
   </url><url>
@@ -32,6 +29,9 @@
     <loc>https://noroki.github.io/tags/%E9%96%A9%E5%8D%97%E8%AA%9E/</loc>
     <lastmod>2021-09-25T16:06:36+08:00</lastmod>
   </url><url>
+    <loc>https://noroki.github.io/p/%E9%96%A9%E5%8D%97%E8%AA%9E%E6%8B%BC%E9%9F%B3/</loc>
+    <lastmod>2021-09-25T16:06:36+08:00</lastmod>
+  </url><url>
     <loc>https://noroki.github.io/tags/ipa/</loc>
     <lastmod>2021-09-23T20:09:44+08:00</lastmod>
   </url><url>
@@ -41,7 +41,7 @@
     <loc>https://noroki.github.io/tags/ti%E1%BA%BFng-vi%E1%BB%87t/</loc>
     <lastmod>2021-09-23T20:09:36+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/p/vietnamese-note/</loc>
+    <loc>https://noroki.github.io/p/%E8%B6%8A%E5%8D%97%E8%AA%9E%E7%AD%86%E8%A8%98/</loc>
     <lastmod>2021-09-23T20:09:36+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/categories/jpn/</loc>
