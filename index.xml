@@ -4894,7 +4894,10 @@
             &lt;/td&gt;
             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;td&gt;
+                &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
+                    class=&#34;IPA&#34;&gt;ʊm&lt;/span&gt;
+            &lt;/td&gt;
             &lt;td&gt;&amp;nbsp;
             &lt;/td&gt;
         &lt;/tr&gt;
@@ -4972,7 +4975,8 @@
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
                     class=&#34;IPA&#34;&gt;ɔŋ&lt;/span&gt;
             &lt;/td&gt;
-            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;td&gt;
+            &lt;/td&gt;
             &lt;td&gt;
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;？？：oŋ&#34;
                     class=&#34;IPA&#34;&gt;ʊŋ&lt;/span&gt;
@@ -5008,7 +5012,9 @@
             &lt;/td&gt;
             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;td&gt;
+                &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
+                    class=&#34;IPA&#34;&gt;ʊp&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;&amp;nbsp;
             &lt;/td&gt;
         &lt;/tr&gt;
@@ -5049,8 +5055,10 @@
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
                     class=&#34;IPA&#34;&gt;ɔt&lt;/span&gt;
             &lt;/td&gt;
-            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;td&gt;&amp;nbsp;
+            &lt;/td&gt;
+            &lt;td&gt;&amp;nbsp;
+            &lt;/td&gt;
             &lt;td&gt;
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
                     class=&#34;IPA&#34;&gt;ut&lt;/span&gt;
@@ -5087,7 +5095,8 @@
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
                     class=&#34;IPA&#34;&gt;ɔk&lt;/span&gt;
             &lt;/td&gt;
-            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;td&gt;
+            &lt;/td&gt;
             &lt;td&gt;
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;？？：ok&#34;
                     class=&#34;IPA&#34;&gt;ʊk&lt;/span&gt;
@@ -5100,21 +5109,6 @@
 &lt;/div&gt;
 
 &lt;h2 id=&#34;声调&#34;&gt;声调&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;tone_HFK.jpg&#34; alt=&#34;Pic 1&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;陰平1 45 ~ 55 詞尾作45，非詞尾作55&lt;/li&gt;
-&lt;li&gt;陰上2 14 （實測為14，《比較》作35。聽感確實有區別，沒有35那麼高，故取14。）&lt;/li&gt;
-&lt;li&gt;陰去3 32  （實測為32，《比較》作33。）&lt;/li&gt;
-&lt;li&gt;陽平4 21&lt;/li&gt;
-&lt;li&gt;陽上5 13&lt;/li&gt;
-&lt;li&gt;陽去6 52&lt;/li&gt;
-&lt;li&gt;上陰入7(1) 5&lt;/li&gt;
-&lt;li&gt;下陰入8(3) 3&lt;/li&gt;
-&lt;li&gt;上陽入9(4) 21&lt;/li&gt;
-&lt;li&gt;下陽入10(6) 52&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;div style=&#34;overflow-x:auto;&#34;&gt;
 &lt;table align=&#34;center&#34;&gt;
@@ -5211,12 +5205,553 @@
 
 &lt;p&gt;注：簡便起見﹐入聲標1、3、4、6以作表記。&lt;/p&gt;
 
-&lt;h2 id=&#34;拓展粵拼方案-甫草方案-j&#34;&gt;拓展粵拼方案（甫草方案）（J#）&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;tone_HFK.jpg&#34; alt=&#34;Pic 1&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;説明&#34;&gt;説明&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;陰平1 45 ~ 55 詞尾作45，非詞尾作55&lt;/li&gt;
+&lt;li&gt;陰上2 14 （實測為14，《比較》作35。聽感確實有區別，沒有35那麼高，故取14。）&lt;/li&gt;
+&lt;li&gt;陰去3 32  （實測為32，《比較》作33。）&lt;/li&gt;
+&lt;li&gt;陽平4 21&lt;/li&gt;
+&lt;li&gt;陽上5 13&lt;/li&gt;
+&lt;li&gt;陽去6 52&lt;/li&gt;
+&lt;li&gt;上陰入7(1) 5&lt;/li&gt;
+&lt;li&gt;下陰入8(3) 3&lt;/li&gt;
+&lt;li&gt;上陽入9(4) 21&lt;/li&gt;
+&lt;li&gt;下陽入10(6) 52&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;拓展粵拼方案-甫草方案-基於j&#34;&gt;拓展粵拼方案~甫草方案（基於J++）&lt;/h2&gt;
+
+&lt;h3 id=&#34;聲母-1&#34;&gt;聲母&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;拼音&lt;/th&gt;
+&lt;th&gt;IPA&lt;/th&gt;
+&lt;th&gt;例字&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;b&lt;/td&gt;
+&lt;td&gt;p&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;p&lt;/td&gt;
+&lt;td&gt;pʰ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;m&lt;/td&gt;
+&lt;td&gt;m&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;f&lt;/td&gt;
+&lt;td&gt;f&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;h&lt;/td&gt;
+&lt;td&gt;h&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;d&lt;/td&gt;
+&lt;td&gt;t&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;t&lt;/td&gt;
+&lt;td&gt;tʰ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;n&lt;/td&gt;
+&lt;td&gt;n&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;j&lt;/td&gt;
+&lt;td&gt;j&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;g&lt;/td&gt;
+&lt;td&gt;k&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;k&lt;/td&gt;
+&lt;td&gt;kʰ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;gw&lt;/td&gt;
+&lt;td&gt;kʷ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;kw&lt;/td&gt;
+&lt;td&gt;kʷʰ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;w&lt;/td&gt;
+&lt;td&gt;w&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;z&lt;/td&gt;
+&lt;td&gt;t͡ʃ~t͡ɕ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;c&lt;/td&gt;
+&lt;td&gt;t͡ʃʰ~t͡ɕʰ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;s&lt;/td&gt;
+&lt;td&gt;ʃ~ɕ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ng&lt;/td&gt;
+&lt;td&gt;ŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;韻母-1&#34;&gt;韻母&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;拼音&lt;/th&gt;
+&lt;th&gt;IPA&lt;/th&gt;
+&lt;th&gt;例字&lt;/th&gt;
+&lt;th&gt;説明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;aa&lt;/td&gt;
+&lt;td&gt;a&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aai&lt;/td&gt;
+&lt;td&gt;ai&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aau&lt;/td&gt;
+&lt;td&gt;au&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aam&lt;/td&gt;
+&lt;td&gt;am&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aan&lt;/td&gt;
+&lt;td&gt;an&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aang&lt;/td&gt;
+&lt;td&gt;aŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;含白讀ɐŋ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aap&lt;/td&gt;
+&lt;td&gt;ap&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aat&lt;/td&gt;
+&lt;td&gt;at&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;aak&lt;/td&gt;
+&lt;td&gt;ak&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ai&lt;/td&gt;
+&lt;td&gt;ɐi&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;au&lt;/td&gt;
+&lt;td&gt;ɐu&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;am&lt;/td&gt;
+&lt;td&gt;ɐm&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;an&lt;/td&gt;
+&lt;td&gt;ɐn&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ap&lt;/td&gt;
+&lt;td&gt;ɐp&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;at&lt;/td&gt;
+&lt;td&gt;ɐt&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ak&lt;/td&gt;
+&lt;td&gt;ɐk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;e&lt;/td&gt;
+&lt;td&gt;ɛ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ei&lt;/td&gt;
+&lt;td&gt;ei&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;em&lt;/td&gt;
+&lt;td&gt;ɛm&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;白讀，待調查&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;en&lt;/td&gt;
+&lt;td&gt;ɛn&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;白讀，待調查。粵拼無此音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;eng&lt;/td&gt;
+&lt;td&gt;ɛŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;待調查&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ep&lt;/td&gt;
+&lt;td&gt;ɛp&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;白讀，待調查&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;et&lt;/td&gt;
+&lt;td&gt;ɛt&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;白讀，待調查。粵拼無此音。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ek&lt;/td&gt;
+&lt;td&gt;ɛk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;i&lt;/td&gt;
+&lt;td&gt;i&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;iu&lt;/td&gt;
+&lt;td&gt;iu&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;im&lt;/td&gt;
+&lt;td&gt;im&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;in&lt;/td&gt;
+&lt;td&gt;in&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ing&lt;/td&gt;
+&lt;td&gt;ɪŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ip&lt;/td&gt;
+&lt;td&gt;ip&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;it&lt;/td&gt;
+&lt;td&gt;it&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ik&lt;/td&gt;
+&lt;td&gt;ɪk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;o&lt;/td&gt;
+&lt;td&gt;ɔ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ou&lt;/td&gt;
+&lt;td&gt;ou&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;on&lt;/td&gt;
+&lt;td&gt;ɔn&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ong&lt;/td&gt;
+&lt;td&gt;ɔŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ot&lt;/td&gt;
+&lt;td&gt;ɔt&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ok&lt;/td&gt;
+&lt;td&gt;ɔk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;u&lt;/td&gt;
+&lt;td&gt;u&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ui&lt;/td&gt;
+&lt;td&gt;uy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;um&lt;/td&gt;
+&lt;td&gt;ʊm&lt;/td&gt;
+&lt;td&gt;含&lt;/td&gt;
+&lt;td&gt;甫草話新增&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;un&lt;/td&gt;
+&lt;td&gt;un&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ung&lt;/td&gt;
+&lt;td&gt;ʊŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;up&lt;/td&gt;
+&lt;td&gt;ʊp&lt;/td&gt;
+&lt;td&gt;合&lt;/td&gt;
+&lt;td&gt;甫草話新增&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ut&lt;/td&gt;
+&lt;td&gt;ut&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;uk&lt;/td&gt;
+&lt;td&gt;ʊk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;eoi&lt;/td&gt;
+&lt;td&gt;ɵy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;oe&lt;/td&gt;
+&lt;td&gt;œ&lt;/td&gt;
+&lt;td&gt;靴&lt;/td&gt;
+&lt;td&gt;待調查&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;oeng&lt;/td&gt;
+&lt;td&gt;œŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;oek&lt;/td&gt;
+&lt;td&gt;œk&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;yu&lt;/td&gt;
+&lt;td&gt;y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;yun&lt;/td&gt;
+&lt;td&gt;yn&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;yut&lt;/td&gt;
+&lt;td&gt;yt&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;m&lt;/td&gt;
+&lt;td&gt;m̩&lt;/td&gt;
+&lt;td&gt;唔&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;説明-1&#34;&gt;説明&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;采用sh記舌尖中邊擦音，例字鰓shui1、肆shei3、尸shi1。（存疑，甫草話可能已與s合并）&lt;/li&gt;
-&lt;li&gt;取消韻母eo，并入a。yu短拼作y（原拼法yu，u太繁瑣，何況IPA音標對應也是y）。&lt;/li&gt;
-&lt;li&gt;eoi韻尾作y，其實際音位。&lt;/li&gt;
+&lt;li&gt;采用z,c,s記塞擦音，實際音值t͡ʃ~t͡ɕ,t͡ʃʰ~t͡ɕʰ,ʃ~ɕ。&lt;/li&gt;
+&lt;li&gt;韻母eo僅保留與eoi，其餘并入a。&lt;/li&gt;
+&lt;li&gt;eoi, oi, ui韻尾作實際音值為y，拼式簡作-i。&lt;/li&gt;
+&lt;li&gt;甫草話新增ʊm,ʊp。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&#34;聲調分佈&#34;&gt;聲調分佈&lt;/h3&gt;
@@ -5303,7 +5838,7 @@
 
 &lt;p&gt;*登*工 dang1-dang4 gung1：故意&lt;br /&gt;
 乜誰 mat1 soey4：誰&lt;br /&gt;
-一*辣過 jat1 laat6 gwo3：一列&lt;br /&gt;
+一迾過 jat1 laat6 gwo3：一列&lt;br /&gt;
 *制 zai1：願意&lt;br /&gt;
 *制*戲 zai3 hei3：耍彆扭&lt;br /&gt;
 屋企 uk1-luk1 kei2-hei2：家裏&lt;br /&gt;
@@ -5313,11 +5848,11 @@
 肚飢 tou5 gei1：餓&lt;br /&gt;
 *攪 gaau2：玩&lt;br /&gt;
 灓 lan5：滿&lt;br /&gt;
-脚囊 nong6-nong1肚：小腿&lt;br /&gt;
-矮 ngai2-ngaai2瓜：茄子&lt;br /&gt;
+脚*囊 nong6-nong1肚：小腿&lt;br /&gt;
+矮ngai2-ngaai2瓜：茄子&lt;br /&gt;
 山化 saan1 waa3：地名&lt;br /&gt;
 竹 zuk1/zyu1：簕竹zyu1園頭（簕溪）、黃竹園&lt;br /&gt;
-*凱 hoi2-ngoi2：龍凱尾，地名。&lt;br /&gt;
+*凱 ngoi2：龍凱尾，地名。&lt;br /&gt;
 嬸母 mou5-*mu5：&lt;br /&gt;
 貝水 bui3-*bu3 sui2：地名&lt;br /&gt;
 *揯 gang1：向後彎腰 説文：引、急也。从手恒声。 古恒切&lt;br /&gt;
@@ -5349,7 +5884,7 @@
 *仔zaai2：丟&lt;br /&gt;
 情況 fong3-kong3&lt;br /&gt;
 猛 maang3-mang3：猛烈&lt;br /&gt;
-*間 gan1日：明日&lt;br /&gt;
+*間 gaan1日：明日&lt;br /&gt;
 niu4 jang3：骯髒&lt;br /&gt;
 掹 mang1（53）-3：扯&lt;br /&gt;
 *盟塞：不明事理&lt;br /&gt;
@@ -5389,7 +5924,9 @@ ngaang1豆 dau6&lt;br /&gt;
 *在cui5：在&lt;br /&gt;
 ？鴨ngaap3記：講嘢荒謬&lt;br /&gt;
 *忌己：自己&lt;br /&gt;
-頻*輪：匆忙&lt;/p&gt;
+頻*輪：匆忙&lt;br /&gt;
+[衣囊]long6：褲襠 「開𧟘long6-3褲」
+舞mu5獅貓：舞獅&lt;/p&gt;
 
 &lt;h2 id=&#34;俗語&#34;&gt;俗語&lt;/h2&gt;
 
