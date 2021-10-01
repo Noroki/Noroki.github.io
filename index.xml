@@ -5129,7 +5129,7 @@
             &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;陰去&lt;/td&gt;
             &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;陽平&lt;/td&gt;
             &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;陽上&lt;/td&gt;
-            &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;陽去&lt;/td&gt;
+            &lt;td colspan=&#34;2&#34; align=&#34;center&#34; width=&#34;80px&#34;&gt;陽去&lt;/td&gt;
             &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;上陰入&lt;br&gt;（短陰入）&lt;/td&gt;
             &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;下陰入&lt;br&gt;（長陰入）&lt;/td&gt;
             &lt;td align=&#34;center&#34; width=&#34;80px&#34;&gt;上陽入&lt;br&gt;（短陽入）&lt;/td&gt;
@@ -5144,7 +5144,8 @@
             &lt;td rowspan=&#34;2&#34;&gt;32&lt;/td&gt;
             &lt;td rowspan=&#34;2&#34;&gt;21&lt;/td&gt;
             &lt;td rowspan=&#34;2&#34;&gt;13&lt;/td&gt;
-            &lt;td rowspan=&#34;2&#34;&gt;52&lt;/td&gt;
+            &lt;td&gt;52&lt;/td&gt;
+            &lt;td&gt;3&lt;/td&gt;
             &lt;td rowspan=&#34;2&#34;&gt;5&lt;/td&gt;
             &lt;td rowspan=&#34;2&#34;&gt;3&lt;/td&gt;
             &lt;td rowspan=&#34;2&#34;&gt;21&lt;/td&gt;
@@ -5152,9 +5153,11 @@
             &lt;td&gt;3&lt;/td&gt;
         &lt;/tr&gt;
             &lt;tr align=&#34;center&#34;&gt;
-            &lt;td&gt;單字/詞尾&lt;/td&gt;
+            &lt;td&gt;詞尾&lt;/td&gt;
             &lt;td&gt;詞中&lt;/td&gt;
-            &lt;td&gt;單字/詞尾&lt;/td&gt;
+            &lt;td&gt;詞尾&lt;/td&gt;
+            &lt;td&gt;詞中&lt;/td&gt;
+            &lt;td&gt;詞尾&lt;/td&gt;
             &lt;td&gt;詞中&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr align=&#34;center&#34;&gt;
@@ -5165,8 +5168,8 @@
             &lt;td&gt;&lt;b&gt;韞&lt;/b&gt;&lt;br&gt;&lt;b&gt;厭&lt;/b&gt;&lt;br&gt;&lt;b&gt;四&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;&lt;b&gt;雲&lt;/b&gt;&lt;br&gt;&lt;b&gt;嫌&lt;/b&gt;&lt;br&gt;&lt;b&gt;零&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;&lt;b&gt;尹&lt;/b&gt;&lt;br&gt;&lt;b&gt;染&lt;/b&gt;&lt;br&gt;&lt;b&gt;五&lt;/b&gt;&lt;/td&gt;
-            &lt;td&gt;&lt;b&gt;運&lt;/b&gt;&lt;br&gt;&lt;b&gt;驗&lt;/b&gt;&lt;br&gt;&lt;b&gt;二&lt;/b&gt;&lt;/td&gt;
-            &lt;td&gt;&lt;b&gt;屈&lt;/b&gt;&lt;br&gt;德&lt;br&gt;&lt;b&gt;七&lt;/b&gt;&lt;/td&gt;
+            &lt;td colspan=&#34;2&#34;&gt;&lt;b&gt;運&lt;/b&gt;&lt;br&gt;&lt;b&gt;驗&lt;/b&gt;&lt;br&gt;&lt;b&gt;二&lt;/b&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;b&gt;屈&lt;/b&gt;&lt;br&gt;&lt;b&gt;德&lt;/b&gt;&lt;br&gt;&lt;b&gt;七&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;&lt;b&gt;挖&lt;/b&gt;&lt;br&gt;&lt;b&gt;醃&lt;/b&gt;&lt;br&gt;&lt;b&gt;八&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;&lt;b&gt;核&lt;/b&gt;&lt;br&gt;&lt;b&gt;墨&lt;/b&gt;&lt;br&gt;&lt;b&gt;蔔&lt;/b&gt;
             &lt;/td&gt;
@@ -5181,7 +5184,7 @@
             &lt;td&gt;3&lt;/td&gt;
             &lt;td&gt;4&lt;/td&gt;
             &lt;td&gt;5&lt;/td&gt;
-            &lt;td&gt;6&lt;/td&gt;
+            &lt;td colspan=&#34;2&#34;&gt;6&lt;/td&gt;
             &lt;td&gt;1 (7)&lt;/td&gt;
             &lt;td&gt;3 (8)&lt;/td&gt;
             &lt;td&gt;4 (9)&lt;/td&gt;
@@ -5195,7 +5198,7 @@
             &lt;td&gt;wan&lt;b&gt;³&lt;/b&gt;&lt;br&gt;jim&lt;b&gt;³&lt;/b&gt;&lt;br&gt;sei&lt;b&gt;³&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;wan&lt;b&gt;⁴&lt;/b&gt;&lt;br&gt;him&lt;b&gt;⁴&lt;/b&gt;&lt;br&gt;ling&lt;b&gt;⁴&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;wan&lt;b&gt;⁵&lt;/b&gt;&lt;br&gt;jim&lt;b&gt;⁵&lt;/b&gt;&lt;br&gt;hung&lt;b&gt;⁵&lt;/b&gt;&lt;/td&gt;
-            &lt;td&gt;wan&lt;b&gt;⁶&lt;/b&gt;&lt;br&gt;jim&lt;b&gt;⁶&lt;/b&gt;&lt;br&gt;ji&lt;b&gt;⁶&lt;/b&gt;&lt;/td&gt;
+            &lt;td colspan=&#34;2&#34;&gt;wan&lt;b&gt;⁶&lt;/b&gt;&lt;br&gt;jim&lt;b&gt;⁶&lt;/b&gt;&lt;br&gt;ji&lt;b&gt;⁶&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;wat&lt;b&gt;¹&lt;/b&gt;&lt;br&gt;dak&lt;b&gt;¹&lt;/b&gt;&lt;br&gt;cat&lt;b&gt;¹&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;waat&lt;b&gt;³&lt;/b&gt;&lt;br&gt;jip&lt;b&gt;³&lt;/b&gt;&lt;br&gt;baat&lt;b&gt;³&lt;/b&gt;&lt;/td&gt;
             &lt;td&gt;wat&lt;b&gt;⁴&lt;/b&gt;&lt;br&gt;mak&lt;b&gt;⁴&lt;/b&gt;&lt;br&gt;bak&lt;b&gt;⁴&lt;/b&gt;&lt;/td&gt;
@@ -5309,7 +5312,7 @@
 *咕 gu1：咗&lt;br /&gt;
 肚飢 tou5 gei1：餓&lt;br /&gt;
 *攪 gaau2：玩&lt;br /&gt;
-*卵 lan5：滿&lt;br /&gt;
+灓 lan5：滿&lt;br /&gt;
 脚囊 nong6-nong1肚：小腿&lt;br /&gt;
 矮 ngai2-ngaai2瓜：茄子&lt;br /&gt;
 山化 saan1 waa3：地名&lt;br /&gt;
