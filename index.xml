@@ -4965,7 +4965,7 @@
             &lt;td&gt;&amp;nbsp;&lt;/td&gt;
             &lt;td&gt;
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;多數白讀作aŋ&#34;
-                    class=&#34;IPA&#34; style=&#34;text-decoration:line-through&#34;&gt;ɐŋ&lt;/span&gt;
+                    class=&#34;IPA&#34;&gt;ɐŋ&lt;/span&gt;
             &lt;/td&gt;
             &lt;td&gt;
                 &lt;link rel=&#34;mw-deduplicated-inline-style&#34; href=&#34;mw-data:TemplateStyles:r61209503&#34;&gt;&lt;span title=&#34;國際音標&#34;
@@ -5404,7 +5404,7 @@
 &lt;td&gt;aang&lt;/td&gt;
 &lt;td&gt;aŋ&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;含白讀ɐŋ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -5454,6 +5454,13 @@
 &lt;td&gt;ɐn&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ang&lt;/td&gt;
+&lt;td&gt;ɐŋ&lt;/td&gt;
+&lt;td&gt;等，弘&lt;/td&gt;
+&lt;td&gt;多數白讀作aŋ&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -5750,15 +5757,17 @@
 &lt;ol&gt;
 &lt;li&gt;采用z,c,s記塞擦音，實際音值t͡ʃ~t͡ɕ,t͡ʃʰ~t͡ɕʰ,ʃ~ɕ。&lt;/li&gt;
 &lt;li&gt;韻母eo僅保留與eoi，其餘并入a。&lt;/li&gt;
-&lt;li&gt;eoi, oi, ui韻尾作實際音值為y，拼式簡作-i。&lt;/li&gt;
-&lt;li&gt;甫草話新增ʊm,ʊp。&lt;/li&gt;
+&lt;li&gt;eoi, ui韻尾作實際音值為y，拼式簡作-i。&lt;/li&gt;
+&lt;li&gt;甫草話新增ʊm,ʊp。可能來自om,op。&lt;/li&gt;
+&lt;li&gt;oi消失，作ui&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;聲調分佈&#34;&gt;聲調分佈&lt;/h3&gt;
+&lt;h3 id=&#34;聲調分佈及變調&#34;&gt;聲調分佈及變調&lt;/h3&gt;
 
 &lt;p&gt;關於降聲（52），這是廣州話中沒有的聲調，聽感與普通話第四聲相近，擬作52。實測52，《比較》作52。&lt;/p&gt;
 
-&lt;p&gt;一、陰平1（45）， 詞中作55&lt;/p&gt;
+&lt;p&gt;一、陰平1（45）， 詞中作55
+雞gai45，雞gai55乸&lt;/p&gt;
 
 &lt;p&gt;二、陽去&lt;br /&gt;
 喫飯faan6&lt;br /&gt;
@@ -5779,7 +5788,7 @@
 伏fuk4&lt;br /&gt;
 服fuk4&lt;/p&gt;
 
-&lt;p&gt;四、下陽入6 （52），詞中作3（31）&lt;br /&gt;
+&lt;p&gt;四、下陽入6 （52），詞中作3（32）&lt;br /&gt;
 白baak6色&lt;br /&gt;
 麥maak6 麥maak6-3片 麥maak6-3當勞&lt;br /&gt;
 額ngaak6頭&lt;br /&gt;
@@ -5797,13 +5806,12 @@
 告白baak6：廣告&lt;br /&gt;
 鑊wok6：鍋&lt;br /&gt;
 撥but6&lt;br /&gt;
-月jyut6 月jyt6-3亮loeng6&lt;/p&gt;
+月jyut6 月jyt6-3亮loeng6&lt;br /&gt;
+承諾nok6 諾言nok6-3&lt;/p&gt;
 
 &lt;p&gt;初步結論：暫時發現降聲出現在對應廣州音陽去及陽入的聲調。陽去-陽去，陽入-上、下陽入。其中陽入的對應規律大概是短元音a屬上陽入，長元音aa屬下陽入，有明顯對立現象。其他原因對應規律不明。另外，下陽入位於非詞尾需變調成下陰入。&lt;/p&gt;
 
-&lt;h3 id=&#34;變調&#34;&gt;變調&lt;/h3&gt;
-
-&lt;p&gt;一、&lt;/p&gt;
+&lt;h3 id=&#34;甫穗對比&#34;&gt;甫穗對比&lt;/h3&gt;
 
 &lt;p&gt;二、陰平/陰去&lt;br /&gt;
 掹mang1/3：扯&lt;/p&gt;
@@ -5816,13 +5824,9 @@
 飯*faan6/4（并非合法形式，來自耀榮兄對廣州話的模仿）&lt;/p&gt;
 
 &lt;p&gt;五、4 / 6&lt;br /&gt;
-鏈lin4/6&lt;br /&gt;
-帽mou2/6&lt;br /&gt;
-料liu4/6&lt;/p&gt;
-
-&lt;p&gt;六、6 / 3（疑爲6/4）&lt;br /&gt;
-諾nok6/3&lt;br /&gt;
-絡lok6/3&lt;/p&gt;
+鏈lin6 VS lin4&lt;br /&gt;
+帽mou6 VS mou2&lt;br /&gt;
+料liu4 VS liu6&lt;/p&gt;
 
 &lt;h3 id=&#34;文白讀&#34;&gt;文白讀&lt;/h3&gt;
 
@@ -5836,14 +5840,14 @@
 
 &lt;h2 id=&#34;詞匯&#34;&gt;詞匯&lt;/h2&gt;
 
-&lt;p&gt;*登*工 dang1-dang4 gung1：故意&lt;br /&gt;
-乜誰 mat1 soey4：誰&lt;br /&gt;
+&lt;p&gt;*登*公 dang1-4 gung1：故意&lt;br /&gt;
+乜誰 mat1 sui4/seoi4：誰&lt;br /&gt;
 一迾過 jat1 laat6 gwo3：一列&lt;br /&gt;
-*制 zai1：願意&lt;br /&gt;
-*制*戲 zai3 hei3：耍彆扭&lt;br /&gt;
-屋企 uk1-luk1 kei2-hei2：家裏&lt;br /&gt;
+䎺 zai3：願意&lt;br /&gt;
+*䎺*戲 zai3 hei3：耍彆扭&lt;br /&gt;
+屋企 nuk1/luk1 hei2 ; nguk1 kei2：家裏&lt;br /&gt;
 *夫娘 fu1 noeng4:大嬸 （懷疑是新塘話）&lt;br /&gt;
-*夫乸 fu1 laa2：大嬸&lt;br /&gt;
+*夫乸 fu1 laa2：大嬸 （懷疑是新塘話）&lt;br /&gt;
 *咕 gu1：咗&lt;br /&gt;
 肚飢 tou5 gei1：餓&lt;br /&gt;
 *攪 gaau2：玩&lt;br /&gt;
@@ -5852,79 +5856,83 @@
 矮ngai2-ngaai2瓜：茄子&lt;br /&gt;
 山化 saan1 waa3：地名&lt;br /&gt;
 竹 zuk1/zyu1：簕竹zyu1園頭（簕溪）、黃竹園&lt;br /&gt;
-*凱 ngoi2：龍凱尾，地名。&lt;br /&gt;
+*凱 ?ngoi2/ngui2：龍凱尾，地名。&lt;br /&gt;
 嬸母 mou5-*mu5：&lt;br /&gt;
 貝水 bui3-*bu3 sui2：地名&lt;br /&gt;
 *揯 gang1：向後彎腰 説文：引、急也。从手恒声。 古恒切&lt;br /&gt;
-*卅 saa3（可能來自耍saa2）：玩&lt;br /&gt;
+*耍 saa3（可能來自耍saa2）：玩&lt;br /&gt;
 喫 jaak3飯：吃飯&lt;br /&gt;
 擘 maak3梯：人字梯&lt;br /&gt;
 邊處 cyu3-syu3：哪裏&lt;br /&gt;
 處 cyu5-syu3所：地方&lt;br /&gt;
-佢*芸wan4/*勤啲（=佢*芸啲）：他們&lt;br /&gt;
-我*芸wan4/*芸啲（=我*芸啲）：我們&lt;br /&gt;
+㐾wan4 = 我㐾wan4：我們&lt;br /&gt;
+㒄nan4 = 你㐾wan4：你們&lt;br /&gt;
+[人渠]kan4 = 佢㐾wan4：他們&lt;br /&gt;
+我/你/佢㐾：㐾﹐人稱複數。&lt;br /&gt;
+㐾啲：我們（的）&lt;br /&gt;
+㒄啲：你們（的）&lt;br /&gt;
+[人渠]啲：他們（的）&lt;br /&gt;
 浭 gaang3水：涉水&lt;br /&gt;
 星湖 wu4-fu4基 gei1：星湖的埂子&lt;br /&gt;
 嗚哇咯：？&lt;br /&gt;
-正一：真的是&lt;br /&gt;
+正一 zing3 jat1/at1：真的是&lt;br /&gt;
 *陰 jam1（宜今/現今）：現在&lt;br /&gt;
 來 lui4蛇：開始&lt;br /&gt;
 *滲 sam3：開心&lt;br /&gt;
 扮曬鬼：扮野&lt;br /&gt;
-叫 giu3-jiu2：&lt;br /&gt;
-*騰 tan4：害怕&lt;br /&gt;
+叫 giu3-jiu2：叫喊，呼喚 「叫*勻叫*優」：嘈冤巴閉&lt;br /&gt;
+忳 tan4：害怕&lt;br /&gt;
 梗噶 gang2 ga3：那當然&lt;br /&gt;
 屎忽 fat1-wat1-jat1：屁股&lt;br /&gt;
-告白 baak6：廣告&lt;br /&gt;
-*拖檐（jĭɛm）jim4-him4蛇：壁虎&lt;br /&gt;
-*急 gap1埋：躲起來&lt;br /&gt;
-㧬 ngung2-nung2：推&lt;br /&gt;
+告白 baak6：廣告 「賣告白」：賣廣告&lt;br /&gt;
+拖檐jim4-him4蛇：（偷鹽蛇？）壁虎&lt;br /&gt;
+鹽 him4：食鹽
+㧬/擁 ngung2-nung2：推&lt;br /&gt;
 腍 nam4：軟；（食物）爛熟&lt;br /&gt;
-（金彭）paang1：平底鍋&lt;br /&gt;
-*仔zaai2：丟&lt;br /&gt;
+𨭌/甏 paang1：平底鍋&lt;br /&gt;
+捚 zaai2：丟，投擲&lt;br /&gt;
 情況 fong3-kong3&lt;br /&gt;
 猛 maang3-mang3：猛烈&lt;br /&gt;
 *間 gaan1日：明日&lt;br /&gt;
 niu4 jang3：骯髒&lt;br /&gt;
-掹 mang1（53）-3：扯&lt;br /&gt;
-*盟塞：不明事理&lt;br /&gt;
-塘（虫尾）mei1-4：蜻蜓&lt;br /&gt;
+掹/擝 mang3：扯&lt;br /&gt;
+*盟塞 mang4 sak1：不明事理&lt;br /&gt;
+塘[虫尾]mei1-4：蜻蜓&lt;br /&gt;
 蛇仔爧 leng6：閃電&lt;br /&gt;
 生sang1-saang1：具有某種特徵，像 e.g. 生餓鬼：像飢餓極了的樣子&lt;br /&gt;
 *攪*吵 gaau2 caau2：搗蛋，調皮&lt;br /&gt;
 ngau1：躲，藏&lt;br /&gt;
-gap1：躲藏&lt;br /&gt;
+*急 gap1：躲藏&lt;br /&gt;
+*急 gap1埋：躲起來&lt;br /&gt;
 匿nei1：躲藏&lt;br /&gt;
-*扱翳頭篷 kap1 ngai3 tau4 pong4：蒙住頭&lt;br /&gt;
+扱翳頭篷 kap1 ngai3 tau4 pong4：蒙住頭&lt;br /&gt;
 kaai5：拿，提&lt;br /&gt;
 西江河（West River）：相當於廣州珠江的母親河，有著獨特的象徵意義。“跳~”。&lt;br /&gt;
 餲 ngaat3-ngaak3：（尿）臊臭&lt;br /&gt;
 炕床 kong3 cong4：&lt;br /&gt;
 貪*滲*搞 taam1 sam3 gaau2：貪玩&lt;br /&gt;
-*滲 sam3：開心&lt;br /&gt;
-炊糕：鬆糕。源自烹飪方法「炊」。&lt;br /&gt;
-芋*合 haap6：芋頭葉子的肉。*合 haap3:菜叶。&lt;br /&gt;
+炊 cui1糕：鬆糕。源自烹飪方法「炊」。&lt;br /&gt;
+芋 wu6-3 *合 haap6-3：芋頭葉子的肉。*合 haap3:菜叶。&lt;br /&gt;
 坐 co5-zo5&lt;br /&gt;
 昏 fan1-wan1&lt;br /&gt;
 似 ci5-zei5&lt;br /&gt;
-jaang3:蹬，跑&lt;br /&gt;
+*牚 jaang3:蹬，跑&lt;br /&gt;
 痴头婆：苍耳&lt;br /&gt;
-四方梗 kwaang2&lt;br /&gt;
+四方*梗 kwaang2&lt;br /&gt;
 文㞧 hing3 （wui6 huì）鲤。㞧，「會」異體字。&lt;br /&gt;
 盲黑 haak1：不講道理&lt;br /&gt;
-黃pau1頭:黃毛小子&lt;br /&gt;
+黃*否 pau1頭:黃毛小子&lt;br /&gt;
 眉豆 dau6 &lt;br /&gt;
-ngaang1豆 dau6&lt;br /&gt;
-我/你/佢*云：云﹐人稱複數。&lt;br /&gt;
-*蒜 syn3雞：騸雞&lt;br /&gt;
-碌 luk1堆：煎堆&lt;br /&gt;
-*滋*油 zi155 jau4：慢吞吞&lt;br /&gt;
+*罌 ngaang1豆 dau6&lt;br /&gt;
+鏾 syn3雞：閹雞&lt;br /&gt;
+碌堆 luk1 dui1：煎堆&lt;br /&gt;
+*滋*油 zi1 jau4：慢吞吞&lt;br /&gt;
 蕃薯乾 gyn1&lt;br /&gt;
 鐵砂梨：咬不入&lt;br /&gt;
-*在cui5：在&lt;br /&gt;
+在 cui5：在，表示時間地點範圍等&lt;br /&gt;
 ？鴨ngaap3記：講嘢荒謬&lt;br /&gt;
 *忌己：自己&lt;br /&gt;
-頻*輪：匆忙&lt;br /&gt;
+頻蹸 pan4 lan4：匆忙&lt;br /&gt;
 [衣囊]long6：褲襠 「開𧟘long6-3褲」
 舞mu5獅貓：舞獅&lt;/p&gt;
 
@@ -6041,7 +6049,8 @@ ngaang1豆 dau6&lt;br /&gt;
 &lt;h1 id=&#34;更新履歷&#34;&gt;更新履歷&lt;/h1&gt;
 
 &lt;p&gt;2021.2.7 結合實驗數據，修正聲調數值。&lt;br /&gt;
-2021.2.8 追加陽入描述。更換長地圖。&lt;/p&gt;
+2021.2.8 追加陽入描述。更換長地圖。&lt;br /&gt;
+2021.10.1 追加音系，拼音方案。&lt;/p&gt;
 
 &lt;h1 id=&#34;參考文獻&#34;&gt;參考文獻&lt;/h1&gt;
 
