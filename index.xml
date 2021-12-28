@@ -10258,6 +10258,18 @@ kaai5：拿，提&lt;br /&gt;
 &lt;/div&gt;
 
 
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/6jRQvj4o3KM&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
 &lt;blockquote&gt;
 &lt;p&gt;リリース  2020年4月13日&lt;br /&gt;
 作詞者   Chinozo&lt;br /&gt;
@@ -10301,7 +10313,14 @@ Wow wow wow 家に籠って 狂い咲く&lt;/p&gt;
 聴き殺してランデブー 俺の私の音を 君が包むだけ&lt;br /&gt;
 Wow wow wow 時がきた&lt;br /&gt;
 Wow wow wow エゴ放て&lt;br /&gt;
-恥を捨てられる 家（このばしょ）に狂い咲け&lt;/p&gt;
+恥を捨てられる
+&lt;ruby&gt;
+    &lt;rb&gt;家&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;このばしょ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+に狂い咲け&lt;/p&gt;
 </description>
         </item>
         <item>
