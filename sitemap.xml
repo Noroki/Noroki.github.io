@@ -2,22 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noroki.github.io/categories/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/categories/kor/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/categories/lyric/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/p/psycho/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/tags/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/post/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/kor/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/tags/%EA%B0%80%EC%82%AC/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/tags/%ED%95%9C%EA%B5%AD%EC%96%B4/</loc>
+    <lastmod>2022-02-09T18:38:01+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/p/loser/</loc>
+    <lastmod>2022-02-09T18:38:00+08:00</lastmod>
+  </url><url>
     <loc>https://noroki.github.io/categories/cantonese/</loc>
     <lastmod>2021-12-30T17:38:00+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/categories/</loc>
-    <lastmod>2021-12-30T17:38:00+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/categories/chn/</loc>
-    <lastmod>2021-12-30T17:38:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/categories/lyric/</loc>
-    <lastmod>2021-12-30T17:38:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/</loc>
-    <lastmod>2021-12-30T17:38:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/post/</loc>
     <lastmod>2021-12-30T17:38:00+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/tags/%E5%A1%AB%E8%A9%9E/</loc>
@@ -29,9 +53,6 @@
     <loc>https://noroki.github.io/p/%E6%AE%98%E9%9F%BF%E6%95%A3%E6%AD%8C/</loc>
     <lastmod>2021-12-30T17:38:00+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/</loc>
-    <lastmod>2021-12-30T17:38:00+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/post/linguistics/chn/</loc>
     <lastmod>2021-12-30T17:38:00+08:00</lastmod>
   </url><url>
@@ -39,9 +60,6 @@
     <lastmod>2021-12-30T17:38:00+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/post/linguistics/chn/cantonese/</loc>
-    <lastmod>2021-12-30T17:38:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/post/linguistics/</loc>
     <lastmod>2021-12-30T17:38:00+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/categories/linguistics/</loc>
@@ -155,22 +173,16 @@
     <loc>https://noroki.github.io/p/%E6%B8%AF%E6%8B%BC%E8%BD%89%E5%AF%AB%E8%A6%8F%E5%89%87/</loc>
     <lastmod>2021-09-02T22:42:13+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/categories/kor/</loc>
-    <lastmod>2021-09-01T23:16:02+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/p/%E6%94%BB%E6%93%8A%E6%88%B0%EC%9D%B4%EB%8B%A4/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/post/linguistics/dprk/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/tags/%EA%B0%80%EC%82%AC/</loc>
-    <lastmod>2021-09-01T23:16:02+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/tags/%EC%A1%B0%EC%84%A0%EC%96%B4/</loc>
     <lastmod>2021-09-01T23:16:02+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/p/%E6%9D%8F%E3%81%AE%E8%8A%B1/</loc>
+    <loc>https://noroki.github.io/p/%E6%9D%8F%E5%AD%90%E3%81%AE%E8%8A%B1/</loc>
     <lastmod>2021-09-01T23:16:00+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/</loc>
@@ -191,13 +203,7 @@
     <loc>https://noroki.github.io/p/%E7%8D%B8%E5%94%B8/</loc>
     <lastmod>2021-08-29T20:59:00+08:00</lastmod>
   </url><url>
-    <loc>https://noroki.github.io/post/linguistics/kor/</loc>
-    <lastmod>2021-08-29T20:59:00+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/p/%EA%B9%8C%ED%83%88%EB%A0%88%EB%82%98/</loc>
-    <lastmod>2021-08-29T20:59:00+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/%ED%95%9C%EA%B5%AD%EC%96%B4/</loc>
     <lastmod>2021-08-29T20:59:00+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/p/%E3%83%80%E3%83%80%E3%83%80%E3%83%80%E5%A4%A9%E4%BD%BF/</loc>
