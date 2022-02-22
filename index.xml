@@ -309,6 +309,16 @@
 &lt;/div&gt;
 
 
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/QoikfllByR0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
 &lt;h2 id=&#34;食虫植物-식충식물&#34;&gt;食虫植物 식충식물&lt;/h2&gt;
 
 &lt;p&gt;食べなくちゃ 食べなくちゃ&lt;br /&gt;
