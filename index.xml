@@ -12177,7 +12177,7 @@ kaai5：拿，提&lt;br /&gt;
 
 &lt;ul&gt;
     &lt;li&gt;
-        &lt;p&gt;例中，上行為地名，（如有）中行為地鐵站名，（如有）下行為專有名詞。&lt;/p&gt;
+        &lt;p&gt;例中，上行為地名，（如有）中行為地鐵站名，（如有）下行為專有名詞或人名。&lt;/p&gt;
     &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -12335,7 +12335,7 @@ kaai5：拿，提&lt;br /&gt;
                     &lt;tr&gt;
                         &lt;td style=&#34;text-align: left;&#34; rowspan=&#34;2&#34;&gt;tʃ~ts&lt;/td&gt;
                         &lt;td style=&#34;text-align: left;&#34; rowspan=&#34;2&#34;&gt;z&lt;/td&gt;
-                        &lt;td style=&#34;text-align: left;&#34;&gt;ch&lt;/td&gt;
+                        &lt;td style=&#34;text-align: left;&#34;&gt;ch, (j)&lt;/td&gt;
                         &lt;td style=&#34;text-align: left;&#34;&gt;tʃ&lt;/td&gt;
                         &lt;td style=&#34;text-align: left;&#34;&gt;
                             &lt;ul&gt;
@@ -12343,11 +12343,14 @@ kaai5：拿，提&lt;br /&gt;
                                     &lt;strong&gt;Ch&lt;/strong&gt;eung Muk Tau 樟木頭
                                 &lt;/li&gt;
                                 &lt;li&gt;Wong &lt;strong&gt;Ch&lt;/strong&gt;uk Hang 黃竹坑&lt;/li&gt;
+                                &lt;li&gt;
+                                    (Wong &lt;strong&gt;J&lt;/strong&gt;im 黃霑)
+                                &lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
                     &lt;tr&gt;
-                        &lt;td style=&#34;text-align: left;&#34;&gt;ts, (ch)&lt;/td&gt;
+                        &lt;td style=&#34;text-align: left;&#34;&gt;ts, (ch, j)&lt;/td&gt;
                         &lt;td style=&#34;text-align: left;&#34;&gt;ts&lt;/td&gt;
                         &lt;td style=&#34;text-align: left;&#34;&gt;
                             &lt;ul&gt;
@@ -12355,6 +12358,9 @@ kaai5：拿，提&lt;br /&gt;
                                     &lt;strong&gt;Ts&lt;/strong&gt;eung Kwan O 將軍澳
                                 &lt;/li&gt;
                                 &lt;li&gt;&lt;strong&gt;Ts&lt;/strong&gt;eung Kwan O 將軍澳, (Wan &lt;strong&gt;Ch&lt;/strong&gt;ai 灣仔)&lt;/li&gt;
+                                &lt;li&gt;
+                                    (Yen &lt;strong&gt;J&lt;/strong&gt;i-Dan 甄子丹, Wong &lt;strong&gt;J&lt;/strong&gt;ing 王晶, Kuk &lt;strong&gt;J&lt;/strong&gt;o-Lam 谷祖琳)
+                                &lt;/li&gt;
                             &lt;/ul&gt;
                         &lt;/td&gt;
                     &lt;/tr&gt;
@@ -12487,12 +12493,13 @@ kaai5：拿，提&lt;br /&gt;
                         &lt;br&gt;g(+u)&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;
                             role=&#34;doc-noteref&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;
                     &lt;/td&gt;
-                    &lt;td style=&#34;text-align: left;&#34;&gt;kw(, k: before u[u](free variant) or oo[u])&lt;/td&gt;
+                    &lt;td style=&#34;text-align: left;&#34;&gt;kw, (k: before u[u](free variant) or oo[u])&lt;/td&gt;
                     &lt;td style=&#34;text-align: left;&#34;&gt;/&lt;/td&gt;
                     &lt;td style=&#34;text-align: left;&#34;&gt;
                         &lt;ul&gt;
-                            &lt;li&gt;&lt;strong&gt;Kw&lt;/strong&gt;un Chung 官涌&lt;/li&gt;(, Lok &lt;strong&gt;K&lt;/strong&gt;u Road 樂古道, Tai&lt;strong&gt;k&lt;/strong&gt;oo Shing Road 太古城道)
+                            &lt;li&gt;&lt;strong&gt;Kw&lt;/strong&gt;un Chung 官涌&lt;/li&gt;, (Lok &lt;strong&gt;K&lt;/strong&gt;u Road 樂古道, Tai&lt;strong&gt;k&lt;/strong&gt;oo Shing Road 太古城道)
                             &lt;li&gt;Tseung &lt;strong&gt;Kw&lt;/strong&gt;an O 將軍澳&lt;/li&gt;
+                            &lt;li&gt;(&lt;strong&gt;K&lt;/strong&gt;u Kui-Kei 古巨基, &lt;strong&gt;K&lt;/strong&gt;oo Tin-Lok 古天樂, Hui &lt;strong&gt;K&lt;/strong&gt;oon-Kit 許冠傑)&lt;/li&gt;
                         &lt;/ul&gt;
                     &lt;/td&gt;
                 &lt;/tr&gt;
@@ -12581,8 +12588,8 @@ kaai5：拿，提&lt;br /&gt;
     &lt;tbody&gt;
         &lt;div id=&#34;a&#34;&gt;
             &lt;tr&gt;
-                &lt;td style=&#34;text-align: left;&#34; rowspan=&#34;4&#34;&gt;a&lt;/td&gt;
-                &lt;td style=&#34;text-align: left;&#34; rowspan=&#34;4&#34;&gt;aa&lt;/td&gt;
+                &lt;td style=&#34;text-align: left;&#34; rowspan=&#34;5&#34;&gt;a&lt;/td&gt;
+                &lt;td style=&#34;text-align: left;&#34; rowspan=&#34;5&#34;&gt;aa&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;a&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;/&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;
@@ -12596,7 +12603,14 @@ kaai5：拿，提&lt;br /&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;ah&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;a&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;
-                    Wing W&lt;strong&gt;ah&lt;/strong&gt; 榮華
+                    Wing W&lt;strong&gt;ah&lt;/strong&gt; 榮華; Wong Chi-W&lt;strong&gt;ah&lt;/strong&gt; 黃子華, Lau Tak-W&lt;strong&gt;ah&lt;/strong&gt; 劉德華, Tse Tin-W&lt;strong&gt;ah&lt;/strong&gt; 謝天華
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;text-align: left;&#34;&gt;ar&lt;/td&gt;
+                &lt;td style=&#34;text-align: left;&#34;&gt;a&lt;/td&gt;
+                &lt;td style=&#34;text-align: left;&#34;&gt;
+                    Chin K&lt;strong&gt;ar&lt;/strong&gt;-Lok 錢嘉樂, Law K&lt;strong&gt;ar&lt;/strong&gt;-Ying 羅家英
                 &lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
@@ -12651,7 +12665,9 @@ kaai5：拿，提&lt;br /&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;o(w)&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;ɐu&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;
-                    Ch&lt;strong&gt;o&lt;/strong&gt;w Tin Tsuen 週田村
+                    &lt;li&gt;Ch&lt;strong&gt;o&lt;/strong&gt;w Tin Tsuen 週田村&lt;/li&gt;
+                    &lt;li&gt;N/A&lt;/li&gt;
+                    &lt;li&gt;Ch&lt;strong&gt;o&lt;/strong&gt;w Sing-Chi 周星馳, Ch&lt;strong&gt;o&lt;/strong&gt;w Yun-Fat 周潤發&lt;/li&gt;
                 &lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
@@ -12845,6 +12861,11 @@ kaai5：拿，提&lt;br /&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;oh&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;o&lt;/td&gt;
                 &lt;td style=&#34;text-align: left;&#34;&gt;Tai W&lt;strong&gt;oh&lt;/strong&gt; Ping Road 大窩坪道, 窩仔街 W&lt;strong&gt;oh&lt;/strong&gt; Chai Street&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td style=&#34;text-align: left;&#34;&gt;aw&lt;/td&gt;
+                &lt;td style=&#34;text-align: left;&#34;&gt;o (羅)&lt;/td&gt;
+                &lt;td style=&#34;text-align: left;&#34;&gt;L&lt;strong&gt;aw&lt;/strong&gt; Lan 羅蘭, L&lt;strong&gt;aw&lt;/strong&gt; Kar-Ying 羅家英&lt;/td&gt;
             &lt;/tr&gt;
             &lt;div id=&#34;o&#34;&gt;
                 &lt;tr&gt;
@@ -14130,10 +14151,85 @@ Wow wow wow エゴ放て&lt;br /&gt;
 
 &lt;h2 id=&#34;까탈레나&#34;&gt;까탈레나&lt;/h2&gt;
 
-&lt;p&gt;춤추는 작은 까탈레나 (Red Sun)&lt;br /&gt;
-나도 모르게 빠져 들어가&lt;br /&gt;
-도도한 콧대 까탈레나 (Red Sun)&lt;br /&gt;
-Jutti Meri Oye Hoi Hoi 홀려 들어가&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;
+    &lt;rb&gt;踊&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;추&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;ㅁ
+&lt;ruby&gt;
+    &lt;rb&gt;踊&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;추&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;는　
+&lt;ruby&gt;
+    &lt;rb&gt;小&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;작&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;은　까탈레나　(Red Sun)&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;僕&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;나&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;도　
+&lt;ruby&gt;
+    &lt;rb&gt;知無&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;모&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;르게　
+&lt;ruby&gt;
+    &lt;rb&gt;落&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;빠&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;져　
+&lt;ruby&gt;
+    &lt;rb&gt;入&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;드&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;ㄹ어
+&lt;ruby&gt;
+    &lt;rb&gt;行&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;가&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;横柄&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;도도&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;한　
+&lt;ruby&gt;
+    &lt;rb&gt;鼻莖&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;콧대&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;　까탈레나　(Red Sun)&lt;br /&gt;
+Jutti Meri Oye Hoi Hoi　
+&lt;ruby&gt;
+    &lt;rb&gt;惑&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;호&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;ㄹ려　
+&lt;ruby&gt;
+    &lt;rb&gt;入&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;드&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;ㄹ어
+&lt;ruby&gt;
+    &lt;rb&gt;行&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;가&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;/p&gt;
 
 &lt;p&gt;어머머머 멋있어 반했어&lt;br /&gt;
 어쩜 같은 여자끼리 봐도 참 멋있어&lt;br /&gt;

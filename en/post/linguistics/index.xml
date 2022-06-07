@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linguistics on Noroki</title>
+    <link>https://noroki.github.io/en/post/linguistics/</link>
+    <description>Recent content in Linguistics on Noroki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Oct 2021 17:16:36 +0800</lastBuildDate><atom:link href="https://noroki.github.io/en/post/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPA Note</title>
+      <link>https://noroki.github.io/en/p/ipa-note/</link>
+      <pubDate>Thu, 23 Sep 2021 20:09:44 +0800</pubDate>
+      
+      <guid>https://noroki.github.io/en/p/ipa-note/</guid>
+      <description>Pulmonic consonants   Place →  Labial  Coronal  Dorsal  Laryngeal   Manner ↓  Bi­labial  Labio­dental  Linguo­labial  Dental  Alveolar  Post­alveolar  Retro­flex  Palatal  Velar  Uvular  Pharyn­geal/epi­glottal  Glottal    Nasal  m̥  m    ɱ    n̼      n̥  n      ɳ̊  ɳ  ɲ̊  ɲ  ŋ̊  ŋ    ɴ        Plosive  p  b  p̪  b̪  t̼  d̼      t  d      ʈ  ɖ  c  ɟ  k  ɡ  q  ɢ  ʡ   ʔ     Sibilant fricative            s  z  ʃ  ʒ  ʂ  ʐ  ɕ  ʑ            Non-sibilant fricative  ɸ  β  f  v  θ̼  ð̼  θ  ð  θ̠  ð̠  ɹ̠̊˔  ɹ̠˔    ɻ˔  ç  ʝ  x  ɣ  χ  ʁ  ħ  ʕ  h  ɦ    Approximant       ʋ          ɹ        ɻ    j    ɰ         ʔ̞    Tap/flap    ⱱ̟    ⱱ    ɾ̼      ɾ̥  ɾ      ɽ̊  ɽ          ɢ̆    ʡ̆      Trill  ʙ̥  ʙ              r̥  r      ɽ̊r̥  ɽr        ʀ̥  ʀ  ʜ  ʢ      Lateral fricative              ɬ  ɮ      ɭ̊˔  ɭ˔  ʎ̝̊  ʎ̝  ʟ̝̊  ʟ̝            Lateral approximant                l        ɭ    ʎ    ʟ    ʟ̠        Lateral tap/flap              ɺ̥  ɺ      ɭ̥̆  ɭ̆    ʎ̆    ʟ̆              Non-pulmonic consonants   BL  LD  D  A  PA  RF  P  V  U  EG    Ejective  Stop  pʼ     tʼ   ʈʼ  cʼ  kʼ  qʼ  ʡʼ    Fricative  ɸʼ  fʼ  θʼ  sʼ  ʃʼ  ʂʼ  ɕʼ  xʼ  χʼ      Lateral fricative     ɬʼ              Click</description>
+    </item>
+    
+  </channel>
+</rss>
