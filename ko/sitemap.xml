@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://noroki.github.io/en/"
                 />
@@ -18,6 +23,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://noroki.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,6 +44,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://noroki.github.io/en/categories/"
                 />
@@ -41,6 +56,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://noroki.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,6 +100,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/categories/lyric/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://noroki.github.io/ko/categories/lyric/"
                 />
@@ -93,6 +118,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://noroki.github.io/en/post/"
                 />
@@ -100,6 +130,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://noroki.github.io/ja/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -116,6 +151,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://noroki.github.io/en/tags/"
                 />
@@ -123,6 +163,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://noroki.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -292,6 +337,11 @@
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-hk"
                 href="https://noroki.github.io/page/"
                 />
@@ -307,12 +357,22 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://noroki.github.io/ko/page/"
                 />
   </url><url>
     <loc>https://noroki.github.io/ko/%EC%9E%90%EA%B8%B0-%EC%86%8C%EA%B0%9C/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/%E7%AE%80%E4%BB%8B/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -327,6 +387,11 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://noroki.github.io/ja/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/t%E1%BB%B1-gi%E1%BB%9Bi-thi%E1%BB%87u/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -377,6 +442,11 @@
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-hk"
                 href="https://noroki.github.io/archives/"
                 />
@@ -401,6 +471,11 @@
                 rel="alternate"
                 hreflang="zh-hk"
                 href="https://noroki.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
