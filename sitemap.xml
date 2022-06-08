@@ -15,4 +15,18 @@
     
   </sitemap>
   
+  <sitemap>
+    <loc>https://noroki.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://noroki.github.io/ko/sitemap.xml</loc>
+    
+      <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>
