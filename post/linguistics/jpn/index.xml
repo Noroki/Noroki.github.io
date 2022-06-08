@@ -1,512 +1,1548 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>日本語 on 泛物齋</title>
-    <link>https://noroki.github.io/post/linguistics/jpn/</link>
-    <description>Recent content in 日本語 on 泛物齋</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 23:59:59 +0800</lastBuildDate><atom:link href="https://noroki.github.io/post/linguistics/jpn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>食虫植物</title>
-      <link>https://noroki.github.io/p/%E9%A3%9F%E8%99%AB%E6%A4%8D%E7%89%A9/</link>
-      <pubDate>Sun, 13 Feb 2022 23:59:59 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E9%A3%9F%E8%99%AB%E6%A4%8D%E7%89%A9/</guid>
-      <description>食虫植物 식충식물 食べなくちゃ 食べなくちゃ
-먹어야만 해 먹어야만 해
-嫌なこと忘れさせて?
-싫은 일 잊게 해줄래?
-いかないで ねぇいかないで?
-가지 마, 응? 가지 말아줘
-君の体温と 心 臓
-너의 체온과, 심장.
-アイ アイ アイラブユーと
-I I LOVE YOU와
-アイ アイ アイヘイチュー
-I I I HATE YOU
-君のすべてがあたしならいいのに
-너의 모든 것이 나였다면 좋을 텐데
-満たされない 満たされない
-채워지지 않아, 채워지지 않아
-満たされない のは フィーリング
-채워지지 않는, 것은, feeling,
-愛されたい 愛されたい
-사랑받고 싶어, 사랑받고 싶어</description>
-    </item>
+    <channel>
+        <title>日本語 on 泛物齋</title>
+        <link>https://noroki.github.io/post/linguistics/jpn/</link>
+        <description>Recent content in 日本語 on 泛物齋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 13 Feb 2022 23:59:59 +0800</lastBuildDate><atom:link href="https://noroki.github.io/post/linguistics/jpn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>食虫植物</title>
+        <link>https://noroki.github.io/p/%E9%A3%9F%E8%99%AB%E6%A4%8D%E7%89%A9/</link>
+        <pubDate>Sun, 13 Feb 2022 23:59:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E9%A3%9F%E8%99%AB%E6%A4%8D%E7%89%A9/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E9%A3%9F%E8%99%AB%E6%A4%8D%E7%89%A9/cover.jpeg" alt="Featured image of post 食虫植物" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/F9eCSWEJYjk&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/QoikfllByR0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;食虫植物-식충식물&#34;&gt;食虫植物 식충식물&lt;/h2&gt;
+
+&lt;p&gt;食べなくちゃ 食べなくちゃ&lt;br /&gt;
+먹어야만 해 먹어야만 해&lt;br /&gt;
+嫌なこと忘れさせて?&lt;br /&gt;
+싫은 일 잊게 해줄래?&lt;/p&gt;
+
+&lt;p&gt;いかないで ねぇいかないで?&lt;br /&gt;
+가지 마, 응? 가지 말아줘&lt;br /&gt;
+君の体温と 心 臓&lt;br /&gt;
+너의 체온과, 심장.&lt;/p&gt;
+
+&lt;p&gt;アイ アイ アイラブユーと&lt;br /&gt;
+I I LOVE YOU와&lt;br /&gt;
+アイ アイ アイヘイチュー&lt;br /&gt;
+I I I HATE YOU&lt;br /&gt;
+君のすべてがあたしならいいのに&lt;br /&gt;
+너의 모든 것이 나였다면 좋을 텐데&lt;/p&gt;
+
+&lt;p&gt;満たされない 満たされない&lt;br /&gt;
+채워지지 않아, 채워지지 않아&lt;br /&gt;
+満たされない のは フィーリング&lt;br /&gt;
+채워지지 않는, 것은, feeling,&lt;br /&gt;
+愛されたい 愛されたい&lt;br /&gt;
+사랑받고 싶어, 사랑받고 싶어&lt;br /&gt;
+愛されたいのは機密事項!&lt;br /&gt;
+사랑받고 싶은 것은 기밀사항!&lt;/p&gt;
+
+&lt;p&gt;吐かなくちゃ もう吐かなくちゃ&lt;br /&gt;
+토해내야 해 그만 토해내야 해&lt;br /&gt;
+さめざめ泣いても終電だ&lt;br /&gt;
+하염없이 울어봤자 종점이야&lt;/p&gt;
+
+&lt;p&gt;可愛くない 可愛くない&lt;br /&gt;
+귀엽지 않아, 귀엽지 않아&lt;br /&gt;
+可愛くないから 消えたい?&lt;br /&gt;
+귀엽지 않으니까, 사라지고 싶어?&lt;/p&gt;
+
+&lt;p&gt;現在開発中のアンケート調査ツール&lt;br /&gt;
+현재 개발중인 앙케이트 조사 도구&lt;br /&gt;
+「あたしのすべてがあの子ならいいのに」&lt;br /&gt;
+「나의 모든 것이 그 아이라면 좋을텐데」&lt;/p&gt;
+
+&lt;p&gt;満たされない 満たされない&lt;br /&gt;
+채워지지 않아, 채워지지 않아&lt;br /&gt;
+満たされないのはフィーリング&lt;br /&gt;
+채워지지 않는, 것은, feeling,&lt;/p&gt;
+
+&lt;p&gt;理解されない 理解されたい&lt;br /&gt;
+이해되지 않아, 이해받고 싶어&lt;br /&gt;
+理解されないのは地球規模&lt;br /&gt;
+이해되지 않는 것은 지구규모&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;cover.gif&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;満たされたい 満たされたい&lt;br /&gt;
+채워지고 싶어, 채워지고 싶어&lt;br /&gt;
+満たされないから 嫌い&lt;br /&gt;
+채워지지 않으, 니까, 싫어.&lt;/p&gt;
+
+&lt;p&gt;愛されたい 愛されたい&lt;br /&gt;
+사랑받고 싶어, 사랑받고 싶어&lt;br /&gt;
+愛されたいのは 地球規模!&lt;br /&gt;
+사랑받고 싶은 것은 지구규모!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>フォニイ</title>
+        <link>https://noroki.github.io/p/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4/</link>
+        <pubDate>Tue, 28 Dec 2021 14:52:00 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4/cover.jpeg" alt="Featured image of post フォニイ" /&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/9QLT1Aw_45s&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/qzUU5tfFAeA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;フォニイ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;この世で
+&lt;ruby&gt;
+    &lt;rb&gt;造花&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;ぞうか&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+より綺麗な花は無いわ&lt;br /&gt;
+何故ならば
+&lt;ruby&gt;
+    &lt;rb&gt;総&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;すべ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+ては嘘で出来ている&lt;br /&gt;
+antipathy world&lt;/p&gt;
+
+&lt;p&gt;絶望の雨はあたしの傘を突いて&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;湿&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;しめ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+らす前髪とこころの
+&lt;ruby&gt;
+    &lt;rb&gt;裏面&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;りめん&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;煩&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;わずら&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+わしいわ&lt;/p&gt;
+
+&lt;p&gt;何時しか言の葉は
+&lt;ruby&gt;
+    &lt;rb&gt;疾&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;と&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+うに枯れきって&lt;br /&gt;
+事の実があたしに
+&lt;ruby&gt;
+    &lt;rb&gt;熟&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;う&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+れている&lt;br /&gt;
+鏡に映り嘘を
+&lt;ruby&gt;
+    &lt;rb&gt;描&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;えが&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+いて自らを見失なった
+&lt;ruby&gt;
+    &lt;rb&gt;絵画&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;メイク&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;&lt;/p&gt;
+
+&lt;p&gt;パパッパラパッパララッパッパ&lt;br /&gt;
+謎々かぞえて遊びましょう&lt;br /&gt;
+タタッタラタッタララッタッタ&lt;br /&gt;
+何故何故此処で踊っているでしょう&lt;/p&gt;
+
+&lt;p&gt;簡単なことも解らないわ あたしって何だっけ&lt;br /&gt;
+それすら夜の手に
+&lt;ruby&gt;
+    &lt;rb&gt;絆&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;ほだ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+されて 愛のように消える&lt;br /&gt;
+さようならも言えぬ儘 泣いたフォニイ&lt;br /&gt;
+嘘に絡まっているあたしはフォニイ&lt;br /&gt;
+antipathy world&lt;/p&gt;
+
+&lt;p&gt;何時しかそらの音がいやに鳴り合って&lt;br /&gt;
+色の目があなたを溶いている&lt;br /&gt;
+鏡に映るあたしを欠いて誰しもが見間違った
+&lt;ruby&gt;
+    &lt;rb&gt;虚像&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;フェイク&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&lt;br /&gt;
+如何して愛なんてものに
+&lt;ruby&gt;
+    &lt;rb&gt;群&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;むら&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+がりそれを
+&lt;ruby&gt;
+    &lt;rb&gt;欲&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;ほっ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+して生きるのだ&lt;br /&gt;
+今日も泳いでいる夜の電車が通り去っていく&lt;br /&gt;
+踊り
+&lt;ruby&gt;
+    &lt;rb&gt;明&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;あ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+かせよ&lt;/p&gt;
+
+&lt;p&gt;パッパラパッパララッパッパ&lt;br /&gt;
+謎々騙して歌いましょう&lt;br /&gt;
+タタッタラタッタララッタッタ&lt;br /&gt;
+何故何故此処が
+&lt;ruby&gt;
+    &lt;rb&gt;痛&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;いた&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+むのでしょう&lt;/p&gt;
+
+&lt;p&gt;散々な日々は変わらないわ&lt;br /&gt;
+絶望の雨は
+&lt;ruby&gt;
+    &lt;rb&gt;止&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;や&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+まないわ&lt;br /&gt;
+さようならも言えぬ儘 泣いたフォニイ &lt;br /&gt;
+嘘に絡まっている　ただ&lt;/p&gt;
+
+&lt;p&gt;簡単なことも解らないわ あたしって何だっけ&lt;br /&gt;
+それすら夜の手に絆されて 愛のように消える&lt;br /&gt;
+さようならまたねと
+&lt;ruby&gt;
+    &lt;rb&gt;呟&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;つぶや&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+いた フォニイ&lt;br /&gt;
+嘘に絡まっているあたしはフォニイ&lt;br /&gt;
+造花だけが知っている秘密のフォニイ&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>メルの黄昏</title>
+        <link>https://noroki.github.io/p/%E3%83%A1%E3%83%AB%E3%81%AE%E9%BB%84%E6%98%8F/</link>
+        <pubDate>Tue, 23 Nov 2021 20:34:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%A1%E3%83%AB%E3%81%AE%E9%BB%84%E6%98%8F/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%A1%E3%83%AB%E3%81%AE%E9%BB%84%E6%98%8F/cover.jpg" alt="Featured image of post メルの黄昏" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/zQZVvLsw4Gw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;メルの黄昏&#34;&gt;メルの黄昏&lt;/h2&gt;
+
+&lt;p&gt;メル&lt;br /&gt;
+君はそうやっていつも自分を責めてばかりだ&lt;br /&gt;
+テレビのニュースもあの子の自殺も&lt;br /&gt;
+君のせいではないんだよ&lt;/p&gt;
+
+&lt;p&gt;メル&lt;br /&gt;
+君はそうやっていつも自分を責めてばかりだ&lt;br /&gt;
+正義はいつも移り変わる&lt;br /&gt;
+過去など関係ない&lt;/p&gt;
+
+&lt;p&gt;意味を知らず雪を見ていた&lt;br /&gt;
+寂しさばかり積もるばかり&lt;br /&gt;
+恋をしてた見える全てに&lt;br /&gt;
+カーテンの隙間で揺れ動く&lt;/p&gt;
+
+&lt;p&gt;世界を見るメル&lt;br /&gt;
+君はいつも悲しい顔でテレビを見てる&lt;br /&gt;
+正義などない&lt;br /&gt;
+好きなものを信じなさい&lt;br /&gt;
+でも君は変わらない&lt;/p&gt;
+
+&lt;p&gt;メル&lt;br /&gt;
+君はそうやっていつも
+&lt;ruby&gt;
+    &lt;rb&gt;寂&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;さび&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+しさを建前にするんだ&lt;br /&gt;
+抱きしめても優しく接しても&lt;br /&gt;
+どこか目の奥は
+&lt;ruby&gt;
+    &lt;rb&gt;虚&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;うつ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+ろなんだ&lt;/p&gt;
+
+&lt;p&gt;メル&lt;br /&gt;
+君はそうやっていつも苦しさを題材にするんだ&lt;br /&gt;
+悲しいことばかり思って&lt;br /&gt;
+幸福を無視して&lt;/p&gt;
+
+&lt;p&gt;春の海を
+&lt;ruby&gt;
+    &lt;rb&gt;絶&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;た&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+えず見ていた&lt;br /&gt;
+その時やっと笑顔を見せた&lt;br /&gt;
+恋をしてたあの日のように&lt;br /&gt;
+砂浜の上で踊り出す&lt;/p&gt;
+
+&lt;p&gt;涙するメル&lt;br /&gt;
+君はいつも
+&lt;ruby&gt;
+    &lt;rb&gt;切&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;せつ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+なく
+&lt;ruby&gt;
+    &lt;rb&gt;肌&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;はだ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+を
+&lt;ruby&gt;
+    &lt;rb&gt;震&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;ふる&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+わすばかり&lt;br /&gt;
+冷たいのだろう&lt;br /&gt;
+抱きしめてあげるから&lt;br /&gt;
+でも君は
+&lt;ruby&gt;
+    &lt;rb&gt;止&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;と&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+まらない&lt;/p&gt;
+
+&lt;p&gt;メル&lt;br /&gt;
+君は今どこにいるんだ&lt;br /&gt;
+書き置きひとつ残さないで&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;知識&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;&lt;strong&gt;ちえ&lt;/strong&gt;&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+も無くどこにいくのだ&lt;br /&gt;
+去る先で幸せなのか&lt;/p&gt;
+
+&lt;p&gt;意味を知らず雪を見ていた&lt;br /&gt;
+寂しさばかり重なるばかり&lt;br /&gt;
+青さにまみれ生き急ぐのか&lt;br /&gt;
+それでもいいが後悔するな&lt;/p&gt;
+
+&lt;p&gt;信じる人も愛する人も全て諦め&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;絶&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;&lt;strong&gt;た&lt;/strong&gt;&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+えぬ不幸を抱きしめ消えた&lt;br /&gt;
+君は正しいのか&lt;br /&gt;
+君は正しいのか&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>依存香炉</title>
+        <link>https://noroki.github.io/p/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89/</link>
+        <pubDate>Sat, 11 Sep 2021 01:11:18 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89/cover.jpg" alt="Featured image of post 依存香炉" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/cJjqth04G1Q&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+
+
+
+
+
+
     
-    <item>
-      <title>フォニイ</title>
-      <link>https://noroki.github.io/p/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4/</link>
-      <pubDate>Tue, 28 Dec 2021 14:52:00 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A4/</guid>
-      <description>フォニイ
- この世で  造花 ( ぞうか )  より綺麗な花は無いわ
-何故ならば  総 ( すべ )  ては嘘で出来ている
-antipathy world
-絶望の雨はあたしの傘を突いて
- 湿 ( しめ )  らす前髪とこころの  裏面 ( りめん )   煩 ( わずら )  わしいわ
-何時しか言の葉は  疾 ( と )  うに枯れきって
-事の実があたしに  熟 ( う )  れている
-鏡に映り嘘を  描 ( えが )  いて自らを見失なった  絵画 ( メイク )</description>
-    </item>
-    
-    <item>
-      <title>メルの黄昏</title>
-      <link>https://noroki.github.io/p/%E3%83%A1%E3%83%AB%E3%81%AE%E9%BB%84%E6%98%8F/</link>
-      <pubDate>Tue, 23 Nov 2021 20:34:59 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%A1%E3%83%AB%E3%81%AE%E9%BB%84%E6%98%8F/</guid>
-      <description>メルの黄昏 メル
-君はそうやっていつも自分を責めてばかりだ
-テレビのニュースもあの子の自殺も
-君のせいではないんだよ
-メル
-君はそうやっていつも自分を責めてばかりだ
-正義はいつも移り変わる
-過去など関係ない
-意味を知らず雪を見ていた
-寂しさばかり積もるばかり
-恋をしてた見える全てに
-カーテンの隙間で揺れ動く
-世界を見るメル
-君はいつも悲しい顔でテレビを見てる
-正義などない
-好きなものを信じなさい
-でも君は変わらない
-メル
-君はそうやっていつも  寂 ( さび )  しさを建前にするんだ
-抱きしめても優しく接しても
-どこか目の奥は  虚 ( うつ )  ろなんだ
-メル
-君はそうやっていつも苦しさを題材にするんだ
-悲しいことばかり思って
-幸福を無視して
-春の海を  絶 ( た )  えず見ていた
-その時やっと笑顔を見せた
-恋をしてたあの日のように
-砂浜の上で踊り出す
-涙するメル
-君はいつも  切 ( せつ )  なく  肌 ( はだ )  を  震 ( ふる )  わすばかり</description>
-    </item>
-    
-    <item>
-      <title>依存香炉</title>
-      <link>https://noroki.github.io/p/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89/</link>
-      <pubDate>Sat, 11 Sep 2021 01:11:18 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E4%BE%9D%E5%AD%98%E9%A6%99%E7%82%89/</guid>
-      <description>DECO*27
-feat. 初音ミク
- 依存香炉 
-&amp;ldquo;後悔&amp;rdquo;と&amp;rdquo;もしも&amp;rdquo;が夢の交配 産声上げた共依存Jr
-付けた傷より付けられた傷で語ろう
-好きごっこ 次も君が鬼なんだろう
 
-タッチアンドリリースをモットーに
-寄せては返す感情のWave
-ボンベ背負って狂い出すダイバー
-残りのメーター もうダメみたいだ
 
-飽きたら放ったらかしは悲しい
-僕が渡した想いに添えて©
-大迷惑な代表作 題名は君の好きにしたらいい
-飽きたら放ったらかしは悲しい
-僕が渡した想いに添えて©
-大迷惑な代表作 題名は君の好きにしたらいい
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=12&amp;bvid=BV1XK4y1D7FL&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 
-ココロロックオン依存香炉
-高鳴り半端ない僕の教祖
-声も顔もしょうもない嘘も
-何度でもいいや 嗅いでいいですか
 
-ココロロックオン依存香炉
-抱きたい危険地帯 ご覧どうぞ
-愛に満ちた後悔の先を
-何度でもいいや 嗅いでいいですか
+&lt;blockquote&gt;
+&lt;p&gt;DECO*27&lt;/p&gt;
 
-天秤にかけた妥協と決別
-安定を待つ 成すが儘もご愛嬌
-つらい気持ち いい具合に
-二人の間埋める緩衝材になり
+&lt;p&gt;feat. 初音ミク&lt;/p&gt;
+&lt;/blockquote&gt;
 
-情を盾に迫る武装口上
-フラッシュバック 愛に負かされてハンズアップ
-巡る起承転&amp;hellip; 結はどこに 繋がれた鎖 逃げもしないのに
+&lt;h2 id=&#34;依存香炉&#34;&gt;依存香炉&lt;/h2&gt;
 
-飽きたら放ったらかしは悲しい
-僕が渡した想いに添えて©
-大迷惑な代表作 題名は君の好きにしたらいい
-飽きたら放ったらかしは悲しい
-僕が渡した想いに添えて©
-大迷惑な代表作 題名は君の好きにしたらいい</description>
-    </item>
-    
-    <item>
-      <title>杏子の花</title>
-      <link>https://noroki.github.io/p/%E6%9D%8F%E5%AD%90%E3%81%AE%E8%8A%B1/</link>
-      <pubDate>Wed, 01 Sep 2021 23:16:00 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E6%9D%8F%E5%AD%90%E3%81%AE%E8%8A%B1/</guid>
-      <description>すりぃ
-feat. ねね
- 杏子の花 枯れない花の褪せない愛を
-胸に閉じ込めたくて触れる
-悲しみの雨　悪いのは誰
-綴る想い、あんずの花へ。
-愛する感情が
-わからないんだね
-悴む肌は　温もり求めて
-赤くなる
-寂しい感情が
-わからないんだね
-ぶつけた肌は　優しさ求めて
-青くなる
-「好きだけれど　仕方ないよ」
-その言葉の裏にあるもの
-あなたの為　あたし傷ついて
-汚れるのが怖いのよ
-枯れない花の　褪せない愛を
-胸に閉じ込めたくて触れる
-悲しみの雨　悪いのは誰
-綴る想い、あんずの花へ。
-あなたも本当は
-臆病なんだね
-飲み込む言葉　伝える事が
-虚しくて
-あたしも本当は
-意気地ないんだね
-別れは対岸　飛沫は壁に
-還るだろう
-「抱かれたけど　仕方ないよ」
-その言葉の裏にあるもの
-今は誰も信じられないと
-また小さな嘘ついて
-春の部屋に　裸足の二人
-指で本音のサイン描く
-まだ夢の中　さめないでやだ
-少し側に　あなたの横に
-どれくらい　悲しませ
-どれくらい　傷つけて
-どれくらい　悲しませ
-どれくらい　愛されて
-一人辿る　恋に落ちる
-今も震えるほどにあぁ
-もう逃げないで　もう泣かないで</description>
-    </item>
-    
-    <item>
-      <title>命に嫌われて居る。</title>
-      <link>https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/</link>
-      <pubDate>Wed, 01 Sep 2021 23:15:59 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/</guid>
-      <description>初音ミク
-作詞者 カンザキイオリ
-作曲者 カンザキイオリ
-リリース 2017年8月6日
- 命に嫌われて居る。  「死にたいなんて言うなよ。
-諦め無いで生きろよ。」
-其んな歌が正しいなんて
-馬鹿げてるよな。
-実際自分は死んでも良くて
-周りが死んだら悲しくて
-「其れが嫌だから」って言う
-エゴなんです。
-他人が生きても何うでも良くて
-誰かを嫌う事もファッションで
-其れでも「平和に生きよう」
-なんて素敵な事でしょう。
-画面の先では誰かが死んで
-其れを嘆いて誰かが歌って
-其れに感化された少年が
-ナイフを持って走った。
-僕等は命に嫌われて居る。
-価値観もエゴも押し付けて
-何時も誰かを殺したい歌を
-簡単に電波で流した。
-僕等は命に嫌われて居る。
-軽々しく死にたいだとか
-軽々しく命を見てる
-僕等は命に嫌われて居る。
-お金が無いので今日も
-一日中惰眠を謳歌する
-生きる意味なんて見出せず、
-無駄を自覚して息をする。
-寂しいなんて言葉で
-此の傷が表せていい物か
-其んな意地計り抱え
-今日も一人ベッドに眠る
-少年だった僕達は
-何時か青年に変わってく。
-年老いて何時か  枯 ( か )  れ  葉 ( は )  の様に 誰にも知られず  朽 ( く )  ちて  行 ( い )  く。   不死身 ( ふじみ )  の  身体 ( からだ )  を手に入れて、 一生死なずに生きて  行 ( い )  く。 其んなSFを妄想してる</description>
-    </item>
-    
-    <item>
-      <title>グッバイ宣言</title>
-      <link>https://noroki.github.io/p/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E5%AE%A3%E8%A8%80/</link>
-      <pubDate>Sun, 29 Aug 2021 21:19:00 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E5%AE%A3%E8%A8%80/</guid>
-      <description>リリース 2020年4月13日
-作詞者 Chinozo
-作曲者 Chinozo
-feat. 湊あくあ
- グッバイ宣言 ワン ツー
-エマージェンシー 0時 奴らは
-クレイジー・インザ・タウン 家に篭って
-ゴロゴロ ゴロゴロと
-堕落の夜に 絡みついた
-ルルル 放つ言葉は ルルル 腐っていた
-正論も常識も 意味を持たない都会にサヨウナラ!
-引き籠り 絶対 ジャスティス 俺の私だけの 折の中で
-聴き殺してランデブー 俺の私の音が 君に染まるまで
-引き籠り 絶対 ジャスティス 俺の私だけの 折の中で
-聴き殺してランデブー 俺の私の音を 君が包むだけ
-Wow wow wow 時がきた今
-Wow wow wow エゴ放つのさ
-Wow wow wow 家に籠って 狂い咲く
-エマージェンシー 0時 流石に
-クレイジーな計画はお陀仏
-グルグル グルグルと
-世界は変わらず廻っていた</description>
-    </item>
-    
-    <item>
-      <title>ダダダダ天使</title>
-      <link>https://noroki.github.io/p/%E3%83%80%E3%83%80%E3%83%80%E3%83%80%E5%A4%A9%E4%BD%BF/</link>
-      <pubDate>Thu, 24 Jun 2021 15:26:00 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%80%E3%83%80%E3%83%80%E3%83%80%E5%A4%A9%E4%BD%BF/</guid>
-      <description>リリース 2017年7月31日
-作詞者 ナユタン星人
-作曲者 ナユタン星人
-feat. 湊あくあ
- ダダダダ天使 やんないんじゃない、できないんだ！
-ドヤ！
-あー近頃巷で噂のダメ天使
-ダメなとこはもう天使なパワーでおぎなっていく
-その予定さ！
-ねぇ足りないのもっともっとあなたに気にしてほしい
-だけど注目されすぎたらビビる ディスコミュ系
-天使のリングの点滅はきれかけてるけど
-見方を変えればこれもアイデンティティさ
-なんて強がりさ本当は曖昧な愛の感情も あなたと探したいの
-ねぇ
-ダメダメダメダメなあたしを \もっと!/\もっと!
-愛してね \YES!/ \YES!/
-大概の衝動に無気力な \エンジェル!/\エンジェル!/
-天使ですが \ハイ!/ \ハイ!/ ドキドキドキドキをあげるよ \もっと!/\もっと!/
-あなたには \YES!/ \YES!/
-ちゃんと見ていてくれるなら \エンジェル!/\エンジェル!/
-やるよ多分 \ハイ!/ \ハイ!/
-ダダダダダメ天使は
-ダダダダ駄目ですか？
-だけどもあたしは いいか？
-やんないんじゃない、できないんだ！
-ドヤ！
-テストで良い点とりたーい
-でも頭がちっとも追いつかなーい
-日曜日だって早起きしたーい
-深夜のネトゲがやめられない \ない！/
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-やる気がないとかそんなんじゃないんだ
-やる気があってもできない仕様だ
-しょーがないなって許してよ
-エンジェルリングを頬張りながら
-こんなあたしに誰がしたんだ
-てかこんな天使（あたし）に天使（あたし）がしたのか。
-しょーがないなって許してよ
-エンジェルリングを頬張りながら
+&lt;p&gt;&amp;ldquo;後悔&amp;rdquo;と&amp;rdquo;もしも&amp;rdquo;が夢の交配 産声上げた共依存Jr&lt;/p&gt;
 
-天使の翼は使ってない飛ぶの怖いから
-本気を出したら飛べますが？</description>
-    </item>
-    
-    <item>
-      <title>ライラック</title>
-      <link>https://noroki.github.io/p/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/</link>
-      <pubDate>Sat, 13 Mar 2021 22:20:41 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/</guid>
-      <description>Lyricist・Composer : 𝗠𝗶𝗻𝗮𝗺𝗶 (美波)
-Vocal by : 𝗠𝗶𝗻𝗮𝗺𝗶 (美波)
- ライラック 何時かの声が 今 僕の心を窮屈にしていく
-ああだったんでしょ こうだったんでしょ
-身勝手 解釈 receiver
-変わらなきゃ 飽きましたって
-変われば 変わりましたよねって
-一体なんだい? それなんだい?
-矛と盾は 無くならないようでして
-幸せは ピンボケする 不良品アイシャッター
-苦しいことは 繊細に 映る 高画質レンズで
-精一杯やってんだ 別に君の為じゃない
-ねぇそうだろ?
-性に合わないことして 生きれるほど余裕ない
-人生そうハイに 人生そう前に
-人生聡明に 生きたいのは 山々だが
-割と 根拠も 証明もないような
-現状世界くらいが 丁度よくて
-人生そうラフに 人生そうタフに
-人生そうゲームみたいに 単純なものでいいだろ
-A、Bボタンで賭けて決めたい未来もあるんだ
-ヒーローのプライベートは きっとしょうもないと 思うんだ
-割とネガティヴだったり 普通の人間してるさ
-他人の声に 惑わされるほど 余裕ない
-もういっそ 不乱に もういっそ 不安定に</description>
-    </item>
-    
-    <item>
-      <title>ダンスロボットダンス</title>
-      <link>https://noroki.github.io/p/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%80%E3%83%B3%E3%82%B9/</link>
-      <pubDate>Sat, 20 Jun 2020 00:36:39 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%80%E3%83%B3%E3%82%B9/</guid>
-      <description>ダンスロボットダンス  作詞:ナユタン星人
-作曲:ナユタン星人
- DANCE!
-自在のステップトゥステップだって
-プログラムの範疇さ
-YOU!
-呼吸を乱している？
-なんて非効率的でしょう
-ロボットダンス
-LOCK!
-交わしてアイトゥアイ
-すでに次元も超えた戦場だ
-アイ
-思考を乱している
-胸が高鳴っていく
-インプット
-UP SIDE
-UP SIDE DOWN
-UP SIDE DOWN SIDE UP AND DOWN
-LEFT SIDE
-LEFT SIDE RIGHT
-LEFT RIGHT UP DOWN
-YOU AND ME
-ときめく心のモーションが
-あなたに共鳴して止まないの！
-合理とは真逆のプログラム
-知りたい 知りたい
-ねえもっと 付きあって！
-ダンスロボットダンス
-もーいいかい？
-ダンスロボットダンス
-まーだだよ
-ダンスロボットダンス
-もーいいかい？
-ダンスロボットダンス
-もーちょっと！
-1.危ないことはしちゃダメ
-2.指示には従うこと
-3.自分の身は守ること
-4.ドキドキさせないこと！
-PUNK!
-覚束ないモーションなんて、
-プログラムの範疇外
-アイ
-視界 曇っている</description>
-    </item>
-    
-    <item>
-      <title>ドーナツホール</title>
-      <link>https://noroki.github.io/p/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Sat, 20 Jun 2020 00:03:39 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB/</guid>
-      <description>MOVIE &amp;amp; MUSIC：ハチ
-SINGER: GUMI
- ドーナツホール いつからこんなに大きな思い出せない記憶があったか
-どうにも憶えてないのを　ひとつ確かに憶えてるんだな
-もう一回何回やったって思い出すのはその顔だ
-それでもあなたがなんだか思い出せないままでいるんだな
+&lt;p&gt;付けた傷より付けられた傷で語ろう&lt;/p&gt;
 
-環状線は地球儀を巡り巡って朝日を追うのに
-レールの要らない僕らは望み好んで夜を追うんだな
-もう一回何万回やって思い出すのはその顔だ
-瞼に乗った淡い雨　聞こえないまま死んだ暗い声
+&lt;p&gt;好きごっこ 次も君が鬼なんだろう&lt;/p&gt;
 
-何も知らないままでいるのが
-あなたを傷つけてはしないか
-それで今も眠れないのを
-あなたが知れば笑うだろうか
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-簡単な感情ばっか数えていたら
-あなたがくれた体温まで　忘れてしまった
-バイバイもう永遠に会えないね
-何故かそんな気がするんだ　そう思えてしまったんだ
-上手く笑えないんだ　どうしようもないまんま
+&lt;p&gt;タッチアンドリリースをモットーに&lt;/p&gt;
 
-ドーナツの穴みたいにさ　穴を穴だけ切り取れないように
-あなたが本当にあること　決して証明できはしないんだな
-もう一回何回やったって思い出すのはその顔だ
-今夜も毛布とベッドの隙間に体を挟み込んでは
+&lt;p&gt;寄せては返す感情のWave&lt;/p&gt;
 
-死なない想いがあるとするなら
-それで僕らは安心なのか
-過ぎたことは望まないから
-確かに埋まる形をくれよ
+&lt;p&gt;ボンベ背負って狂い出すダイバー&lt;/p&gt;
 
-失った感情ばっか数えていたら
-あなたがくれた声もいつか　忘れてしまった
-バイバイもう永遠に会えないね
-何故かそんな気がするんだ　そう思えてしまったんだ
-涙が出るんだ　どうしようもないまんま
+&lt;p&gt;残りのメーター もうダメみたいだ&lt;/p&gt;
 
-この胸に空いた穴が今
-あなたを確かめるただ一つの証明
-それでも僕は虚しくて
-心が千切れそうだ　どうしようもないまんま
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-簡単な感情ばっか数えていたら
-あなたがくれた体温まで　忘れてしまった
-バイバイもう永遠に会えないね
+&lt;p&gt;飽きたら放ったらかしは悲しい&lt;/p&gt;
 
-最後に思い出した　その小さな言葉</description>
-    </item>
-    
-    <item>
-      <title>パプリカ</title>
-      <link>https://noroki.github.io/p/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</link>
-      <pubDate>Wed, 10 Jun 2020 23:27:03 +0800</pubDate>
-      
-      <guid>https://noroki.github.io/p/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</guid>
-      <description>「パプリカ」世界観ミュージックビデオ
- パプリカ 曲（まが）り　くねり　燥（はしゃ）いだ道（みち）
-青葉（あおば）の森（もり）で　駆（か）け回（まわ）る
-遊（あそ）び　回（まわ）り　日差（ひざ）しの街（まち）
-誰（だれ）かが　呼（よ）んでる
-夏（なつ）が来（く）る　影（かげ）が立（た）つ　貴方（あなた）に　会（あ）いたい
-見（み）付（つ）けたのは　一番星（いちばんぼし）
-ああ　明日（あした）も晴（は）れるかな
-パプリカ　花（はな）が咲（さ）いたら
-晴（は）れた空（そら）に種（たね）を蒔（ま）こう
-ハレルヤ　夢（ゆめ）を描（えが）いたなら　心（こころ）遊（あそ）ばせ　貴方（あなた）に届（とど）け
-雨（あめ）に　燻（くゆ）り　月（つき）は陰（かげ）り
-木陰（こかげ）で　泣（な）いてたのは誰（だれ）
-一人（ひとり）　一人（ひとり）　慰（なぐさ）める様（よう）に
-誰（だれ）かが　呼（よ）んでる
-喜（よろこ）びを　数（かぞ）えたら
-貴方（あなた）で　一杯（いっぱい）
-帰（かえ）り道（みち）を　照（て）らしたのは
-思（おも）い出（で）の影法師（かげぼうし）
-パプリカ　花（はな）が咲（さ）いたら
-晴（は）れた空（そら）に種（たね）を蒔（ま）こう
-ハレルヤ　夢（ゆめ）を描（えが）いたなら　心（こころ）遊（あそ）ばせ　貴方（あなた）に届（とど）け
-会（あ）いに行（ゆ）くよ　並木（なみき）を抜（ぬ）けて
-歌（うた）を歌（うた）って
-手（て）には一杯（いっぱい）の花（はな）を抱（かか）えて
-らるらりら
-会（あ）いに行（ゆ）くよ　並木（なみき）を抜（ぬ）けて
-歌（うた）を歌（うた）って
-手（て）には一杯（いっぱい）の花（はな）を抱（かか）えて
-らるらりら
-パプリカ　花（はな）が咲（さ）いたら
-晴（は）れた空（そら）に種（たね）を蒔（ま）こう
-ハレルヤ　夢（ゆめ）を描（えが）いたなら　心（こころ）遊（あそ）ばせ　貴方（あなた）に届（とど）け</description>
-    </item>
-    
-  </channel>
+&lt;p&gt;僕が渡した想いに添えて©&lt;/p&gt;
+
+&lt;p&gt;大迷惑な代表作 題名は君の好きにしたらいい&lt;/p&gt;
+
+&lt;p&gt;飽きたら放ったらかしは悲しい&lt;/p&gt;
+
+&lt;p&gt;僕が渡した想いに添えて©&lt;/p&gt;
+
+&lt;p&gt;大迷惑な代表作 題名は君の好きにしたらいい&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;高鳴り半端ない僕の教祖&lt;/p&gt;
+
+&lt;p&gt;声も顔もしょうもない嘘も&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;抱きたい危険地帯 ご覧どうぞ&lt;/p&gt;
+
+&lt;p&gt;愛に満ちた後悔の先を&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;天秤にかけた妥協と決別&lt;/p&gt;
+
+&lt;p&gt;安定を待つ 成すが儘もご愛嬌&lt;/p&gt;
+
+&lt;p&gt;つらい気持ち いい具合に&lt;/p&gt;
+
+&lt;p&gt;二人の間埋める緩衝材になり&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;情を盾に迫る武装口上&lt;/p&gt;
+
+&lt;p&gt;フラッシュバック 愛に負かされてハンズアップ&lt;/p&gt;
+
+&lt;p&gt;巡る起承転&amp;hellip; 結はどこに 繋がれた鎖 逃げもしないのに&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;飽きたら放ったらかしは悲しい&lt;/p&gt;
+
+&lt;p&gt;僕が渡した想いに添えて©&lt;/p&gt;
+
+&lt;p&gt;大迷惑な代表作 題名は君の好きにしたらいい&lt;/p&gt;
+
+&lt;p&gt;飽きたら放ったらかしは悲しい&lt;/p&gt;
+
+&lt;p&gt;僕が渡した想いに添えて©&lt;/p&gt;
+
+&lt;p&gt;大迷惑な代表作 題名は君の好きにしたらいい&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;ダメを否定しない ハグの温度&lt;/p&gt;
+
+&lt;p&gt;生きも死にもナシ 君無しでは&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;独りじゃ感じないってそりゃそうか&lt;/p&gt;
+
+&lt;p&gt;君以内で解決させてよ&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;高鳴り半端ない僕の教祖&lt;/p&gt;
+
+&lt;p&gt;声も顔もしょうもない嘘も&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;抱きたい危険地帯 ご覧どうぞ&lt;/p&gt;
+
+&lt;p&gt;愛に満ちた後悔の先を&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;ダメを否定しない ハグの温度&lt;/p&gt;
+
+&lt;p&gt;生きも死にもナシ 君無しでは&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ココロロックオン依存香炉&lt;/p&gt;
+
+&lt;p&gt;独りじゃ感じないってそりゃそうか&lt;/p&gt;
+
+&lt;p&gt;君以内で解決させてよ&lt;/p&gt;
+
+&lt;p&gt;何度でもいいや 嗅いでいいですか&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>杏子の花</title>
+        <link>https://noroki.github.io/p/%E6%9D%8F%E5%AD%90%E3%81%AE%E8%8A%B1/</link>
+        <pubDate>Wed, 01 Sep 2021 23:16:00 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E6%9D%8F%E5%AD%90%E3%81%AE%E8%8A%B1/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E6%9D%8F%E5%AD%90%E3%81%AE%E8%8A%B1/Anzu.jpeg" alt="Featured image of post 杏子の花" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/GwT1fiWepTU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;すりぃ&lt;/p&gt;
+
+&lt;p&gt;feat. ねね&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;杏子の花&#34;&gt;杏子の花&lt;/h2&gt;
+
+&lt;p&gt;枯れない花の褪せない愛を&lt;/p&gt;
+&lt;p&gt;胸に閉じ込めたくて触れる&lt;/p&gt;
+&lt;p&gt;悲しみの雨　悪いのは誰&lt;/p&gt;
+&lt;p&gt;綴る想い、あんずの花へ。&lt;/p&gt;
+&lt;p&gt;愛する感情が&lt;/p&gt;
+&lt;p&gt;わからないんだね&lt;/p&gt;
+&lt;p&gt;悴む肌は　温もり求めて&lt;/p&gt;
+&lt;p&gt;赤くなる&lt;/p&gt;
+&lt;p&gt;寂しい感情が&lt;/p&gt;
+&lt;p&gt;わからないんだね&lt;/p&gt;
+&lt;p&gt;ぶつけた肌は　優しさ求めて&lt;/p&gt;
+&lt;p&gt;青くなる&lt;/p&gt;
+&lt;p&gt;「好きだけれど　仕方ないよ」&lt;/p&gt;
+&lt;p&gt;その言葉の裏にあるもの&lt;/p&gt;
+&lt;p&gt;あなたの為　あたし傷ついて&lt;/p&gt;
+&lt;p&gt;汚れるのが怖いのよ&lt;/p&gt;
+&lt;p&gt;枯れない花の　褪せない愛を&lt;/p&gt;
+&lt;p&gt;胸に閉じ込めたくて触れる&lt;/p&gt;
+&lt;p&gt;悲しみの雨　悪いのは誰&lt;/p&gt;
+&lt;p&gt;綴る想い、あんずの花へ。&lt;/p&gt;
+
+&lt;p&gt;あなたも本当は&lt;/p&gt;
+&lt;p&gt;臆病なんだね&lt;/p&gt;
+&lt;p&gt;飲み込む言葉　伝える事が&lt;/p&gt;
+&lt;p&gt;虚しくて&lt;/p&gt;
+&lt;p&gt;あたしも本当は&lt;/p&gt;
+&lt;p&gt;意気地ないんだね&lt;/p&gt;
+&lt;p&gt;別れは対岸　飛沫は壁に&lt;/p&gt;
+&lt;p&gt;還るだろう&lt;/p&gt;
+&lt;p&gt;「抱かれたけど　仕方ないよ」&lt;/p&gt;
+&lt;p&gt;その言葉の裏にあるもの&lt;/p&gt;
+&lt;p&gt;今は誰も信じられないと&lt;/p&gt;
+&lt;p&gt;また小さな嘘ついて&lt;/p&gt;
+&lt;p&gt;春の部屋に　裸足の二人&lt;/p&gt;
+&lt;p&gt;指で本音のサイン描く&lt;/p&gt;
+&lt;p&gt;まだ夢の中　さめないでやだ&lt;/p&gt;
+&lt;p&gt;少し側に　あなたの横に&lt;/p&gt;
+&lt;p&gt;どれくらい　悲しませ&lt;/p&gt;
+&lt;p&gt;どれくらい　傷つけて&lt;/p&gt;
+&lt;p&gt;どれくらい　悲しませ&lt;/p&gt;
+&lt;p&gt;どれくらい　愛されて&lt;/p&gt;
+&lt;p&gt;一人辿る　恋に落ちる&lt;/p&gt;
+&lt;p&gt;今も震えるほどにあぁ&lt;/p&gt;
+&lt;p&gt;もう逃げないで　もう泣かないで&lt;/p&gt;
+&lt;p&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;開&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;ひら&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+く窓に　割れない花瓶を&lt;/p&gt;
+&lt;p&gt;咲いた花の　
+&lt;ruby&gt;
+    &lt;rb&gt;褪&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;あ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+せない愛を&lt;/p&gt;
+&lt;p&gt;指に閉じ込めたくて触れる&lt;/p&gt;
+&lt;p&gt;過去にサヨナラ　またね会えたら&lt;/p&gt;
+&lt;p&gt;きっと笑う、あんずの花へ。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>命に嫌われて居る。</title>
+        <link>https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/</link>
+        <pubDate>Wed, 01 Sep 2021 23:15:59 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E5%91%BD%E3%81%AB%E5%AB%8C%E3%82%8F%E3%82%8C%E3%81%A6%E5%B1%85%E3%82%8B/inochi_miku.jpg" alt="Featured image of post 命に嫌われて居る。" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/0HYm60Mjm0k&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;初音ミク&lt;/p&gt;
+
+&lt;p&gt;作詞者 カンザキイオリ&lt;/p&gt;
+
+&lt;p&gt;作曲者 カンザキイオリ&lt;/p&gt;
+
+&lt;p&gt;リリース 2017年8月6日&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;命に嫌われて居る&#34;&gt;命に嫌われて居る。&lt;/h2&gt;
+
+&lt;div&gt;
+    &lt;p&gt;「死にたいなんて言うなよ。&lt;/p&gt;
+    &lt;p&gt;諦め無いで生きろよ。」&lt;/p&gt;
+    &lt;p&gt;其んな歌が正しいなんて&lt;/p&gt;
+    &lt;p&gt;馬鹿げてるよな。&lt;/p&gt;
+    &lt;p&gt;実際自分は死んでも良くて&lt;/p&gt;
+    &lt;p&gt;周りが死んだら悲しくて&lt;/p&gt;
+    &lt;p&gt;「其れが嫌だから」って言う&lt;/p&gt;
+    &lt;p&gt;エゴなんです。&lt;/p&gt;
+    &lt;p&gt;他人が生きても何うでも良くて&lt;/p&gt;
+    &lt;p&gt;誰かを嫌う事もファッションで&lt;/p&gt;
+    &lt;p&gt;其れでも「平和に生きよう」&lt;/p&gt;
+    &lt;p&gt;なんて素敵な事でしょう。&lt;/p&gt;
+    &lt;p&gt;画面の先では誰かが死んで&lt;/p&gt;
+    &lt;p&gt;其れを嘆いて誰かが歌って&lt;/p&gt;
+    &lt;p&gt;其れに感化された少年が&lt;/p&gt;
+    &lt;p&gt;ナイフを持って走った。&lt;/p&gt;
+    &lt;p&gt;僕等は命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;価値観もエゴも押し付けて&lt;/p&gt;
+    &lt;p&gt;何時も誰かを殺したい歌を&lt;/p&gt;
+    &lt;p&gt;簡単に電波で流した。&lt;/p&gt;
+    &lt;p&gt;僕等は命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;軽々しく死にたいだとか&lt;/p&gt;
+    &lt;p&gt;軽々しく命を見てる&lt;/p&gt;
+    &lt;p&gt;僕等は命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;お金が無いので今日も&lt;/p&gt;
+    &lt;p&gt;一日中惰眠を謳歌する&lt;/p&gt;
+    &lt;p&gt;生きる意味なんて見出せず、&lt;/p&gt;
+    &lt;p&gt;無駄を自覚して息をする。&lt;/p&gt;
+    &lt;p&gt;寂しいなんて言葉で&lt;/p&gt;
+    &lt;p&gt;此の傷が表せていい物か&lt;/p&gt;
+    &lt;p&gt;其んな意地計り抱え&lt;/p&gt;
+    &lt;p&gt;今日も一人ベッドに眠る&lt;/p&gt;
+    &lt;p&gt;少年だった僕達は&lt;/p&gt;
+    &lt;p&gt;何時か青年に変わってく。&lt;/p&gt;
+    &lt;p&gt;年老いて何時か
+        &lt;ruby&gt;
+            &lt;rb&gt;枯&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;か&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        れ
+        &lt;ruby&gt;
+            &lt;rb&gt;葉&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;は&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        の様に
+    &lt;/p&gt;
+    &lt;p&gt;誰にも知られず
+        &lt;ruby&gt;
+            &lt;rb&gt;朽&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;く&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        ちて
+        &lt;ruby&gt;
+            &lt;rb&gt;行&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;い&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        く。
+    &lt;/p&gt;
+    &lt;p&gt;
+        &lt;ruby&gt;
+            &lt;rb&gt;不死身&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;ふじみ&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        の
+        &lt;ruby&gt;
+            &lt;rb&gt;身体&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;からだ&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        を手に入れて、
+    &lt;/p&gt;
+    &lt;p&gt;一生死なずに生きて
+        &lt;ruby&gt;
+            &lt;rb&gt;行&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;い&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        く。
+    &lt;/p&gt;
+    &lt;p&gt;其んなSFを妄想してる&lt;/p&gt;
+    &lt;p&gt;自分が死んでも何うでも良くて&lt;/p&gt;
+    &lt;p&gt;其れでも周りに生きて欲しくて&lt;/p&gt;
+    &lt;p&gt;矛盾を抱えて生きてくなんて&lt;/p&gt;
+    &lt;p&gt;怒られて仕舞う。&lt;/p&gt;
+    &lt;p id=&#34;居為さい&#34;&gt;「正しい物は正しく居為さい。」&lt;/p&gt;
+    &lt;p&gt;「死にたく無いなら生きて居為さい。」&lt;/p&gt;
+    &lt;p&gt;悲しく成るなら其れでもいいなら&lt;/p&gt;
+    &lt;p&gt;ずっと一人で笑えよ。&lt;/p&gt;
+    &lt;p&gt;僕等は命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;幸福の意味すら分からず、&lt;/p&gt;
+    &lt;p&gt;産まれた環境計り憎んで&lt;/p&gt;
+    &lt;p&gt;簡単に過去計り呪う。&lt;/p&gt;
+    &lt;p&gt;僕等は命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;さよなら計りが好き過ぎて&lt;/p&gt;
+    &lt;p&gt;本当の別れ等知らない&lt;/p&gt;
+    &lt;p&gt;僕等は命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;幸福も別れも愛情も友情も&lt;/p&gt;
+    &lt;p&gt;
+        &lt;ruby&gt;
+            &lt;rb&gt;滑&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;こっ&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        &lt;ruby&gt;
+            &lt;rb&gt;稽&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;けい&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        な夢の
+        &lt;ruby&gt;
+            &lt;rb&gt;戯&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;たわむ&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        れで
+    &lt;/p&gt;
+    &lt;p&gt;全部カネで買える
+        &lt;ruby&gt;
+            &lt;rb&gt;代&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;しろ&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        &lt;ruby&gt;
+            &lt;rb&gt;物&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;もの&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        。
+    &lt;/p&gt;
+    &lt;p&gt;明日死んで仕舞うかも知れ無い。&lt;/p&gt;
+    &lt;p&gt;全て無駄になるかもしれない。&lt;/p&gt;
+    &lt;p&gt;朝も夜も春も秋も&lt;/p&gt;
+    &lt;p&gt;変わらず誰かが何処かで死ぬ。&lt;/p&gt;
+    &lt;p&gt;夢も明日も何もいら無い。&lt;/p&gt;
+    &lt;p&gt;君が生きて居たなら其れでいい。&lt;/p&gt;
+    &lt;p&gt;其うだ。本当は其う言う事が歌いたい。&lt;/p&gt;
+    &lt;p&gt;命に嫌われて居る。&lt;/p&gt;
+    &lt;p&gt;結局何時かは死んで行く。&lt;/p&gt;
+    &lt;p&gt;君だって僕だって何時かは枯れ葉に様に朽ちてく。&lt;/p&gt;
+    &lt;p&gt;其れでも僕等は必死に生きて&lt;/p&gt;
+    &lt;p&gt;命を必死に抱えて生きて&lt;/p&gt;
+    &lt;p&gt;殺して
+        &lt;ruby&gt;
+            &lt;rb&gt;足掻&lt;/rb&gt;
+            &lt;rp&gt;(&lt;/rp&gt;
+            &lt;rt style=&#34;font-size:0.75em&#34;&gt;あが&lt;/rt&gt;
+            &lt;rp&gt;)&lt;/rp&gt;
+        &lt;/ruby&gt;
+        いて笑って抱えて
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;p&gt;生きて、生きて、生きて、生きて、&lt;/p&gt;
+    &lt;p&gt;生きろ。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;アペンディックス-④&#34;&gt;アペンディックス　④&lt;/h2&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;&lt;a href=#居為さい&gt;いなさい【いる　＋　なさい】：狀態續存&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>グッバイ宣言</title>
+        <link>https://noroki.github.io/p/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E5%AE%A3%E8%A8%80/</link>
+        <pubDate>Sun, 29 Aug 2021 21:19:00 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E5%AE%A3%E8%A8%80/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E5%AE%A3%E8%A8%80/cover.png" alt="Featured image of post グッバイ宣言" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/4N_HwrzWCac&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/6jRQvj4o3KM&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;リリース  2020年4月13日&lt;br /&gt;
+作詞者   Chinozo&lt;br /&gt;
+作曲者   Chinozo&lt;br /&gt;
+feat. 湊あくあ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;グッバイ宣言&#34;&gt;グッバイ宣言&lt;/h2&gt;
+
+&lt;p&gt;ワン ツー&lt;br /&gt;
+エマージェンシー 0時 奴らは&lt;br /&gt;
+クレイジー・インザ・タウン 家に篭って&lt;br /&gt;
+ゴロゴロ ゴロゴロと&lt;br /&gt;
+堕落の夜に 絡みついた&lt;br /&gt;
+ルルル 放つ言葉は ルルル 腐っていた&lt;br /&gt;
+正論も常識も 意味を持たない都会にサヨウナラ!&lt;br /&gt;
+引き籠り 絶対 ジャスティス 俺の私だけの 折の中で&lt;br /&gt;
+聴き殺してランデブー 俺の私の音が 君に染まるまで&lt;br /&gt;
+引き籠り 絶対 ジャスティス 俺の私だけの 折の中で&lt;br /&gt;
+聴き殺してランデブー 俺の私の音を 君が包むだけ&lt;br /&gt;
+Wow wow wow 時がきた今&lt;br /&gt;
+Wow wow wow エゴ放つのさ&lt;br /&gt;
+Wow wow wow 家に籠って 狂い咲く&lt;/p&gt;
+
+&lt;p&gt;エマージェンシー 0時 流石に&lt;br /&gt;
+クレイジーな計画はお陀仏&lt;br /&gt;
+グルグル グルグルと&lt;br /&gt;
+世界は変わらず廻っていた&lt;br /&gt;
+ルルル 君の視線が ルルル ぼやけて尽きる&lt;br /&gt;
+マリオネットな感情に 気付いてしまった&lt;/p&gt;
+
+&lt;p&gt;相も変わらず jamる街&lt;br /&gt;
+&lt;ruby&gt;
+    &lt;rb&gt;止&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;や&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+まぬ nervous に
+&lt;ruby&gt;
+    &lt;rb&gt;拐&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;さら&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+われないで yeah&lt;br /&gt;
+引き籠り 絶対 ジャスティス 俺の私だけの 折の中で&lt;br /&gt;
+聴き殺してランデブー 俺の私の音が 君に染まるまで&lt;br /&gt;
+引き籠り 絶対 ジャスティス 俺の私だけの 折の中で&lt;br /&gt;
+聴き殺してランデブー 俺の私の音を 君が包むだけ&lt;br /&gt;
+Wow wow wow 時がきた&lt;br /&gt;
+Wow wow wow エゴ放て&lt;br /&gt;
+恥を捨てられる
+&lt;ruby&gt;
+    &lt;rb&gt;家&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt&gt;このばしょ&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+に狂い咲け&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ダダダダ天使</title>
+        <link>https://noroki.github.io/p/%E3%83%80%E3%83%80%E3%83%80%E3%83%80%E5%A4%A9%E4%BD%BF/</link>
+        <pubDate>Thu, 24 Jun 2021 15:26:00 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%80%E3%83%80%E3%83%80%E3%83%80%E5%A4%A9%E4%BD%BF/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%80%E3%83%80%E3%83%80%E3%83%80%E5%A4%A9%E4%BD%BF/cover.jpeg" alt="Featured image of post ダダダダ天使" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/O8v5S1nhKzo&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;リリース  2017年7月31日&lt;br /&gt;
+作詞者   ナユタン星人&lt;br /&gt;
+作曲者   ナユタン星人&lt;br /&gt;
+feat. 湊あくあ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;ダダダダ天使&#34;&gt;ダダダダ天使&lt;/h2&gt;
+
+&lt;p&gt;やんないんじゃない、できないんだ！&lt;br /&gt;
+ドヤ！&lt;br /&gt;
+あー近頃巷で噂のダメ天使&lt;br /&gt;
+ダメなとこはもう天使なパワーでおぎなっていく&lt;br /&gt;
+その予定さ！&lt;br /&gt;
+ねぇ足りないのもっともっとあなたに気にしてほしい&lt;br /&gt;
+だけど注目されすぎたらビビる ディスコミュ系&lt;br /&gt;
+天使のリングの点滅はきれかけてるけど&lt;br /&gt;
+見方を変えればこれもアイデンティティさ&lt;br /&gt;
+なんて強がりさ本当は曖昧な愛の感情も あなたと探したいの&lt;br /&gt;
+ねぇ&lt;br /&gt;
+ダメダメダメダメなあたしを \もっと!/\もっと!&lt;br /&gt;
+愛してね \YES!/ \YES!/&lt;br /&gt;
+大概の衝動に無気力な \エンジェル!/\エンジェル!/&lt;br /&gt;
+天使ですが \ハイ!/ \ハイ!/
+ドキドキドキドキをあげるよ \もっと!/\もっと!/&lt;br /&gt;
+あなたには \YES!/ \YES!/&lt;br /&gt;
+ちゃんと見ていてくれるなら \エンジェル!/\エンジェル!/&lt;br /&gt;
+やるよ多分 \ハイ!/ \ハイ!/&lt;br /&gt;
+ダダダダダメ天使は&lt;br /&gt;
+ダダダダ駄目ですか？&lt;br /&gt;
+だけどもあたしは いいか？&lt;br /&gt;
+やんないんじゃない、できないんだ！&lt;br /&gt;
+ドヤ！&lt;br /&gt;
+テストで良い点とりたーい&lt;br /&gt;
+でも頭がちっとも追いつかなーい&lt;br /&gt;
+日曜日だって早起きしたーい&lt;br /&gt;
+深夜のネトゲがやめられない \ない！/&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;やる気がないとかそんなんじゃないんだ&lt;br /&gt;
+やる気があってもできない仕様だ&lt;br /&gt;
+しょーがないなって許してよ&lt;br /&gt;
+エンジェルリングを頬張りながら&lt;br /&gt;
+こんなあたしに誰がしたんだ&lt;br /&gt;
+てかこんな天使（あたし）に天使（あたし）がしたのか。&lt;br /&gt;
+しょーがないなって許してよ&lt;br /&gt;
+エンジェルリングを頬張りながら&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;天使の翼は使ってない飛ぶの怖いから&lt;br /&gt;
+本気を出したら飛べますが？&lt;br /&gt;
+みたいな顔はしている&lt;br /&gt;
+そんなハリボテの裏側に 隠した愛の感情が&lt;br /&gt;
+あなたに笑ってほしいの&lt;br /&gt;
+ねぇ&lt;br /&gt;
+ダメダメダメダメなあたしで …いいですか？&lt;br /&gt;
+実際は一切の自信もないような&lt;br /&gt;
+天使ですが&lt;br /&gt;
+グルグルグルグルと巡る頭の中では&lt;br /&gt;
+あなたのことばかり考えてるんだ！&lt;br /&gt;
+ダメダメダメダメなあたしを \もっと!/&lt;br /&gt;
+愛してよ \YES!/&lt;br /&gt;
+もらった愛で飛ぼうと思うよ \エンジェル!/&lt;br /&gt;
+天使だから \ハイ!/&lt;br /&gt;
+ドキドキドキドキをあげるよ \もっと!/&lt;br /&gt;
+あなたには \YES!/&lt;br /&gt;
+もっと好きになってくれるなら \エンジェル!/
+やるよ多分 \ハイ!/&lt;br /&gt;
+ダダダダダメ天使は&lt;br /&gt;
+ダダダダ駄目ですか？&lt;br /&gt;
+だけどもあたしは いいか？&lt;br /&gt;
+やんないんじゃない、できないんだ！&lt;br /&gt;
+ドヤ！&lt;br /&gt;
+いや、でも、努力はします…&lt;br /&gt;
+ドヤ！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ライラック</title>
+        <link>https://noroki.github.io/p/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/</link>
+        <pubDate>Sat, 13 Mar 2021 22:20:41 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/cover.jpeg" alt="Featured image of post ライラック" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/GQ3V50XoLOM&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Lyricist・Composer : 𝗠𝗶𝗻𝗮𝗺𝗶 (美波)&lt;br /&gt;
+Vocal by : 𝗠𝗶𝗻𝗮𝗺𝗶 (美波)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;ライラック&#34;&gt;ライラック&lt;/h1&gt;
+
+&lt;p&gt;何時かの声が  今  僕の心を窮屈にしていく&lt;/p&gt;
+
+&lt;p&gt;ああだったんでしょ こうだったんでしょ&lt;/p&gt;
+
+&lt;p&gt;身勝手  解釈 receiver&lt;/p&gt;
+
+&lt;p&gt;変わらなきゃ 飽きましたって&lt;/p&gt;
+
+&lt;p&gt;変われば 変わりましたよねって&lt;/p&gt;
+
+&lt;p&gt;一体なんだい? それなんだい?&lt;/p&gt;
+
+&lt;p&gt;矛と盾は 無くならないようでして&lt;/p&gt;
+
+&lt;p&gt;幸せは ピンボケする  不良品アイシャッター&lt;/p&gt;
+
+&lt;p&gt;苦しいことは  繊細に 映る 高画質レンズで&lt;/p&gt;
+
+&lt;p&gt;精一杯やってんだ  別に君の為じゃない&lt;/p&gt;
+
+&lt;p&gt;ねぇそうだろ?&lt;/p&gt;
+
+&lt;p&gt;性に合わないことして  生きれるほど余裕ない&lt;/p&gt;
+
+&lt;p&gt;人生そうハイに  人生そう前に&lt;/p&gt;
+
+&lt;p&gt;人生聡明に  生きたいのは 山々だが&lt;/p&gt;
+
+&lt;p&gt;割と 根拠も 証明もないような&lt;/p&gt;
+
+&lt;p&gt;現状世界くらいが 丁度よくて&lt;/p&gt;
+
+&lt;p&gt;人生そうラフに  人生そうタフに&lt;/p&gt;
+
+&lt;p&gt;人生そうゲームみたいに  単純なものでいいだろ&lt;/p&gt;
+
+&lt;p&gt;A、Bボタンで賭けて決めたい未来もあるんだ&lt;/p&gt;
+
+&lt;p&gt;ヒーローのプライベートは きっとしょうもないと 思うんだ&lt;/p&gt;
+
+&lt;p&gt;割とネガティヴだったり  普通の人間してるさ&lt;/p&gt;
+
+&lt;p&gt;他人の声に 惑わされるほど 余裕ない&lt;/p&gt;
+
+&lt;p&gt;もういっそ 不乱に もういっそ 不安定に&lt;/p&gt;
+
+&lt;p&gt;もうきっと 説明書どおりは 綺麗すぎてしまうから&lt;/p&gt;
+
+&lt;p&gt;汚せ  壊せ  決められたつまらない  固定概念なんて 捨てろ&lt;/p&gt;
+
+&lt;p&gt;もう実際どうにでもなれ  押し殺した声で&lt;/p&gt;
+
+&lt;p&gt;やりたくないことに 軽々しく
+&lt;ruby&gt;
+    &lt;rb&gt;頷&lt;/rb&gt;
+    &lt;rp&gt;(&lt;/rp&gt;
+    &lt;rt style=&#34;font-size:0.75em&#34;&gt;うなず&lt;/rt&gt;
+    &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+くのは&lt;/p&gt;
+
+&lt;p&gt;やめろ  上げろ  顔を上げろ&lt;/p&gt;
+
+&lt;p&gt;疲れてしまったんだ&lt;/p&gt;
+
+&lt;p&gt;人のエゴで 造られた 虚にだけはなりたくはなくて&lt;/p&gt;
+
+&lt;p&gt;時間はまだあるといざ 一人&lt;/p&gt;
+
+&lt;p&gt;目の前にした 後悔と&lt;/p&gt;
+
+&lt;p&gt;心電図は グシャグシャのまんま&lt;/p&gt;
+
+&lt;p&gt;思うことはただ一つ&lt;/p&gt;
+
+&lt;p&gt;憂い   憂い   憂い   憂い   憂い   憂い   憂い&lt;/p&gt;
+
+&lt;p&gt;人生そうハイに  人生そう前に&lt;/p&gt;
+
+&lt;p&gt;人生 聡明に  変わりたいのは 山々だが&lt;/p&gt;
+
+&lt;p&gt;私は 根拠も 証明もないような&lt;/p&gt;
+
+&lt;p&gt;現状世界くらいが　お似合いだ&lt;/p&gt;
+
+&lt;p&gt;人生そうラフに  人生そうタフに&lt;/p&gt;
+
+&lt;p&gt;実際そうゲームみたいに  単純明快に生きたくって&lt;/p&gt;
+
+&lt;p&gt;A、Bボタンで 変えてみたい 未来もあるんだ&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ダンスロボットダンス</title>
+        <link>https://noroki.github.io/p/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%80%E3%83%B3%E3%82%B9/</link>
+        <pubDate>Sat, 20 Jun 2020 00:36:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%80%E3%83%B3%E3%82%B9/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%80%E3%83%B3%E3%82%B9/cover.png" alt="Featured image of post ダンスロボットダンス" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/g7dvpD_zlIM&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;ダンスロボットダンス&#34;&gt;ダンスロボットダンス&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;作詞:ナユタン星人&lt;br /&gt;
+作曲:ナユタン星人&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;DANCE!&lt;br /&gt;
+自在のステップトゥステップだって&lt;br /&gt;
+プログラムの範疇さ&lt;br /&gt;
+YOU!&lt;br /&gt;
+呼吸を乱している？&lt;br /&gt;
+なんて非効率的でしょう&lt;br /&gt;
+ロボットダンス&lt;/p&gt;
+
+&lt;p&gt;LOCK!&lt;br /&gt;
+交わしてアイトゥアイ&lt;br /&gt;
+すでに次元も超えた戦場だ&lt;br /&gt;
+アイ&lt;br /&gt;
+思考を乱している&lt;br /&gt;
+胸が高鳴っていく&lt;br /&gt;
+インプット&lt;/p&gt;
+
+&lt;p&gt;UP SIDE&lt;br /&gt;
+UP SIDE DOWN&lt;br /&gt;
+UP SIDE DOWN SIDE UP AND DOWN&lt;br /&gt;
+LEFT SIDE&lt;br /&gt;
+LEFT SIDE RIGHT&lt;br /&gt;
+LEFT RIGHT UP DOWN&lt;br /&gt;
+YOU AND ME&lt;/p&gt;
+
+&lt;p&gt;ときめく心のモーションが&lt;br /&gt;
+あなたに共鳴して止まないの！&lt;br /&gt;
+合理とは真逆のプログラム&lt;br /&gt;
+知りたい 知りたい&lt;br /&gt;
+ねえもっと 付きあって！&lt;/p&gt;
+
+&lt;p&gt;ダンスロボットダンス&lt;br /&gt;
+もーいいかい？&lt;br /&gt;
+ダンスロボットダンス&lt;br /&gt;
+まーだだよ&lt;br /&gt;
+ダンスロボットダンス&lt;br /&gt;
+もーいいかい？&lt;br /&gt;
+ダンスロボットダンス&lt;br /&gt;
+もーちょっと！&lt;/p&gt;
+
+&lt;p&gt;1.危ないことはしちゃダメ&lt;br /&gt;
+2.指示には従うこと&lt;br /&gt;
+3.自分の身は守ること&lt;br /&gt;
+4.ドキドキさせないこと！&lt;/p&gt;
+
+&lt;p&gt;PUNK!&lt;br /&gt;
+覚束ないモーションなんて、&lt;br /&gt;
+プログラムの範疇外&lt;br /&gt;
+アイ&lt;br /&gt;
+視界 曇っている&lt;br /&gt;
+再度取り返せるか&lt;br /&gt;
+シンキング&lt;/p&gt;
+
+&lt;p&gt;UP SIDE&lt;br /&gt;
+UP SIDE DOWN&lt;br /&gt;
+UP SIDE DOWN SIDE UP AND DOWN&lt;br /&gt;
+LEFT SIDE&lt;br /&gt;
+LEFT SIDE RIGHT&lt;br /&gt;
+LEFT RIGHT UP DOWN&lt;br /&gt;
+YOU AND ME&lt;/p&gt;
+
+&lt;p&gt;ときめく心のモーションは&lt;br /&gt;
+あなたに伝わりやしないな&lt;br /&gt;
+呼吸や温度の意味なんて&lt;br /&gt;
+知らない 要らない&lt;br /&gt;
+ねえもっと 近づいて&lt;/p&gt;
+
+&lt;p&gt;恋とは心のバグなのさ&lt;br /&gt;
+それでも共鳴して、&lt;br /&gt;
+いたいの！&lt;br /&gt;
+あなたとわたしの&lt;br /&gt;
+シンギュラリティ&lt;br /&gt;
+ごめんね！ ごめんね！&lt;br /&gt;
+もうずっと 付きあって！&lt;/p&gt;
+
+&lt;p&gt;ダンスロボットダンス&lt;br /&gt;
+もーいいかい？&lt;br /&gt;
+ダンスロボットダンス&lt;br /&gt;
+まーだだよ&lt;br /&gt;
+ダンスロボットダンス&lt;br /&gt;
+もーいいかい？&lt;br /&gt;
+ダンスロボットダンス&lt;br /&gt;
+もーいいよ！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ドーナツホール</title>
+        <link>https://noroki.github.io/p/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB/</link>
+        <pubDate>Sat, 20 Jun 2020 00:03:39 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84%E3%83%9B%E3%83%BC%E3%83%AB/collection.jpeg" alt="Featured image of post ドーナツホール" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/qnX2CdOBcDI&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;MOVIE &amp;amp; MUSIC：ハチ&lt;br /&gt;
+SINGER: GUMI&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;ドーナツホール&#34;&gt;ドーナツホール&lt;/h1&gt;
+
+&lt;p&gt;いつからこんなに大きな思い出せない記憶があったか&lt;/p&gt;
+
+&lt;p&gt;どうにも憶えてないのを　ひとつ確かに憶えてるんだな&lt;/p&gt;
+
+&lt;p&gt;もう一回何回やったって思い出すのはその顔だ&lt;/p&gt;
+
+&lt;p&gt;それでもあなたがなんだか思い出せないままでいるんだな&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;環状線は地球儀を巡り巡って朝日を追うのに&lt;/p&gt;
+
+&lt;p&gt;レールの要らない僕らは望み好んで夜を追うんだな&lt;/p&gt;
+
+&lt;p&gt;もう一回何万回やって思い出すのはその顔だ&lt;/p&gt;
+
+&lt;p&gt;瞼に乗った淡い雨　聞こえないまま死んだ暗い声&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;何も知らないままでいるのが&lt;/p&gt;
+
+&lt;p&gt;あなたを傷つけてはしないか&lt;/p&gt;
+
+&lt;p&gt;それで今も眠れないのを&lt;/p&gt;
+
+&lt;p&gt;あなたが知れば笑うだろうか&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;簡単な感情ばっか数えていたら&lt;/p&gt;
+
+&lt;p&gt;あなたがくれた体温まで　忘れてしまった&lt;/p&gt;
+
+&lt;p&gt;バイバイもう永遠に会えないね&lt;/p&gt;
+
+&lt;p&gt;何故かそんな気がするんだ　そう思えてしまったんだ&lt;/p&gt;
+
+&lt;p&gt;上手く笑えないんだ　どうしようもないまんま&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;ドーナツの穴みたいにさ　穴を穴だけ切り取れないように&lt;/p&gt;
+
+&lt;p&gt;あなたが本当にあること　決して証明できはしないんだな&lt;/p&gt;
+
+&lt;p&gt;もう一回何回やったって思い出すのはその顔だ&lt;/p&gt;
+
+&lt;p&gt;今夜も毛布とベッドの隙間に体を挟み込んでは&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;死なない想いがあるとするなら&lt;/p&gt;
+
+&lt;p&gt;それで僕らは安心なのか&lt;/p&gt;
+
+&lt;p&gt;過ぎたことは望まないから&lt;/p&gt;
+
+&lt;p&gt;確かに埋まる形をくれよ&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;失った感情ばっか数えていたら&lt;/p&gt;
+
+&lt;p&gt;あなたがくれた声もいつか　忘れてしまった&lt;/p&gt;
+
+&lt;p&gt;バイバイもう永遠に会えないね&lt;/p&gt;
+
+&lt;p&gt;何故かそんな気がするんだ　そう思えてしまったんだ&lt;/p&gt;
+
+&lt;p&gt;涙が出るんだ　どうしようもないまんま&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;この胸に空いた穴が今&lt;/p&gt;
+
+&lt;p&gt;あなたを確かめるただ一つの証明&lt;/p&gt;
+
+&lt;p&gt;それでも僕は虚しくて&lt;/p&gt;
+
+&lt;p&gt;心が千切れそうだ　どうしようもないまんま&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;簡単な感情ばっか数えていたら&lt;/p&gt;
+
+&lt;p&gt;あなたがくれた体温まで　忘れてしまった&lt;/p&gt;
+
+&lt;p&gt;バイバイもう永遠に会えないね&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;最後に思い出した　その小さな言葉&lt;/p&gt;
+
+&lt;p&gt;静かに呼吸を合わせ　目を見開いた&lt;/p&gt;
+
+&lt;p&gt;目を見開いた　目を見開いた&lt;/p&gt;
+
+&lt;p&gt;あなたの名前は&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>パプリカ</title>
+        <link>https://noroki.github.io/p/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</link>
+        <pubDate>Wed, 10 Jun 2020 23:27:03 +0800</pubDate>
+        
+        <guid>https://noroki.github.io/p/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/</guid>
+        <description>&lt;img src="https://noroki.github.io/p/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB/cover.jpeg" alt="Featured image of post パプリカ" /&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/s582L3gujnw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=MFnpnDI3oQQ&#34;&gt;「パプリカ」世界観ミュージックビデオ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;パプリカ&#34;&gt;パプリカ&lt;/h1&gt;
+
+&lt;p&gt;曲（まが）り　くねり　燥（はしゃ）いだ道（みち）&lt;br /&gt;
+青葉（あおば）の森（もり）で　駆（か）け回（まわ）る&lt;br /&gt;
+遊（あそ）び　回（まわ）り　日差（ひざ）しの街（まち）&lt;br /&gt;
+誰（だれ）かが　呼（よ）んでる&lt;br /&gt;
+夏（なつ）が来（く）る　影（かげ）が立（た）つ　&lt;br /&gt;
+貴方（あなた）に　会（あ）いたい&lt;br /&gt;
+見（み）付（つ）けたのは　一番星（いちばんぼし）&lt;br /&gt;
+ああ　明日（あした）も晴（は）れるかな&lt;/p&gt;
+
+&lt;p&gt;パプリカ　花（はな）が咲（さ）いたら&lt;br /&gt;
+晴（は）れた空（そら）に種（たね）を蒔（ま）こう&lt;br /&gt;
+ハレルヤ　夢（ゆめ）を描（えが）いたなら　&lt;br /&gt;
+心（こころ）遊（あそ）ばせ　貴方（あなた）に届（とど）け&lt;/p&gt;
+
+&lt;p&gt;雨（あめ）に　燻（くゆ）り　月（つき）は陰（かげ）り&lt;br /&gt;
+木陰（こかげ）で　泣（な）いてたのは誰（だれ）&lt;br /&gt;
+一人（ひとり）　一人（ひとり）　慰（なぐさ）める様（よう）に&lt;br /&gt;
+誰（だれ）かが　呼（よ）んでる&lt;/p&gt;
+
+&lt;p&gt;喜（よろこ）びを　数（かぞ）えたら&lt;br /&gt;
+貴方（あなた）で　一杯（いっぱい）&lt;br /&gt;
+帰（かえ）り道（みち）を　照（て）らしたのは&lt;br /&gt;
+思（おも）い出（で）の影法師（かげぼうし）&lt;/p&gt;
+
+&lt;p&gt;パプリカ　花（はな）が咲（さ）いたら&lt;br /&gt;
+晴（は）れた空（そら）に種（たね）を蒔（ま）こう&lt;br /&gt;
+ハレルヤ　夢（ゆめ）を描（えが）いたなら　&lt;br /&gt;
+心（こころ）遊（あそ）ばせ　貴方（あなた）に届（とど）け&lt;/p&gt;
+
+&lt;p&gt;会（あ）いに行（ゆ）くよ　並木（なみき）を抜（ぬ）けて&lt;br /&gt;
+歌（うた）を歌（うた）って&lt;br /&gt;
+手（て）には一杯（いっぱい）の花（はな）を抱（かか）えて&lt;br /&gt;
+らるらりら&lt;/p&gt;
+
+&lt;p&gt;会（あ）いに行（ゆ）くよ　並木（なみき）を抜（ぬ）けて&lt;br /&gt;
+歌（うた）を歌（うた）って&lt;br /&gt;
+手（て）には一杯（いっぱい）の花（はな）を抱（かか）えて&lt;br /&gt;
+らるらりら&lt;/p&gt;
+
+&lt;p&gt;パプリカ　花（はな）が咲（さ）いたら&lt;br /&gt;
+晴（は）れた空（そら）に種（たね）を蒔（ま）こう&lt;br /&gt;
+ハレルヤ　夢（ゆめ）を描（えが）いたなら　&lt;br /&gt;
+心（こころ）遊（あそ）ばせ　貴方（あなた）に届（とど）け&lt;br /&gt;
+踵（かかと）弾（はず）ませこの指（ゆび）とまれ&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

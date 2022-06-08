@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>眾類引 on 泛物齋</title>
-    <link>https://noroki.github.io/post/</link>
-    <description>Recent content in 眾類引 on 泛物齋</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 Feb 2022 21:29:01 +0800</lastBuildDate><atom:link href="https://noroki.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://noroki.github.io/p/about/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://noroki.github.io/p/about/</guid>
-      <description> A programmer, who is fond of linguistics.
-— Noroki
- </description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>眾類引 on 泛物齋</title>
+        <link>https://noroki.github.io/post/</link>
+        <description>Recent content in 眾類引 on 泛物齋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 23 Feb 2022 21:29:01 +0800</lastBuildDate><atom:link href="https://noroki.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://noroki.github.io/p/about/</link>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://noroki.github.io/p/about/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;A programmer, who is fond of linguistics.&lt;br /&gt;
+— &lt;cite&gt;Noroki&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
