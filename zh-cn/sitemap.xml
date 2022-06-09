@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://noroki.github.io/zh-cn/</loc>
-    <lastmod>2021-09-05T10:02:39+08:00</lastmod>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/zh-cn/categories/</loc>
-    <lastmod>2021-09-05T10:02:39+08:00</lastmod>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -68,21 +68,31 @@
                 href="https://noroki.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/zh-cn/categories/chn/</loc>
-    <lastmod>2021-09-05T10:02:39+08:00</lastmod>
+    <loc>https://noroki.github.io/zh-cn/categories/jpn/</loc>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="https://noroki.github.io/categories/chn/"
+                href="https://noroki.github.io/categories/jpn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/categories/jpn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://noroki.github.io/ko/categories/jpn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://noroki.github.io/zh-cn/categories/chn/"
+                href="https://noroki.github.io/zh-cn/categories/jpn/"
                 />
   </url><url>
     <loc>https://noroki.github.io/zh-cn/post/</loc>
-    <lastmod>2021-09-05T10:02:39+08:00</lastmod>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -115,7 +125,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/zh-cn/tags/</loc>
-    <lastmod>2021-09-05T10:02:39+08:00</lastmod>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -145,6 +155,55 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://noroki.github.io/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/zh-cn/p/ma-shuet/</loc>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/p/ma-shuet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/p/ma-shuet/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/zh-cn/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</loc>
+    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://noroki.github.io/ko/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/zh-cn/categories/chn/</loc>
+    <lastmod>2021-09-05T10:02:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/categories/chn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/categories/chn/"
                 />
   </url><url>
     <loc>https://noroki.github.io/zh-cn/tags/%E5%A2%9E%E5%B9%BF%E8%B4%A4%E6%96%87/</loc>
