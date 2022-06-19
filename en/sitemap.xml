@@ -129,6 +129,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/categories/linguistics/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="vn"
                 href="https://noroki.github.io/vn/categories/linguistics/"
                 />

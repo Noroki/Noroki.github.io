@@ -44,6 +44,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/categories/linguistics/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://noroki.github.io/en/categories/linguistics/"
                 />
