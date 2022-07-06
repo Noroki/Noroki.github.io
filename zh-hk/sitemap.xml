@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://noroki.github.io/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -35,21 +35,8 @@
                 href="https://noroki.github.io/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/tags/cantonese/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://noroki.github.io/zh-cn/tags/cantonese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://noroki.github.io/tags/cantonese/"
-                />
-  </url><url>
     <loc>https://noroki.github.io/categories/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -81,31 +68,67 @@
                 href="https://noroki.github.io/categories/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/categories/linguistics/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <loc>https://noroki.github.io/p/habit/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://noroki.github.io/zh-cn/categories/linguistics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://noroki.github.io/en/categories/linguistics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vn"
-                href="https://noroki.github.io/vn/categories/linguistics/"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/p/habit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="https://noroki.github.io/categories/linguistics/"
+                href="https://noroki.github.io/p/habit/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/categories/jpn/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/categories/jpn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/categories/jpn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://noroki.github.io/ko/categories/jpn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/categories/jpn/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/categories/lyric/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/categories/lyric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://noroki.github.io/ko/categories/lyric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/categories/lyric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/categories/lyric/"
                 />
   </url><url>
     <loc>https://noroki.github.io/tags/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -137,24 +160,52 @@
                 href="https://noroki.github.io/tags/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/p/han-jpn/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <loc>https://noroki.github.io/tags/%E3%81%8B%E3%81%97/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://noroki.github.io/zh-cn/p/han-jpn/"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/tags/%E3%81%8B%E3%81%97/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://noroki.github.io/ko/tags/%E3%81%8B%E3%81%97/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="https://noroki.github.io/p/han-jpn/"
+                href="https://noroki.github.io/tags/%E3%81%8B%E3%81%97/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/post/linguistics/chn/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <loc>https://noroki.github.io/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://noroki.github.io/ko/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/jpn/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/post/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -186,11 +237,8 @@
                 href="https://noroki.github.io/post/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/post/linguistics/chn/cantonese/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
-  </url><url>
     <loc>https://noroki.github.io/post/linguistics/</loc>
-    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -202,28 +250,60 @@
                 href="https://noroki.github.io/post/linguistics/"
                 />
   </url><url>
-    <loc>https://noroki.github.io/categories/jpn/</loc>
-    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
+    <loc>https://noroki.github.io/tags/cantonese/</loc>
+    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://noroki.github.io/zh-cn/categories/jpn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://noroki.github.io/ja/categories/jpn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://noroki.github.io/ko/categories/jpn/"
+                href="https://noroki.github.io/zh-cn/tags/cantonese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="https://noroki.github.io/categories/jpn/"
+                href="https://noroki.github.io/tags/cantonese/"
                 />
+  </url><url>
+    <loc>https://noroki.github.io/categories/linguistics/</loc>
+    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/categories/linguistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://noroki.github.io/en/categories/linguistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="https://noroki.github.io/vn/categories/linguistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/categories/linguistics/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/p/han-jpn/</loc>
+    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://noroki.github.io/zh-cn/p/han-jpn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/p/han-jpn/"
+                />
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/chn/</loc>
+    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
+  </url><url>
+    <loc>https://noroki.github.io/post/linguistics/chn/cantonese/</loc>
+    <lastmod>2022-06-18T17:30:36+08:00</lastmod>
   </url><url>
     <loc>https://noroki.github.io/p/ma-shuet/</loc>
     <lastmod>2022-06-09T16:36:39+08:00</lastmod>
@@ -236,55 +316,6 @@
                 rel="alternate"
                 hreflang="zh-hk"
                 href="https://noroki.github.io/p/ma-shuet/"
-                />
-  </url><url>
-    <loc>https://noroki.github.io/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</loc>
-    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://noroki.github.io/zh-cn/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://noroki.github.io/ja/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://noroki.github.io/ko/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://noroki.github.io/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/"
-                />
-  </url><url>
-    <loc>https://noroki.github.io/post/linguistics/jpn/</loc>
-    <lastmod>2022-06-09T16:36:39+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/categories/lyric/</loc>
-    <lastmod>2022-02-23T21:29:01+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://noroki.github.io/ja/categories/lyric/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://noroki.github.io/ko/categories/lyric/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vn"
-                href="https://noroki.github.io/vn/categories/lyric/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://noroki.github.io/categories/lyric/"
                 />
   </url><url>
     <loc>https://noroki.github.io/p/mama-boy/</loc>
@@ -331,24 +362,6 @@
   </url><url>
     <loc>https://noroki.github.io/p/%E8%A5%BF%E9%87%8C%E7%88%BE%E5%AD%97%E6%AF%8D/</loc>
     <lastmod>2022-02-14T09:33:59+08:00</lastmod>
-  </url><url>
-    <loc>https://noroki.github.io/tags/%E3%81%8B%E3%81%97/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://noroki.github.io/ja/tags/%E3%81%8B%E3%81%97/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://noroki.github.io/ko/tags/%E3%81%8B%E3%81%97/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://noroki.github.io/tags/%E3%81%8B%E3%81%97/"
-                />
   </url><url>
     <loc>https://noroki.github.io/p/%E9%A3%9F%E8%99%AB%E6%A4%8D%E7%89%A9/</loc>
     <lastmod>2022-02-13T23:59:59+08:00</lastmod>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://noroki.github.io/ja/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -36,7 +36,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/ja/categories/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -68,8 +68,21 @@
                 href="https://noroki.github.io/ja/categories/"
                 />
   </url><url>
+    <loc>https://noroki.github.io/ja/p/habit/</loc>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://noroki.github.io/p/habit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://noroki.github.io/ja/p/habit/"
+                />
+  </url><url>
     <loc>https://noroki.github.io/ja/categories/jpn/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -92,7 +105,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/ja/categories/lyric/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -115,7 +128,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/ja/post/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -148,7 +161,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/ja/tags/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -181,7 +194,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/ja/tags/%E3%81%8B%E3%81%97/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
@@ -199,7 +212,7 @@
                 />
   </url><url>
     <loc>https://noroki.github.io/ja/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</loc>
-    <lastmod>2022-02-13T23:59:59+08:00</lastmod>
+    <lastmod>2022-07-06T20:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
