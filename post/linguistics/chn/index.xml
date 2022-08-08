@@ -3098,9 +3098,9 @@ un -&amp;gt; uen&lt;br /&gt;&lt;/li&gt;
 
 &lt;h2 id=&#34;音節列表-1&#34;&gt;音節列表&lt;/h2&gt;
 
-&lt;p&gt;黃色方格爲受影響之音節&lt;/p&gt;
+&lt;p&gt;黃色方格爲受還原方案影響之音節&lt;/p&gt;
 
-&lt;p&gt;色方格爲受影響之音節&lt;/p&gt;
+&lt;p&gt;藍色方格爲受音值方案影響之音節&lt;/p&gt;
 
 &lt;div style=&#34;overflow-x: auto;&#34;&gt;
     &lt;table class=&#34;wikitable&#34; style=&#34;text-align: center; vertical-align: middle; font-size: 90%; line-height: 1.2;&#34;&gt;
@@ -9299,6 +9299,8 @@ un -&amp;gt; uen&lt;br /&gt;&lt;/li&gt;
 &lt;/section&gt;
 
 &lt;h3 id=&#34;韻母&#34;&gt;韻母&lt;/h3&gt;
+
+&lt;p&gt;紅色方格爲與漢語拼音方案相異之音節&lt;/p&gt;
 
 &lt;section class=&#34;mf-section-3 collapsible-block open-block&#34; id=&#34;content-collapsible-block-2&#34;&gt;
     &lt;table border=&#34;1&#34; style=&#34;border-collapse: collapse&#34;&gt;
